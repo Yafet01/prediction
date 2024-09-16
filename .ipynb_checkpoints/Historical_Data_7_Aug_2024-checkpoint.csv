@@ -1,0 +1,230 @@
+﻿Patient Name,Medicine,Disease,Variety,Quantity(Packets),Date,Season
+Homas Mata,Omeprazole,Pain,future,6,1/1/2023,Dry
+Megan Ortega,Paracetamol,Diabetes,painting,1,1/1/2023,Dry
+Melissa Pham,Metformin,Pain,value,30,1/1/2023,Dry
+Courtney Richardson,Metformin,Diabetes,policy,25,1/1/2023,Dry
+Elizabeth Nicholson,Hydroxychloroquine,Malaria,knowledge,2,1/1/2023,Dry
+Thomas Kato,Paracetamol,Fever,Influenza,2,1/5/2023,Dry
+Sarah Nakato,Amoxicillin,Infection,Bacterial,12,1/7/2023,Dry
+Michael Okello,Ibuprofen,Pain,Migraine,8,1/10/2023,Dry
+David Mugisha,Ciprofloxacin,Infection,Bacterial,10,1/12/2023,Dry
+Elizabeth Namaganda,Metformin,Diabetes,Type 2,15,1/15/2023,Dry
+John Kyambadde,Amlodipine,Hypertension,Chronic,3,1/18/2023,Dry
+Grace Kintu,Omeprazole,Acidity,GERD,22,1/20/2023,Dry
+Robert Semanda,Simvastatin,Cholesterol,High,18,1/23/2023,Dry
+Anna Nabukenya,Hydroxychloroquine,Malaria,Acute,25,1/25/2023,Dry
+James Katende,Cetirizine,Allergy,Seasonal,7,1/28/2023,Dry
+Josephine Mukasa,Paracetamol,Fever,Common Cold,3,1/30/2023,Dry
+Kevin Mutebi,Amoxicillin,Infection,Viral,13,1/31/2023,Dry
+Harriet Namuli,Ibuprofen,Pain,Headache,11,2/2/2023,Wet
+Andrew Kagimu,Ciprofloxacin,Infection,Urinary,10,2/5/2023,Wet
+Doreen Muwonge,Metformin,Diabetes,Type 1,14,2/8/2023,Wet
+Irene Nantongo,Amlodipine,Hypertension,Essential,21,2/10/2023,Wet
+Peter Lukwago,Omeprazole,Acidity,Ulcer,23,2/13/2023,Wet
+Rachel Busingye,Simvastatin,Cholesterol,Familial,16,2/15/2023,Wet
+Steven Tumusiime,Hydroxychloroquine,Malaria,Complicated,24,2/18/2023,Wet
+Janet Nakabugo,Cetirizine,Allergy,Food,6,2/20/2023,Wet
+Paul Lwanga,Paracetamol,Fever,Influenza,5,2/23/2023,Wet
+Mary Kalungi,Amoxicillin,Infection,Bacterial,12,2/25/2023,Wet
+Tony Kamya,Ibuprofen,Pain,Migraine,10,2/28/2023,Wet
+Brenda Nansubuga,Ciprofloxacin,Infection,Respiratory,9,3/3/2023,Wet
+Fred Nsubuga,Metformin,Diabetes,Type 2,13,3/5/2023,Wet
+Angela Nakato,Amlodipine,Hypertension,Secondary,19,3/8/2023,Wet
+Simon Kato,Omeprazole,Acidity,GERD,22,3/10/2023,Wet
+Viola Nabirye,Simvastatin,Cholesterol,High,18,3/13/2023,Wet
+Henry Nsubuga,Hydroxychloroquine,Malaria,Chronic,20,3/15/2023,Wet
+Stella Nabukalu,Cetirizine,Allergy,Seasonal,7,3/18/2023,Wet
+Martin Kintu,Paracetamol,Fever,Common Cold,8,3/20/2023,Wet
+Lucy Namwanje,Amoxicillin,Infection,Viral,14,3/23/2023,Wet
+Edwin Kasirye,Ibuprofen,Pain,Headache,12,3/25/2023,Wet
+Agnes Nakazzi,Ciprofloxacin,Infection,Urinary,11,3/28/2023,Wet
+Sam Kamya,Metformin,Diabetes,Type 1,15,3/30/2023,Wet
+Susan Namugenyi,Amlodipine,Hypertension,Essential,20,4/2/2023,Dry
+Brian Kakooza,Omeprazole,Acidity,Ulcer,24,4/5/2023,Dry
+Irene Namakula,Simvastatin,Cholesterol,Familial,19,4/7/2023,Dry
+Mark Kato,Hydroxychloroquine,Malaria,Complicated,21,4/10/2023,Dry
+Alice Nakatudde,Cetirizine,Allergy,Food,9,4/12/2023,Dry
+Julius Kiggundu,Paracetamol,Fever,Influenza,7,4/15/2023,Dry
+Nancy Namirembe,Amoxicillin,Infection,Bacterial,11,4/18/2023,Dry
+Michael Mukasa,Ibuprofen,Pain,Migraine,10,4/20/2023,Dry
+Diana Nakazzi,Ciprofloxacin,Infection,Respiratory,12,4/23/2023,Dry
+George Kalungi,Metformin,Diabetes,Type 2,16,4/25/2023,Dry
+Rebecca Namubiru,Amlodipine,Hypertension,Secondary,18,4/28/2023,Dry
+Paul Katumba,Omeprazole,Acidity,GERD,21,5/1/2023,Dry
+Rose Nambogo,Simvastatin,Cholesterol,High,22,5/3/2023,Dry
+Chris Ssekitto,Hydroxychloroquine,Malaria,Chronic,23,5/6/2023,Dry
+Jane Nakitende,Cetirizine,Allergy,Seasonal,10,5/8/2023,Dry
+Martin Mugwanya,Paracetamol,Fever,Common Cold,9,5/10/2023,Dry
+Alice Nanyonjo,Amoxicillin,Infection,Viral,15,5/13/2023,Dry
+Andrew Namuli,Ibuprofen,Pain,Headache,11,5/15/2023,Dry
+Thomas Mutebi,Ciprofloxacin,Infection,Urinary,13,5/18/2023,Dry
+Grace Nambiru,Metformin,Diabetes,Type 1,17,5/20/2023,Dry
+David Kato,Amlodipine,Hypertension,Essential,22,5/23/2023,Dry
+Susan Namulondo,Omeprazole,Acidity,Ulcer,19,5/25/2023,Dry
+Paul Ssewagaba,Simvastatin,Cholesterol,Familial,18,5/28/2023,Dry
+Helen Katongole,Hydroxychloroquine,Malaria,Complicated,21,5/30/2023,Dry
+Brenda Namakula,Paracetamol,Fever,Common Cold,8,6/2/2023,Dry
+Josephine Mukasa,Amoxicillin,Infection,Bacterial,12,6/4/2023,Dry
+Edward Tumusiime,Ibuprofen,Pain,Headache,10,6/7/2023,Dry
+Ronald Kyambadde,Ciprofloxacin,Infection,Respiratory,9,6/9/2023,Dry
+Grace Kintu,Metformin,Diabetes,Type 2,13,6/11/2023,Dry
+Robert Semanda,Amlodipine,Hypertension,Chronic,18,6/14/2023,Dry
+Anna Nabukenya,Omeprazole,Acidity,GERD,22,6/16/2023,Dry
+James Katende,Simvastatin,Cholesterol,High,19,6/19/2023,Dry
+Josephine Kagaba,Hydroxychloroquine,Malaria,Acute,20,6/21/2023,Dry
+James Katamba,Cetirizine,Allergy,Seasonal,7,6/23/2023,Dry
+Paul Kalungi,Paracetamol,Fever,Influenza,6,6/26/2023,Dry
+Mary Kato,Amoxicillin,Infection,Bacterial,14,6/28/2023,Dry
+Tony Kamya,Ibuprofen,Pain,Migraine,12,6/30/2023,Dry
+Brenda Nansubuga,Ciprofloxacin,Infection,Urinary,11,7/2/2023,Wet
+Fred Nsubuga,Metformin,Diabetes,Type 1,15,7/4/2023,Wet
+Angela Nakato,Amlodipine,Hypertension,Secondary,19,7/6/2023,Wet
+Simon Kato,Omeprazole,Acidity,GERD,22,7/8/2023,Wet
+Viola Nabirye,Simvastatin,Cholesterol,High,18,7/11/2023,Wet
+Henry Nsubuga,Hydroxychloroquine,Malaria,Chronic,20,7/13/2023,Wet
+Stella Nabukalu,Cetirizine,Allergy,Seasonal,7,7/15/2023,Wet
+Martin Kintu,Paracetamol,Fever,Common Cold,8,7/17/2023,Wet
+Lucy Namwanje,Amoxicillin,Infection,Viral,14,7/19/2023,Wet
+Edwin Kasirye,Ibuprofen,Pain,Headache,12,7/21/2023,Wet
+Agnes Nakazzi,Ciprofloxacin,Infection,Urinary,11,7/23/2023,Wet
+Sam Kamya,Metformin,Diabetes,Type 1,15,7/25/2023,Wet
+Susan Namugenyi,Amlodipine,Hypertension,Essential,20,7/27/2023,Wet
+Brian Kakooza,Omeprazole,Acidity,Ulcer,24,7/29/2023,Wet
+Irene Namakula,Simvastatin,Cholesterol,Familial,19,7/31/2023,Wet
+Mark Kato,Hydroxychloroquine,Malaria,Complicated,21,8/2/2023,Wet
+Alice Nakatudde,Cetirizine,Allergy,Food,9,8/4/2023,Wet
+Julius Kiggundu,Paracetamol,Fever,Influenza,7,8/6/2023,Wet
+Nancy Namirembe,Amoxicillin,Infection,Bacterial,11,8/8/2023,Wet
+Michael Mukasa,Ibuprofen,Pain,Migraine,10,8/10/2023,Wet
+Diana Nakazzi,Ciprofloxacin,Infection,Respiratory,12,8/12/2023,Wet
+George Kalungi,Metformin,Diabetes,Type 2,16,8/14/2023,Wet
+Rebecca Namubiru,Amlodipine,Hypertension,Secondary,18,8/16/2023,Wet
+Paul Katumba,Omeprazole,Acidity,GERD,21,8/18/2023,Wet
+Rose Nambogo,Simvastatin,Cholesterol,High,22,8/20/2023,Wet
+Chris Ssekitto,Hydroxychloroquine,Malaria,Chronic,23,8/22/2023,Wet
+Jane Nakitende,Cetirizine,Allergy,Seasonal,10,8/24/2023,Wet
+Martin Mugwanya,Paracetamol,Fever,Common Cold,9,8/26/2023,Wet
+Alice Nanyonjo,Amoxicillin,Infection,Viral,15,8/28/2023,Wet
+Andrew Namuli,Ibuprofen,Pain,Headache,11,8/30/2023,Wet
+Thomas Mutebi,Ciprofloxacin,Infection,Urinary,13,9/1/2023,Dry
+Grace Nambiru,Metformin,Diabetes,Type 1,17,9/3/2023,Dry
+David Kato,Amlodipine,Hypertension,Essential,22,9/5/2023,Dry
+Susan Namulondo,Omeprazole,Acidity,Ulcer,19,9/7/2023,Dry
+Paul Ssewagaba,Simvastatin,Cholesterol,Familial,18,9/9/2023,Dry
+Helen Katongole,Hydroxychloroquine,Malaria,Complicated,21,9/11/2023,Dry
+Brenda Namakula,Paracetamol,Fever,Common Cold,8,9/13/2023,Dry
+Josephine Mukasa,Amoxicillin,Infection,Bacterial,12,9/15/2023,Dry
+Edward Tumusiime,Ibuprofen,Pain,Headache,10,9/17/2023,Dry
+Ronald Kyambadde,Ciprofloxacin,Infection,Respiratory,9,9/19/2023,Dry
+Grace Kintu,Metformin,Diabetes,Type 2,13,9/21/2023,Dry
+Robert Semanda,Amlodipine,Hypertension,Chronic,18,9/23/2023,Dry
+Anna Nabukenya,Omeprazole,Acidity,GERD,22,9/25/2023,Dry
+James Katende,Simvastatin,Cholesterol,High,19,9/27/2023,Dry
+Josephine Kagaba,Hydroxychloroquine,Malaria,Acute,20,9/29/2023,Dry
+James Katamba,Cetirizine,Allergy,Seasonal,7,10/1/2023,Wet
+Paul Kalungi,Paracetamol,Fever,Influenza,6,10/3/2023,Wet
+Mary Kato,Amoxicillin,Infection,Bacterial,14,10/5/2023,Wet
+Tony Kamya,Ibuprofen,Pain,Migraine,12,10/7/2023,Wet
+Brenda Nansubuga,Ciprofloxacin,Infection,Urinary,11,10/9/2023,Wet
+Fred Nsubuga,Metformin,Diabetes,Type 1,15,10/11/2023,Wet
+Angela Nakato,Amlodipine,Hypertension,Secondary,19,10/13/2023,Wet
+Simon Kato,Omeprazole,Acidity,GERD,22,10/15/2023,Wet
+Viola Nabirye,Simvastatin,Cholesterol,High,18,10/17/2023,Wet
+Henry Nsubuga,Hydroxychloroquine,Malaria,Chronic,20,10/19/2023,Wet
+Stella Nabukalu,Cetirizine,Allergy,Seasonal,7,10/21/2023,Wet
+Martin Kintu,Paracetamol,Fever,Common Cold,8,10/23/2023,Wet
+Lucy Namwanje,Amoxicillin,Infection,Viral,14,10/25/2023,Wet
+Edwin Kasirye,Ibuprofen,Pain,Headache,12,10/27/2023,Wet
+Agnes Nakazzi,Ciprofloxacin,Infection,Urinary,11,10/29/2023,Wet
+Sam Kamya,Metformin,Diabetes,Type 1,15,11/1/2023,Wet
+Susan Namugenyi,Amlodipine,Hypertension,Essential,20,11/3/2023,Wet
+Brian Kakooza,Omeprazole,Acidity,Ulcer,24,11/5/2023,Wet
+Irene Namakula,Simvastatin,Cholesterol,Familial,19,11/7/2023,Wet
+Mark Kato,Hydroxychloroquine,Malaria,Complicated,21,11/9/2023,Wet
+Alice Nakatudde,Cetirizine,Allergy,Food,9,11/11/2023,Wet
+Julius Kiggundu,Paracetamol,Fever,Influenza,7,11/13/2023,Wet
+Nancy Namirembe,Amoxicillin,Infection,Bacterial,11,11/15/2023,Wet
+Michael Mukasa,Ibuprofen,Pain,Migraine,10,11/17/2023,Wet
+Diana Nakazzi,Ciprofloxacin,Infection,Respiratory,12,11/19/2023,Wet
+George Kalungi,Metformin,Diabetes,Type 2,16,11/21/2023,Wet
+Rebecca Namubiru,Amlodipine,Hypertension,Secondary,18,11/23/2023,Wet
+Paul Katumba,Omeprazole,Acidity,GERD,21,11/25/2023,Wet
+Rose Nambogo,Simvastatin,Cholesterol,High,22,11/27/2023,Wet
+Chris Ssekitto,Hydroxychloroquine,Malaria,Chronic,23,11/29/2023,Wet
+Jane Nakitende,Cetirizine,Allergy,Seasonal,10,12/1/2023,Wet
+Martin Mugwanya,Paracetamol,Fever,Common Cold,9,12/3/2023,Wet
+Alice Nanyonjo,Amoxicillin,Infection,Viral,15,12/5/2023,Wet
+Andrew Namuli,Ibuprofen,Pain,Headache,11,12/7/2023,Wet
+Thomas Mutebi,Ciprofloxacin,Infection,Urinary,13,12/9/2023,Wet
+Grace Nambiru,Metformin,Diabetes,Type 1,17,12/11/2023,Wet
+David Kato,Amlodipine,Hypertension,Essential,22,12/13/2023,Wet
+Susan Namulondo,Omeprazole,Acidity,Ulcer,19,12/15/2023,Wet
+Paul Ssewagaba,Simvastatin,Cholesterol,Familial,18,12/17/2023,Wet
+Helen Katongole,Hydroxychloroquine,Malaria,Complicated,21,12/19/2023,Wet
+Brenda Namakula,Paracetamol,Fever,Common Cold,8,12/21/2023,Wet
+Josephine Mukasa,Amoxicillin,Infection,Bacterial,12,12/23/2023,Wet
+Edward Tumusiime,Ibuprofen,Pain,Headache,10,12/25/2023,Wet
+Ronald Kyambadde,Ciprofloxacin,Infection,Respiratory,9,12/27/2023,Wet
+Grace Kintu,Metformin,Diabetes,Type 2,13,12/29/2023,Wet
+Robert Semanda,Amlodipine,Hypertension,Chronic,18,12/31/2023,Wet
+Anna Nabukenya,Omeprazole,Acidity,GERD,22,1/2/2024,Dry
+James Katende,Simvastatin,Cholesterol,High,19,1/4/2024,Dry
+Josephine Kagaba,Hydroxychloroquine,Malaria,Acute,20,1/6/2024,Dry
+James Katamba,Cetirizine,Allergy,Seasonal,7,1/8/2024,Dry
+Paul Kalungi,Paracetamol,Fever,Influenza,1,1/10/2024,Dry
+Mary Kato,Amoxicillin,Infection,Bacterial,14,1/12/2024,Dry
+Tony Kamya,Ibuprofen,Pain,Migraine,12,1/14/2024,Dry
+Brenda Nansubuga,Ciprofloxacin,Infection,Urinary,11,1/16/2024,Dry
+Fred Nsubuga,Metformin,Diabetes,Type 1,15,1/18/2024,Dry
+Angela Nakato,Amlodipine,Hypertension,Secondary,1,1/20/2024,Dry
+Simon Kato,Omeprazole,Acidity,GERD,22,1/22/2024,Dry
+Viola Nabirye,Simvastatin,Cholesterol,High,18,1/24/2024,Dry
+Henry Nsubuga,Hydroxychloroquine,Malaria,Chronic,20,1/26/2024,Dry
+Stella Nabukalu,Cetirizine,Allergy,Seasonal,7,1/28/2024,Dry
+Martin Kintu,Paracetamol,Fever,Common Cold,2,1/30/2024,Dry
+Lucy Namwanje,Amoxicillin,Infection,Viral,14,2/1/2024,Dry
+Edwin Kasirye,Ibuprofen,Pain,Headache,12,2/3/2024,Dry
+Agnes Nakazzi,Ciprofloxacin,Infection,Urinary,11,2/5/2024,Dry
+Sam Kamya,Metformin,Diabetes,Type 1,15,2/7/2024,Dry
+Susan Namugenyi,Amlodipine,Hypertension,Essential,20,2/9/2024,Dry
+Brian Kakooza,Omeprazole,Acidity,Ulcer,24,2/11/2024,Dry
+Irene Namakula,Simvastatin,Cholesterol,Familial,19,2/13/2024,Dry
+Mark Kato,Hydroxychloroquine,Malaria,Complicated,21,2/15/2024,Dry
+Alice Nakatudde,Cetirizine,Allergy,Food,9,2/17/2024,Dry
+Julius Kiggundu,Paracetamol,Fever,Influenza,7,2/19/2024,Dry
+Nancy Namirembe,Amoxicillin,Infection,Bacterial,11,2/21/2024,Dry
+Michael Mukasa,Ibuprofen,Pain,Migraine,10,2/23/2024,Dry
+Diana Nakazzi,Ciprofloxacin,Infection,Respiratory,12,2/25/2024,Dry
+George Kalungi,Metformin,Diabetes,Type 2,16,2/27/2024,Dry
+Rebecca Namubiru,Amlodipine,Hypertension,Secondary,18,2/29/2024,Dry
+Paul Katumba,Omeprazole,Acidity,GERD,21,3/2/2024,Wet
+Rose Nambogo,Simvastatin,Cholesterol,High,22,3/4/2024,Wet
+Chris Ssekitto,Hydroxychloroquine,Malaria,Chronic,23,3/6/2024,Wet
+Jane Nakitende,Cetirizine,Allergy,Seasonal,10,3/8/2024,Wet
+Martin Mugwanya,Paracetamol,Fever,Common Cold,9,3/10/2024,Wet
+Alice Nanyonjo,Amoxicillin,Infection,Viral,15,3/12/2024,Wet
+Andrew Namuli,Ibuprofen,Pain,Headache,11,3/14/2024,Wet
+Thomas Mutebi,Ciprofloxacin,Infection,Urinary,13,3/16/2024,Wet
+Grace Nambiru,Metformin,Diabetes,Type 1,17,3/18/2024,Wet
+David Kato,Amlodipine,Hypertension,Essential,22,3/20/2024,Wet
+Susan Namulondo,Omeprazole,Acidity,Ulcer,19,3/22/2024,Wet
+Paul Ssewagaba,Simvastatin,Cholesterol,Familial,18,3/24/2024,Wet
+Helen Katongole,Hydroxychloroquine,Malaria,Complicated,21,3/26/2024,Wet
+Brenda Namakula,Paracetamol,Fever,Common Cold,8,3/28/2024,Wet
+Josephine Mukasa,Amoxicillin,Infection,Bacterial,12,3/30/2024,Wet
+Edward Tumusiime,Ibuprofen,Pain,Headache,10,4/1/2024,Wet
+Ronald Kyambadde,Ciprofloxacin,Infection,Respiratory,9,4/3/2024,Wet
+Grace Kintu,Metformin,Diabetes,Type 2,13,4/5/2024,Wet
+Robert Semanda,Amlodipine,Hypertension,Chronic,18,4/7/2024,Wet
+Anna Nabukenya,Omeprazole,Acidity,GERD,22,4/9/2024,Wet
+James Katende,Simvastatin,Cholesterol,High,19,4/11/2024,Wet
+Josephine Kagaba,Hydroxychloroquine,Malaria,Acute,20,4/13/2024,Wet
+James Katamba,Cetirizine,Allergy,Seasonal,7,4/15/2024,Wet
+Paul Kalungi,Paracetamol,Fever,Influenza,6,4/17/2024,Wet
+Mary Kato,Amoxicillin,Infection,Bacterial,14,4/19/2024,Wet
+Tony Kamya,Ibuprofen,Pain,Migraine,12,4/21/2024,Wet
+Brenda Nansubuga,Ciprofloxacin,Infection,Urinary,11,4/23/2024,Wet
+Fred Nsubuga,Metformin,Diabetes,Type 1,15,4/25/2024,Wet
+Angela Nakato,Amlodipine,Hypertension,Secondary,19,4/27/2024,Wet
+Simon Kato,Omeprazole,Acidity,GERD,22,4/29/2024,Wet
+Viola Nabirye,Simvastatin,Cholesterol,High,18,4/30/2024,Wet

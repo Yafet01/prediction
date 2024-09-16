@@ -1,0 +1,2249 @@
+﻿Patient Name,Medicine,Disease,Variety,Quantity(Packets),Date,Season
+Aiden Nsubuga,Paracetamol,Fever,Influenza,6,1/8/2021,Dry
+Akello Odongo,Amoxicillin,Infection,Bacterial,10,1/16/2021,Dry
+Brian Akena,Ibuprofen,Pain,Migraine,1,1/7/2021,Dry
+Chantal Kato,Metformin,Diabetes,Type 2,4,1/7/2021,Dry
+David Tumusiime,Amlodipine,Hypertension,Chronic,4,1/26/2021,Dry
+Diana Kibirige,Paracetamol,Fever,Influenza,4,1/13/2021,Dry
+Elijah Waiswa,Amoxicillin,Infection,Bacterial,8,1/17/2021,Dry
+Esther Nakayiza,Ibuprofen,Pain,Migraine,10,1/20/2021,Dry
+Frank Kamugisha,Metformin,Diabetes,Type 2,9,1/3/2021,Dry
+Grace Namatovu,Amlodipine,Hypertension,Essential,5,1/15/2021,Dry
+Henry Tumwesigye,Paracetamol,Fever,Influenza,7,1/2/2021,Dry
+Irene Ochen,Amoxicillin,Infection,Bacterial,2,1/21/2021,Dry
+James Mwesigye,Ibuprofen,Pain,Migraine,5,1/2/2021,Dry
+Joy Kanyike,Metformin,Diabetes,Type 2,8,1/4/2021,Dry
+Kevin Kasozi,Amlodipine,Hypertension,Essential,9,1/12/2021,Dry
+Linda Mulindwa,Paracetamol,Fever,Influenza,10,1/10/2021,Dry
+Michael Ssemwogerere,Amoxicillin,Infection,Bacterial,4,1/1/2021,Dry
+Mary Nalubega,Ibuprofen,Pain,Migraine,10,1/2/2021,Dry
+Noah Mukiibi,Metformin,Diabetes,Type 2,4,1/24/2021,Dry
+Patricia Achieng,Amlodipine,Hypertension,Essential,4,1/26/2021,Dry
+Paul Nakirya,Paracetamol,Fever,Influenza,2,1/1/2021,Dry
+Rebecca Apio,Amoxicillin,Infection,Bacterial,7,1/6/2021,Dry
+Robert Musinguzi,Ibuprofen,Pain,Migraine,9,1/18/2021,Dry
+Sarah Nandawula,Metformin,Diabetes,Type 2,8,1/18/2021,Dry
+Stephen Owor,Amlodipine,Hypertension,Chronic,8,1/30/2021,Dry
+Amani Kintu,Paracetamol,Fever,Influenza,7,1/30/2021,Dry
+Betty Mugisha,Amoxicillin,Infection,Bacterial,7,1/10/2021,Dry
+Charles Nsubuga,Ibuprofen,Pain,Migraine,3,1/24/2021,Dry
+Doreen Nabirye,Metformin,Diabetes,Type 2,8,1/10/2021,Dry
+Edward Mulindwa,Amlodipine,Hypertension,Essential,7,1/13/2021,Dry
+Fiona Nanyonga,Paracetamol,Fever,Influenza,5,1/14/2021,Dry
+George Ssemwanga,Amoxicillin,Infection,Bacterial,2,1/18/2021,Dry
+Hannah Okwakol,Ibuprofen,Pain,Migraine,1,1/3/2021,Dry
+Ivan Odongkara,Metformin,Diabetes,Type 2,10,1/20/2021,Dry
+Jackie Mwesigwa,Amlodipine,Hypertension,Essential,3,1/22/2021,Dry
+Julius Bukenya,Paracetamol,Fever,Influenza,9,1/17/2021,Dry
+Katherine Kakembo,Amoxicillin,Infection,Bacterial,5,1/30/2021,Dry
+Lawrence Kyaligonza,Ibuprofen,Pain,Migraine,6,1/22/2021,Dry
+Margaret Nakalembe,Metformin,Diabetes,Type 2,8,1/14/2021,Dry
+Martin Kasozi,Amlodipine,Hypertension,Essential,2,1/24/2021,Dry
+Naomi Nampiima,Paracetamol,Fever,Influenza,1,1/20/2021,Dry
+Omar Mwebaze,Amoxicillin,Infection,Bacterial,3,1/10/2021,Dry
+Pauline Nakato,Ibuprofen,Pain,Migraine,6,1/21/2021,Dry
+Richard Otim,Metformin,Diabetes,Type 2,7,1/7/2021,Dry
+Sophie Sserunjogi,Amlodipine,Hypertension,Chronic,5,1/26/2021,Dry
+Timothy Tumusiime,Paracetamol,Fever,Influenza,7,1/23/2021,Dry
+Vivian Atim,Amoxicillin,Infection,Bacterial,1,1/4/2021,Dry
+Willy Kaggwa,Ibuprofen,Pain,Migraine,2,1/20/2021,Dry
+Yvonne Namukwaya,Metformin,Diabetes,Type 2,4,1/17/2021,Dry
+Alice Nakabugo,Amlodipine,Hypertension,Essential,10,1/6/2021,Dry
+Benard Kintu,Paracetamol,Fever,Influenza,9,1/30/2021,Dry
+Clara Tenywa,Amoxicillin,Infection,Bacterial,4,1/7/2021,Dry
+Denis Lule,Ibuprofen,Pain,Migraine,10,1/26/2021,Dry
+Evelyn Namagembe,Metformin,Diabetes,Type 2,9,1/27/2021,Dry
+Frederick Kizito,Amlodipine,Hypertension,Essential,4,1/19/2021,Dry
+Gladys Nakatudde,Paracetamol,Fever,Influenza,5,1/12/2021,Dry
+Henry Katumba,Amoxicillin,Infection,Bacterial,10,1/1/2021,Dry
+Imelda Nakalema,Ibuprofen,Pain,Migraine,2,1/12/2021,Dry
+Jackson Kato,Metformin,Diabetes,Type 2,1,1/12/2021,Dry
+Joan Namanya,Amlodipine,Hypertension,Secondary,4,1/2/2021,Dry
+Kenneth Bukenya,Paracetamol,Fever,Influenza,2,1/20/2021,Dry
+Lillian Ninsiima,Amoxicillin,Infection,Bacterial,3,1/27/2021,Dry
+Moses Kamulegeya,Ibuprofen,Pain,Migraine,10,1/21/2021,Dry
+Nadia Nsubuga,Metformin,Diabetes,Type 2,3,1/9/2021,Dry
+Oscar Namuyanja,Amlodipine,Hypertension,Secondary,2,1/30/2021,Dry
+Pius Nakalema,Paracetamol,Fever,Influenza,3,1/30/2021,Dry
+Quincy Mugisha,Amoxicillin,Infection,Bacterial,7,1/26/2021,Dry
+Rebecca Nansubuga,Ibuprofen,Pain,Migraine,3,1/11/2021,Dry
+Samuel Tumusiime,Metformin,Diabetes,Type 2,8,1/9/2021,Dry
+Tracy Kasozi,Amlodipine,Hypertension,Secondary,1,1/24/2021,Dry
+Umaru Ssekitoleko,Paracetamol,Fever,Influenza,5,1/11/2021,Dry
+Vera Nakayi,Amoxicillin,Infection,Bacterial,5,1/7/2021,Dry
+William Okello,Ibuprofen,Pain,Migraine,2,1/9/2021,Dry
+Zaina Nsubuga,Metformin,Diabetes,Type 2,5,1/12/2021,Dry
+Alicia Kyaligonza,Amlodipine,Hypertension,Secondary,6,1/15/2021,Dry
+Benson Otim,Paracetamol,Fever,Influenza,6,1/21/2021,Dry
+Catherine Nakayiza,Amoxicillin,Infection,Bacterial,10,1/13/2021,Dry
+Daniel Kamugisha,Ibuprofen,Pain,Migraine,2,1/2/2021,Dry
+Esther Sserunjogi,Metformin,Diabetes,Type 2,4,1/11/2021,Dry
+Felix Nambale,Amlodipine,Hypertension,Secondary,6,1/14/2021,Dry
+Grace Nakibinge,Paracetamol,Fever,Influenza,5,1/30/2021,Dry
+Hassan Mwesigwa,Amoxicillin,Infection,Bacterial,3,1/6/2021,Dry
+Irene Nankya,Ibuprofen,Pain,Migraine,3,1/29/2021,Dry
+James Tumusiime,Metformin,Diabetes,Type 2,4,1/3/2021,Dry
+Joanita Nakibuuka,Amlodipine,Hypertension,Secondary,4,1/30/2021,Dry
+Kato Ssenyonga,Paracetamol,Fever,Influenza,5,1/25/2021,Dry
+Lydia Nansubuga,Amoxicillin,Infection,Bacterial,7,1/26/2021,Dry
+Martha Kayanja,Ibuprofen,Pain,Migraine,3,1/13/2021,Dry
+Noel Otim,Metformin,Diabetes,Type 2,9,1/21/2021,Dry
+Patricia Namuyanja,Amlodipine,Hypertension,Secondary,2,1/5/2021,Dry
+Richard Kizito,Paracetamol,Fever,Influenza,9,1/27/2021,Dry
+Sylvia Nsubuga,Amoxicillin,Infection,Bacterial,9,1/2/2021,Dry
+Thomas Nakirya,Ibuprofen,Pain,Migraine,5,1/4/2021,Dry
+Victoria Ninsiima,Metformin,Diabetes,Type 2,4,1/4/2021,Dry
+Wilfred Kizito,Amlodipine,Hypertension,Secondary,3,1/10/2021,Dry
+Alice Namutebi,Paracetamol,Fever,Influenza,6,1/18/2021,Dry
+Bright Kasozi,Amoxicillin,Infection,Bacterial,1,1/24/2021,Dry
+Dorothy Namatovu,Ibuprofen,Pain,Migraine,7,1/3/2021,Dry
+Edward Sserunjogi,Metformin,Diabetes,Type 2,8,1/3/2021,Dry
+Florence Nakayiza,Amlodipine,Hypertension,Secondary,1,1/4/2021,Dry
+Gabriel Kamugisha,Paracetamol,Fever,Influenza,8,1/5/2021,Dry
+Janet Nakalema,Amoxicillin,Infection,Bacterial,2,1/19/2021,Dry
+Kevin Lule,Ibuprofen,Pain,Migraine,2,1/3/2021,Dry
+Lydia Namatovu,Metformin,Diabetes,Type 2,2,1/3/2021,Dry
+Moses Kanyike,Amlodipine,Hypertension,Secondary,4,1/20/2021,Dry
+Nancy Nakabugo,Paracetamol,Fever,Influenza,5,1/26/2021,Dry
+Oscar Namukwaya,Amoxicillin,Infection,Bacterial,8,1/17/2021,Dry
+Peter Mugisha,Ibuprofen,Pain,Migraine,8,1/17/2021,Dry
+Ruth Nansubuga,Metformin,Diabetes,Type 2,3,1/5/2021,Dry
+Simon Sserunjogi,Amlodipine,Hypertension,Secondary,10,1/16/2021,Dry
+Tina Nakalema,Paracetamol,Fever,Influenza,6,1/19/2021,Dry
+Vincent Kamulegeya,Amoxicillin,Infection,Bacterial,6,1/12/2021,Dry
+Winnie Nakalema,Ibuprofen,Pain,Migraine,8,1/10/2021,Dry
+Homas Mata,Metformin,Diabetes,Type 2,8,1/1/2021,Dry
+Megan Ortega,Amlodipine,Hypertension,Secondary,4,1/20/2021,Dry
+Melissa Pham,Paracetamol,Fever,Influenza,1,1/2/2021,Dry
+Courtney Richardson,Amoxicillin,Infection,Bacterial,6,1/1/2021,Dry
+Elizabeth Nicholson,Ibuprofen,Pain,Migraine,4,1/3/2021,Dry
+Thomas Kato,Metformin,Diabetes,Type 2,9,1/18/2021,Dry
+Sarah Nakato,Amlodipine,Hypertension,Secondary,8,1/17/2021,Dry
+Michael Okello,Paracetamol,Fever,Influenza,10,1/4/2021,Dry
+David Mugisha,Amoxicillin,Infection,Bacterial,2,1/16/2021,Dry
+Elizabeth Namaganda,Ibuprofen,Pain,Migraine,2,1/21/2021,Dry
+John Kyambadde,Metformin,Diabetes,Type 1,6,1/24/2021,Dry
+Grace Kintu,Amlodipine,Hypertension,Essential,6,1/24/2021,Dry
+Robert Semanda,Paracetamol,Fever,Influenza,7,1/20/2021,Dry
+Anna Nabukenya,Amoxicillin,Infection,Bacterial,5,1/10/2021,Dry
+James Katende,Ibuprofen,Pain,Headache,10,1/9/2021,Dry
+Josephine Mukasa,Metformin,Diabetes,Type 1,6,1/30/2021,Dry
+Kevin Mutebi,Amlodipine,Hypertension,Essential,7,1/29/2021,Dry
+Harriet Namuli,Paracetamol,Fever,Influenza,7,1/16/2021,Dry
+Andrew Kagimu,Amoxicillin,Infection,Bacterial,1,1/16/2021,Dry
+Doreen Muwonge,Ibuprofen,Pain,Headache,7,1/14/2021,Dry
+Irene Nantongo,Metformin,Diabetes,Type 1,10,1/23/2021,Dry
+Peter Lukwago,Amlodipine,Hypertension,Essential,8,1/21/2021,Dry
+Rachel Busingye,Paracetamol,Fever,Influenza,7,1/3/2021,Dry
+Steven Tumusiime,Amoxicillin,Infection,Bacterial,10,1/15/2021,Dry
+Janet Nakabugo,Ibuprofen,Pain,Headache,5,1/20/2021,Dry
+Paul Lwanga,Metformin,Diabetes,Type 1,6,1/18/2021,Dry
+Mary Kalungi,Amlodipine,Hypertension,Essential,9,1/19/2021,Dry
+Tony Kamya,Paracetamol,Fever,Influenza,8,1/10/2021,Dry
+Brenda Nansubuga,Amoxicillin,Infection,Bacterial,2,1/24/2021,Dry
+Fred Nsubuga,Ibuprofen,Pain,Headache,5,1/2/2021,Dry
+Angela Nakato,Metformin,Diabetes,Type 1,2,1/23/2021,Dry
+Simon Kato,Amlodipine,Hypertension,Essential,3,1/9/2021,Dry
+Viola Nabirye,Paracetamol,Fever,Influenza,3,1/6/2021,Dry
+Henry Nsubuga,Amoxicillin,Infection,Bacterial,1,1/6/2021,Dry
+Stella Nabukalu,Ibuprofen,Pain,Headache,6,1/1/2021,Dry
+Martin Kintu,Metformin,Diabetes,Type 1,5,1/24/2021,Dry
+Lucy Namwanje,Amlodipine,Hypertension,Essential,5,1/5/2021,Dry
+Edwin Kasirye,Paracetamol,Fever,Influenza,4,2/8/2021,Dry
+Agnes Nakazzi,Amoxicillin,Infection,Bacterial,2,2/13/2021,Dry
+Sam Kamya,Ibuprofen,Pain,Headache,8,2/2/2021,Dry
+Susan Namugenyi,Metformin,Diabetes,Type 1,8,2/27/2021,Dry
+Brian Kakooza,Amlodipine,Hypertension,Essential,7,2/12/2021,Dry
+Irene Namakula,Paracetamol,Fever,Influenza,10,2/11/2021,Dry
+Mark Kato,Amoxicillin,Infection,Bacterial,7,2/25/2021,Dry
+Alice Nakatudde,Ibuprofen,Pain,Headache,7,2/11/2021,Dry
+Julius Kiggundu,Metformin,Diabetes,Type 1,10,2/3/2021,Dry
+Nancy Namirembe,Amlodipine,Hypertension,Essential,8,2/17/2021,Dry
+Michael Mukasa,Paracetamol,Fever,Influenza,10,2/4/2021,Dry
+Diana Nakazzi,Amoxicillin,Infection,Bacterial,6,2/16/2021,Dry
+George Kalungi,Ibuprofen,Pain,Headache,7,3/1/2021,Dry
+Rebecca Namubiru,Metformin,Diabetes,Type 1,7,2/25/2021,Dry
+Paul Katumba,Amlodipine,Hypertension,Essential,2,2/21/2021,Dry
+Rose Nambogo,Paracetamol,Fever,Influenza,4,2/7/2021,Dry
+Chris Ssekitto,Amoxicillin,Infection,Bacterial,2,2/5/2021,Dry
+Jane Nakitende,Ibuprofen,Pain,Headache,4,2/10/2021,Dry
+Martin Mugwanya,Metformin,Diabetes,Type 1,3,2/26/2021,Dry
+Alice Nanyonjo,Amlodipine,Hypertension,Essential,6,2/24/2021,Dry
+Andrew Namuli,Paracetamol,Fever,Influenza,1,2/21/2021,Dry
+Thomas Mutebi,Amoxicillin,Infection,Bacterial,9,2/28/2021,Dry
+Grace Nambiru,Ibuprofen,Pain,Headache,8,2/10/2021,Dry
+David Kato,Metformin,Diabetes,Type 1,9,2/3/2021,Dry
+Susan Namulondo,Amlodipine,Hypertension,Essential,1,2/12/2021,Dry
+Paul Ssewagaba,Paracetamol,Fever,Influenza,1,2/4/2021,Dry
+Helen Katongole,Amoxicillin,Infection,Bacterial,9,2/22/2021,Dry
+Brenda Namakula,Ibuprofen,Pain,Headache,3,2/19/2021,Dry
+Josephine Mukasa,Metformin,Diabetes,Type 1,9,2/15/2021,Dry
+Edward Tumusiime,Amlodipine,Hypertension,Essential,6,2/14/2021,Dry
+Ronald Kyambadde,Paracetamol,Fever,Influenza,6,2/23/2021,Dry
+Grace Kintu,Amoxicillin,Infection,Bacterial,7,2/10/2021,Dry
+Robert Semanda,Ibuprofen,Pain,Headache,3,3/2/2021,Dry
+Anna Nabukenya,Metformin,Diabetes,Type 1,5,2/28/2021,Dry
+James Katende,Amlodipine,Hypertension,Essential,1,2/17/2021,Dry
+Josephine Kagaba,Paracetamol,Fever,Influenza,9,2/8/2021,Dry
+James Katamba,Amoxicillin,Infection,Bacterial,2,2/12/2021,Dry
+Paul Kalungi,Ibuprofen,Pain,Headache,8,2/4/2021,Dry
+Mary Kato,Metformin,Diabetes,Type 1,4,3/1/2021,Dry
+Tony Kamya,Amlodipine,Hypertension,Essential,3,2/13/2021,Dry
+Brenda Nansubuga,Paracetamol,Fever,Influenza,2,2/12/2021,Dry
+Fred Nsubuga,Amoxicillin,Infection,Bacterial,10,2/23/2021,Dry
+Angela Nakato,Ibuprofen,Pain,Headache,3,2/12/2021,Dry
+Simon Kato,Metformin,Diabetes,Type 1,4,2/25/2021,Dry
+Viola Nabirye,Amlodipine,Hypertension,Secondary,10,2/19/2021,Dry
+Henry Nsubuga,Paracetamol,Fever,Influenza,10,2/25/2021,Dry
+Stella Nabukalu,Amoxicillin,Infection,Bacterial,5,2/22/2021,Dry
+Martin Kintu,Ibuprofen,Pain,Headache,7,2/4/2021,Dry
+Lucy Namwanje,Metformin,Diabetes,Type 1,9,3/1/2021,Dry
+Edwin Kasirye,Amlodipine,Hypertension,Secondary,7,2/28/2021,Dry
+Agnes Nakazzi,Paracetamol,Fever,Influenza,7,2/22/2021,Dry
+Sam Kamya,Amoxicillin,Infection,Bacterial,6,2/25/2021,Dry
+Susan Namugenyi,Ibuprofen,Pain,Headache,9,2/12/2021,Dry
+Brian Kakooza,Metformin,Diabetes,Type 1,8,3/1/2021,Dry
+Irene Namakula,Amlodipine,Hypertension,Secondary,8,2/14/2021,Dry
+Mark Kato,Paracetamol,Fever,Influenza,9,2/18/2021,Dry
+Alice Nakatudde,Amoxicillin,Infection,Bacterial,9,2/2/2021,Dry
+Julius Kiggundu,Ibuprofen,Pain,Headache,9,2/26/2021,Dry
+Nancy Namirembe,Metformin,Diabetes,Type 1,8,2/9/2021,Dry
+Michael Mukasa,Amlodipine,Hypertension,Secondary,3,2/6/2021,Dry
+Diana Nakazzi,Paracetamol,Fever,Influenza,6,2/11/2021,Dry
+George Kalungi,Amoxicillin,Infection,Bacterial,9,2/8/2021,Dry
+Rebecca Namubiru,Ibuprofen,Pain,Headache,3,2/18/2021,Dry
+Paul Katumba,Metformin,Diabetes,Type 1,8,2/12/2021,Dry
+Rose Nambogo,Amlodipine,Hypertension,Secondary,3,3/1/2021,Dry
+Chris Ssekitto,Paracetamol,Fever,Influenza,6,2/2/2021,Dry
+Jane Nakitende,Amoxicillin,Infection,Bacterial,4,3/1/2021,Dry
+Martin Mugwanya,Ibuprofen,Pain,Headache,7,2/24/2021,Dry
+Alice Nanyonjo,Metformin,Diabetes,Type 1,3,2/2/2021,Dry
+Andrew Namuli,Amlodipine,Hypertension,Secondary,1,2/19/2021,Dry
+Thomas Mutebi,Paracetamol,Fever,Influenza,8,2/17/2021,Dry
+Grace Nambiru,Amoxicillin,Infection,Bacterial,1,3/2/2021,Dry
+David Kato,Ibuprofen,Pain,Headache,10,2/14/2021,Dry
+Susan Namulondo,Metformin,Diabetes,Type 1,7,2/10/2021,Dry
+Paul Ssewagaba,Amlodipine,Hypertension,Secondary,9,2/21/2021,Dry
+Helen Katongole,Paracetamol,Fever,Influenza,7,2/5/2021,Dry
+Brenda Namakula,Amoxicillin,Infection,Bacterial,1,2/8/2021,Dry
+Josephine Mukasa,Ibuprofen,Pain,Headache,10,2/26/2021,Dry
+Edward Tumusiime,Metformin,Diabetes,Type 1,8,2/2/2021,Dry
+Ronald Kyambadde,Amlodipine,Hypertension,Secondary,9,2/14/2021,Dry
+Grace Kintu,Paracetamol,Fever,Influenza,7,2/11/2021,Dry
+Robert Semanda,Amoxicillin,Infection,Bacterial,5,2/4/2021,Dry
+Anna Nabukenya,Ibuprofen,Pain,Headache,2,3/1/2021,Dry
+James Katende,Metformin,Diabetes,Type 1,4,3/2/2021,Dry
+Josephine Kagaba,Amlodipine,Hypertension,Secondary,8,2/14/2021,Dry
+James Katamba,Paracetamol,Fever,Influenza,8,2/8/2021,Dry
+Paul Kalungi,Amoxicillin,Infection,Bacterial,1,2/6/2021,Dry
+Mary Kato,Ibuprofen,Pain,Headache,10,2/28/2021,Dry
+Tony Kamya,Metformin,Diabetes,Type 1,2,2/3/2021,Dry
+Brenda Nansubuga,Amlodipine,Hypertension,Secondary,4,2/4/2021,Dry
+Fred Nsubuga,Paracetamol,Fever,Influenza,9,2/21/2021,Dry
+Angela Nakato,Amoxicillin,Infection,Bacterial,8,2/8/2021,Dry
+Simon Kato,Ibuprofen,Pain,Headache,9,2/10/2021,Dry
+Viola Nabirye,Metformin,Diabetes,Type 1,2,2/26/2021,Dry
+Henry Nsubuga,Amlodipine,Hypertension,Secondary,8,2/5/2021,Dry
+Stella Nabukalu,Paracetamol,Fever,Influenza,8,2/25/2021,Dry
+Martin Kintu,Amoxicillin,Infection,Bacterial,9,2/6/2021,Dry
+Lucy Namwanje,Ibuprofen,Pain,Headache,1,2/6/2021,Dry
+Edwin Kasirye,Metformin,Diabetes,Type 1,4,2/17/2021,Dry
+Agnes Nakazzi,Amlodipine,Hypertension,Secondary,3,2/28/2021,Dry
+Sam Kamya,Paracetamol,Fever,Influenza,10,2/22/2021,Dry
+Susan Namugenyi,Amoxicillin,Infection,Bacterial,2,2/17/2021,Dry
+Brian Kakooza,Ibuprofen,Pain,Headache,7,2/15/2021,Dry
+Irene Namakula,Metformin,Diabetes,Type 1,7,2/19/2021,Dry
+Mark Kato,Amlodipine,Hypertension,Secondary,6,2/25/2021,Dry
+Alice Nakatudde,Paracetamol,Fever,Influenza,1,2/8/2021,Dry
+Julius Kiggundu,Amoxicillin,Infection,Bacterial,5,2/7/2021,Dry
+Nancy Namirembe,Ibuprofen,Pain,Headache,7,2/11/2021,Dry
+Michael Mukasa,Metformin,Diabetes,Type 1,2,3/1/2021,Dry
+Diana Nakazzi,Amlodipine,Hypertension,Secondary,10,2/25/2021,Dry
+George Kalungi,Paracetamol,Fever,Influenza,2,2/10/2021,Dry
+Rebecca Namubiru,Amoxicillin,Infection,Bacterial,9,2/13/2021,Dry
+Paul Katumba,Ibuprofen,Pain,Headache,4,2/5/2021,Dry
+Rose Nambogo,Metformin,Diabetes,Type 1,5,2/21/2021,Dry
+Chris Ssekitto,Amlodipine,Hypertension,Secondary,9,2/22/2021,Dry
+Jane Nakitende,Paracetamol,Fever,Influenza,7,2/3/2021,Dry
+Martin Mugwanya,Amoxicillin,Infection,Bacterial,10,2/21/2021,Dry
+Alice Nanyonjo,Ibuprofen,Pain,Headache,7,2/12/2021,Dry
+Andrew Namuli,Metformin,Diabetes,Type 1,4,2/8/2021,Dry
+Thomas Mutebi,Amlodipine,Hypertension,Secondary,6,2/13/2021,Dry
+Grace Nambiru,Paracetamol,Fever,Influenza,7,2/5/2021,Dry
+David Kato,Amoxicillin,Infection,Bacterial,2,2/25/2021,Dry
+Susan Namulondo,Ibuprofen,Pain,Headache,1,2/5/2021,Dry
+Paul Ssewagaba,Metformin,Diabetes,Type 1,3,2/10/2021,Dry
+Helen Katongole,Cetirizine,Allergy,Seasonal,2,2/11/2021,Dry
+Brenda Namakula,Paracetamol,Fever,Influenza,8,2/10/2021,Dry
+Josephine Mukasa,Amoxicillin,Infection,Bacterial,2,2/9/2021,Dry
+Edward Tumusiime,Ibuprofen,Pain,Headache,5,2/20/2021,Dry
+Ronald Kyambadde,Metformin,Diabetes,Type 1,6,2/7/2021,Dry
+Grace Kintu,Cetirizine,Allergy,Seasonal,6,2/21/2021,Dry
+Robert Semanda,Paracetamol,Fever,Influenza,5,2/3/2021,Dry
+Anna Nabukenya,Amoxicillin,Infection,Bacterial,6,2/27/2021,Dry
+James Katende,Ibuprofen,Pain,Headache,2,2/19/2021,Dry
+Josephine Kagaba,Metformin,Diabetes,Type 1,9,2/3/2021,Dry
+James Katamba,Cetirizine,Allergy,Seasonal,3,2/13/2021,Dry
+Paul Kalungi,Paracetamol,Fever,Influenza,10,2/4/2021,Dry
+Mary Kato,Amoxicillin,Infection,Bacterial,7,3/2/2021,Dry
+Tony Kamya,Ibuprofen,Pain,Headache,3,2/10/2021,Dry
+Brenda Nansubuga,Metformin,Diabetes,Type 1,10,2/13/2021,Dry
+Fred Nsubuga,Cetirizine,Allergy,Seasonal,9,2/14/2021,Dry
+Angela Nakato,Paracetamol,Fever,Influenza,8,2/10/2021,Dry
+Simon Kato,Amoxicillin,Infection,Bacterial,1,2/11/2021,Dry
+Viola Nabirye,Ibuprofen,Pain,Headache,1,2/25/2021,Dry
+Henry Nsubuga,Metformin,Diabetes,Type 1,8,2/5/2021,Dry
+Stella Nabukalu,Cetirizine,Allergy,Seasonal,7,2/26/2021,Dry
+Martin Kintu,Paracetamol,Fever,Influenza,9,2/23/2021,Dry
+Lucy Namwanje,Amoxicillin,Infection,Bacterial,6,2/26/2021,Dry
+Edwin Kasirye,Ibuprofen,Pain,Headache,4,2/26/2021,Dry
+Agnes Nakazzi,Metformin,Diabetes,Type 1,5,2/20/2021,Dry
+Sam Kamya,Cetirizine,Allergy,Seasonal,7,2/22/2021,Dry
+Susan Namugenyi,Paracetamol,Fever,Influenza,5,3/18/2021,Dry
+Brian Kakooza,Amoxicillin,Infection,Bacterial,2,3/25/2021,Dry
+Irene Namakula,Ibuprofen,Pain,Headache,3,3/2/2021,Dry
+Mark Kato,Metformin,Diabetes,Type 1,2,3/30/2021,Dry
+Alice Nakatudde,Cetirizine,Allergy,Seasonal,5,3/26/2021,Dry
+Julius Kiggundu,Paracetamol,Fever,Influenza,10,3/23/2021,Dry
+Nancy Namirembe,Amoxicillin,Infection,Bacterial,1,3/18/2021,Dry
+Michael Mukasa,Ibuprofen,Pain,Headache,8,3/11/2021,Dry
+Diana Nakazzi,Metformin,Diabetes,Type 1,1,3/19/2021,Dry
+George Kalungi,Cetirizine,Allergy,Seasonal,8,3/30/2021,Dry
+Rebecca Namubiru,Paracetamol,Fever,Influenza,7,3/3/2021,Dry
+Paul Katumba,Amoxicillin,Infection,Bacterial,10,3/8/2021,Dry
+Rose Nambogo,Ibuprofen,Pain,Headache,8,3/12/2021,Dry
+Chris Ssekitto,Metformin,Diabetes,Type 1,6,3/29/2021,Dry
+Jane Nakitende,Cetirizine,Allergy,Seasonal,4,3/19/2021,Dry
+Martin Mugwanya,Paracetamol,Fever,Influenza,1,3/28/2021,Dry
+Alice Nanyonjo,Amoxicillin,Infection,Bacterial,7,3/16/2021,Dry
+Andrew Namuli,Ibuprofen,Pain,Headache,5,3/7/2021,Dry
+Thomas Mutebi,Metformin,Diabetes,Type 1,4,3/24/2021,Dry
+Grace Nambiru,Cetirizine,Allergy,Seasonal,10,3/9/2021,Dry
+David Kato,Paracetamol,Fever,Influenza,7,3/22/2021,Dry
+Susan Namulondo,Amoxicillin,Infection,Bacterial,9,3/15/2021,Dry
+Paul Ssewagaba,Ibuprofen,Pain,Headache,9,3/4/2021,Dry
+Helen Katongole,Metformin,Diabetes,Type 1,4,3/27/2021,Dry
+Brenda Namakula,Cetirizine,Allergy,Seasonal,4,3/19/2021,Dry
+Josephine Mukasa,Paracetamol,Fever,Influenza,8,3/20/2021,Dry
+Edward Tumusiime,Amoxicillin,Infection,Bacterial,4,3/11/2021,Dry
+Ronald Kyambadde,Ibuprofen,Pain,Headache,7,3/22/2021,Dry
+Grace Kintu,Metformin,Diabetes,Type 1,5,3/9/2021,Dry
+Robert Semanda,Cetirizine,Allergy,Seasonal,2,3/27/2021,Dry
+Anna Nabukenya,Paracetamol,Fever,Influenza,4,3/28/2021,Dry
+James Katende,Amoxicillin,Infection,Bacterial,9,3/20/2021,Dry
+Josephine Kagaba,Ibuprofen,Pain,Headache,3,3/21/2021,Dry
+James Katamba,Metformin,Diabetes,Type 1,1,3/16/2021,Dry
+Paul Kalungi,Cetirizine,Allergy,Seasonal,2,3/1/2021,Dry
+Mary Kato,Paracetamol,Fever,Influenza,7,3/22/2021,Dry
+Tony Kamya,Amoxicillin,Infection,Bacterial,7,3/22/2021,Dry
+Brenda Nansubuga,Ibuprofen,Pain,Headache,4,3/10/2021,Dry
+Fred Nsubuga,Metformin,Diabetes,Type 1,2,3/1/2021,Dry
+Angela Nakato,Cetirizine,Allergy,Seasonal,1,3/26/2021,Dry
+Simon Kato,Paracetamol,Fever,Influenza,10,3/6/2021,Dry
+Viola Nabirye,Amoxicillin,Infection,Bacterial,6,3/23/2021,Dry
+Abel Nsubuga,Ibuprofen,Pain,Headache,8,3/1/2021,Dry
+Aisha Mugisha,Metformin,Diabetes,Type 1,5,3/19/2021,Dry
+Albert Nakalema,Cetirizine,Allergy,Seasonal,3,3/25/2021,Dry
+Angela Nampiima,Paracetamol,Fever,Influenza,5,3/13/2021,Dry
+Andrew Ssemwanga,Amoxicillin,Infection,Bacterial,7,3/17/2021,Dry
+Arthur Nabirye,Ibuprofen,Pain,Headache,9,3/3/2021,Dry
+Beatrice Tumusiime,Metformin,Diabetes,Type 1,5,3/17/2021,Dry
+Benson Kato,Cetirizine,Allergy,Seasonal,9,3/27/2021,Dry
+Betty Nsubuga,Paracetamol,Fever,Influenza,5,3/29/2021,Dry
+Brian Nakato,Amoxicillin,Infection,Bacterial,2,3/15/2021,Dry
+Caroline Nalubega,Ibuprofen,Pain,Headache,2,3/4/2021,Dry
+Charles Odongo,Metformin,Diabetes,Type 1,3,3/13/2021,Dry
+Christine Kasozi,Cetirizine,Allergy,Seasonal,5,3/20/2021,Dry
+Clement Namuyanja,Paracetamol,Fever,Influenza,2,3/24/2021,Dry
+Diana Kato,Amoxicillin,Infection,Bacterial,8,3/13/2021,Dry
+Eliud Mwesigwa,Ibuprofen,Pain,Headache,5,3/26/2021,Dry
+Esther Nsubuga,Metformin,Diabetes,Type 1,4,3/6/2021,Dry
+Fiona Nakatudde,Cetirizine,Allergy,Seasonal,1,3/18/2021,Dry
+Fredrick Nakirya,Paracetamol,Fever,Influenza,8,3/5/2021,Dry
+Grace Apio,Amoxicillin,Infection,Bacterial,1,3/7/2021,Dry
+Hannah Nsubuga,Ibuprofen,Pain,Headache,7,3/13/2021,Dry
+Harriet Ssenyonga,Metformin,Diabetes,Type 1,2,3/9/2021,Dry
+Henry Mukiibi,Cetirizine,Allergy,Seasonal,10,3/30/2021,Dry
+James Nambale,Paracetamol,Fever,Influenza,10,3/20/2021,Dry
+Janet Nankya,Amoxicillin,Infection,Bacterial,8,3/8/2021,Dry
+Jeffrey Kasozi,Ibuprofen,Pain,Headache,9,3/16/2021,Dry
+Jennifer Nakato,Metformin,Diabetes,Type 1,6,3/28/2021,Dry
+Julius Tumusiime,Cetirizine,Allergy,Seasonal,10,3/3/2021,Dry
+Katherine Namukwaya,Paracetamol,Fever,Influenza,8,3/29/2021,Dry
+Kenneth Kamugisha,Amoxicillin,Infection,Bacterial,3,3/13/2021,Dry
+Keziah Nsubuga,Ibuprofen,Pain,Headache,8,3/6/2021,Dry
+Lillian Nsubuga,Metformin,Diabetes,Type 1,3,3/17/2021,Dry
+Lydia Sserunjogi,Cetirizine,Allergy,Food,7,3/16/2021,Dry
+Margaret Nakayiza,Paracetamol,Fever,Influenza,6,3/8/2021,Dry
+Martin Okwakol,Amoxicillin,Infection,Bacterial,2,3/9/2021,Dry
+Moses Nsubuga,Ibuprofen,Pain,Headache,8,3/18/2021,Dry
+Naomi Kato,Metformin,Diabetes,Type 1,8,3/20/2021,Dry
+Nathan Namuyanja,Cetirizine,Allergy,Food,9,3/12/2021,Dry
+Nina Nalubega,Paracetamol,Fever,Influenza,10,3/20/2021,Dry
+Oscar Nsubuga,Amoxicillin,Infection,Bacterial,8,3/13/2021,Dry
+Paul Ssenyonga,Ibuprofen,Pain,Headache,8,3/12/2021,Dry
+Patricia Nakalema,Metformin,Diabetes,Type 1,1,3/26/2021,Dry
+Peter Namutebi,Cetirizine,Allergy,Food,1,3/2/2021,Dry
+Ruth Namatovu,Paracetamol,Fever,Influenza,4,3/29/2021,Dry
+Samuel Nsubuga,Amoxicillin,Infection,Bacterial,2,3/18/2021,Dry
+Sandra Nakato,Ibuprofen,Pain,Headache,4,3/14/2021,Dry
+Sarah Kanyike,Metformin,Diabetes,Type 1,6,3/21/2021,Dry
+Simeon Mwesigye,Cetirizine,Allergy,Food,9,3/17/2021,Dry
+Stephen Nakalema,Paracetamol,Fever,Influenza,3,3/2/2021,Dry
+Sylvia Tumusiime,Amoxicillin,Infection,Bacterial,4,3/9/2021,Dry
+Timothy Ssemwanga,Ibuprofen,Pain,Headache,10,3/17/2021,Dry
+Vera Nsubuga,Metformin,Diabetes,Type 1,6,3/16/2021,Dry
+Victoria Nankya,Cetirizine,Allergy,Food,10,3/12/2021,Dry
+Winnie Nakato,Paracetamol,Fever,Influenza,10,3/9/2021,Dry
+Abubaker Kato,Amoxicillin,Infection,Bacterial,1,3/22/2021,Dry
+Adeline Namukwaya,Ibuprofen,Pain,Headache,10,3/29/2021,Dry
+Allan Nakalembe,Metformin,Diabetes,Type 1,5,3/11/2021,Dry
+Amos Nsubuga,Cetirizine,Allergy,Food,3,3/15/2021,Dry
+Anita Nsubuga,Paracetamol,Fever,Influenza,1,3/1/2021,Dry
+Anthony Mwebaze,Amoxicillin,Infection,Bacterial,4,3/12/2021,Dry
+Apostle Namutebi,Ibuprofen,Pain,Headache,8,3/20/2021,Dry
+Asha Namuyanja,Metformin,Diabetes,Type 1,9,3/2/2021,Dry
+Benon Nsubuga,Cetirizine,Allergy,Food,5,3/4/2021,Dry
+Beryl Nakabugo,Paracetamol,Fever,Influenza,8,3/24/2021,Dry
+Brian Tumusiime,Amoxicillin,Infection,Bacterial,6,3/22/2021,Dry
+Caroline Kasozi,Ibuprofen,Pain,Headache,1,3/14/2021,Dry
+Charles Nambale,Metformin,Diabetes,Type 1,6,3/23/2021,Dry
+Clara Nakirya,Cetirizine,Allergy,Food,1,3/26/2021,Dry
+Deborah Nalubega,Paracetamol,Fever,Influenza,9,3/24/2021,Dry
+Eleanor Nsubuga,Amoxicillin,Infection,Bacterial,1,3/19/2021,Dry
+Elijah Nakalemba,Ibuprofen,Pain,Headache,2,3/28/2021,Dry
+Emmanuel Kasozi,Metformin,Diabetes,Type 1,6,3/18/2021,Dry
+Emily Nakato,Cetirizine,Allergy,Food,9,3/20/2021,Dry
+Erick Mwesigwa,Paracetamol,Fever,Influenza,1,3/5/2021,Dry
+Eunice Nsubuga,Amoxicillin,Infection,Bacterial,9,3/23/2021,Dry
+Florence Nakayiza,Ibuprofen,Pain,Headache,10,3/26/2021,Dry
+Frank Tumusiime,Metformin,Diabetes,Type 1,9,3/6/2021,Dry
+Geraldine Nsubuga,Cetirizine,Allergy,Food,7,3/18/2021,Dry
+George Nakato,Paracetamol,Fever,Influenza,3,3/6/2021,Dry
+Grace Nsubuga,Amoxicillin,Infection,Bacterial,2,3/30/2021,Dry
+Henry Kasozi,Ibuprofen,Pain,Headache,9,3/23/2021,Dry
+Ivan Nakirya,Metformin,Diabetes,Type 1,7,3/21/2021,Dry
+Jackline Tumusiime,Cetirizine,Allergy,Food,6,3/15/2021,Dry
+Jane Nsubuga,Paracetamol,Fever,Influenza,10,3/13/2021,Dry
+Jolly Nakalembe,Amoxicillin,Infection,Bacterial,3,3/25/2021,Dry
+Jonathan Nsubuga,Ibuprofen,Pain,Headache,2,3/29/2021,Dry
+Josephine Namuyanja,Metformin,Diabetes,Type 1,1,3/1/2021,Dry
+Judith Nsubuga,Cetirizine,Allergy,Food,3,3/28/2021,Dry
+Julius Kasozi,Paracetamol,Fever,Influenza,3,3/24/2021,Dry
+Katherine Nsubuga,Amoxicillin,Infection,Bacterial,2,3/15/2021,Dry
+Kibomi Nakato,Ibuprofen,Pain,Headache,2,3/15/2021,Dry
+Kirsten Nsubuga,Metformin,Diabetes,Type 1,1,3/22/2021,Dry
+Leonard Nsubuga,Cetirizine,Allergy,Food,6,3/5/2021,Dry
+Lydia Mwesigye,Paracetamol,Fever,Influenza,4,3/2/2021,Dry
+Martin Nakato,Amoxicillin,Infection,Bacterial,4,3/3/2021,Dry
+Martha Nsubuga,Ibuprofen,Pain,Headache,2,3/14/2021,Dry
+Michael Nakirya,Metformin,Diabetes,Type 1,2,3/17/2021,Dry
+Miriam Nsubuga,Cetirizine,Allergy,Food,4,3/5/2021,Dry
+Naomi Ssemwanga,Paracetamol,Fever,Influenza,2,3/17/2021,Dry
+Nicholas Nsubuga,Amoxicillin,Infection,Bacterial,4,3/27/2021,Dry
+Nina Mwesigwa,Ibuprofen,Pain,Headache,10,3/5/2021,Dry
+Patricia Nsubuga,Metformin,Diabetes,Type 1,1,3/22/2021,Dry
+Paul Nakato,Cetirizine,Allergy,Food,1,3/11/2021,Dry
+Rebecca Nakirya,Paracetamol,Fever,Influenza,5,3/18/2021,Dry
+Ruth Mwesigwa,Amoxicillin,Infection,Bacterial,8,3/15/2021,Dry
+Simon Nakato,Ibuprofen,Pain,Headache,3,3/26/2021,Dry
+Sophie Nakabugo,Metformin,Diabetes,Type 1,1,3/12/2021,Dry
+Sylvia Nakayiza,Cetirizine,Allergy,Food,2,3/27/2021,Dry
+Titus Namukwaya,Paracetamol,Fever,Influenza,9,4/8/2021,Wet
+Tom Nsubuga,Amoxicillin,Infection,Bacterial,7,4/18/2021,Wet
+Victoria Mwebaze,Ibuprofen,Pain,Headache,4,4/12/2021,Wet
+Winnie Nsubuga,Metformin,Diabetes,Type 1,6,4/8/2021,Wet
+Abraham Nsubuga,Cetirizine,Allergy,Food,4,4/7/2021,Wet
+Asha Nakirya,Paracetamol,Fever,Influenza,10,4/19/2021,Wet
+Bernard Namuyanja,Amoxicillin,Infection,Bacterial,9,4/9/2021,Wet
+Catherine Kato,Ibuprofen,Pain,Headache,2,4/20/2021,Wet
+David Kasozi,Metformin,Diabetes,Type 1,7,4/28/2021,Wet
+Doreen Namutebi,Cetirizine,Allergy,Food,9,4/13/2021,Wet
+Elizabeth Nsubuga,Paracetamol,Fever,Influenza,6,4/7/2021,Wet
+Emmanuel Nsubuga,Amoxicillin,Infection,Bacterial,3,4/17/2021,Wet
+Faith Nakato,Ibuprofen,Pain,Headache,2,4/24/2021,Wet
+Felix Nakirya,Metformin,Diabetes,Type 1,6,4/12/2021,Wet
+Gerald Kasozi,Cetirizine,Allergy,Food,4,4/12/2021,Wet
+Harriet Nsubuga,Paracetamol,Fever,Influenza,8,4/21/2021,Wet
+Hilda Nakalemba,Amoxicillin,Infection,Bacterial,2,4/12/2021,Wet
+Jackie Nsubuga,Ibuprofen,Pain,Headache,4,4/16/2021,Wet
+James Nakalemba,Metformin,Diabetes,Type 1,6,4/22/2021,Wet
+Janet Nsubuga,Cetirizine,Allergy,Food,8,4/11/2021,Wet
+Jeffrey Namuyanja,Paracetamol,Fever,Influenza,6,4/21/2021,Wet
+Jennifer Nsubuga,Amoxicillin,Infection,Bacterial,7,4/20/2021,Wet
+John Mwesigye,Ibuprofen,Pain,Headache,5,4/7/2021,Wet
+Joseph Nsubuga,Metformin,Diabetes,Type 1,10,4/27/2021,Wet
+Juliet Kasozi,Cetirizine,Allergy,Food,9,4/30/2021,Wet
+Keziah Nsubuga,Paracetamol,Fever,Influenza,7,4/25/2021,Wet
+Laura Nalubega,Amoxicillin,Infection,Bacterial,4,4/4/2021,Wet
+Lydia Nakirya,Ibuprofen,Pain,Headache,9,4/6/2021,Wet
+Margaret Namukwaya,Metformin,Diabetes,Type 1,2,4/2/2021,Wet
+Moses Namutebi,Cetirizine,Allergy,Food,9,4/12/2021,Wet
+Nancy Nakato,Paracetamol,Fever,Influenza,9,4/30/2021,Wet
+Noreen Namukwaya,Amoxicillin,Infection,Bacterial,9,4/15/2021,Wet
+Patrick Ssemwanga,Ibuprofen,Pain,Headache,7,4/19/2021,Wet
+Ruth Nsubuga,Metformin,Diabetes,Type 1,10,4/12/2021,Wet
+Simon Nsubuga,Cetirizine,Allergy,Food,9,4/7/2021,Wet
+Solomon Nakato,Paracetamol,Fever,Influenza,8,4/14/2021,Wet
+Sylvia Nakalemba,Amoxicillin,Infection,Bacterial,10,4/2/2021,Wet
+Timothy Nsubuga,Ibuprofen,Pain,Headache,7,4/2/2021,Wet
+Vera Namutebi,Metformin,Diabetes,Type 1,10,4/25/2021,Wet
+William Nakirya,Cetirizine,Allergy,Food,9,4/7/2021,Wet
+Abel Mwesigwa,Paracetamol,Fever,Influenza,8,4/24/2021,Wet
+Amina Nakato,Amoxicillin,Infection,Bacterial,9,4/29/2021,Wet
+Andrew Nsubuga,Ibuprofen,Pain,Headache,6,4/13/2021,Wet
+Angela Nakirya,Metformin,Diabetes,Type 1,8,4/13/2021,Wet
+Asha Nsubuga,Cetirizine,Allergy,Food,7,4/27/2021,Wet
+Betty Tumusiime,Paracetamol,Fever,Influenza,6,4/17/2021,Wet
+Brian Ssemwanga,Amoxicillin,Infection,Bacterial,3,4/12/2021,Wet
+Caroline Nakirya,Ibuprofen,Pain,Headache,8,4/9/2021,Wet
+Clement Nakato,Metformin,Diabetes,Type 1,5,4/24/2021,Wet
+Dorothy Nsubuga,Cetirizine,Allergy,Food,2,4/12/2021,Wet
+Elina Nakato,Paracetamol,Fever,Influenza,2,4/6/2021,Wet
+Eunice Nsubuga,Amoxicillin,Infection,Bacterial,4,4/24/2021,Wet
+Fiona Nakirya,Ibuprofen,Pain,Headache,1,4/18/2021,Wet
+Fred Nsubuga,Metformin,Diabetes,Type 1,6,4/19/2021,Wet
+Grace Namuyanja,Cetirizine,Allergy,Food,4,4/19/2021,Wet
+Jackline Nsubuga,Paracetamol,Fever,Influenza,3,4/9/2021,Wet
+Josephine Nakato,Amoxicillin,Infection,Bacterial,1,4/12/2021,Wet
+Joshua Mwebaze,Ibuprofen,Pain,Headache,1,4/25/2021,Wet
+Judy Nsubuga,Metformin,Diabetes,Type 1,1,4/14/2021,Wet
+Katherine Namutebi,Cetirizine,Allergy,Food,7,4/14/2021,Wet
+Keziah Namuyanja,Paracetamol,Fever,Influenza,6,4/11/2021,Wet
+Lawrence Nsubuga,Amoxicillin,Infection,Bacterial,1,4/14/2021,Wet
+Margaret Nsubuga,Ibuprofen,Pain,Headache,6,4/17/2021,Wet
+Martha Nakirya,Metformin,Diabetes,Type 1,10,4/16/2021,Wet
+Michael Nsubuga,Cetirizine,Allergy,Food,1,4/18/2021,Wet
+Nancy Nsubuga,Paracetamol,Fever,Influenza,7,4/16/2021,Wet
+Naomi Nsubuga,Amoxicillin,Infection,Bacterial,6,4/5/2021,Wet
+Paul Tumusiime,Ibuprofen,Pain,Headache,3,4/12/2021,Wet
+Rebecca Nsubuga,Metformin,Diabetes,Type 1,5,4/7/2021,Wet
+Richard Nakato,Cetirizine,Allergy,Food,4,4/1/2021,Wet
+Ruth Nakirya,Paracetamol,Fever,Influenza,5,4/26/2021,Wet
+Sandra Nsubuga,Amoxicillin,Infection,Bacterial,6,4/13/2021,Wet
+Samuel Nakirya,Ibuprofen,Pain,Headache,4,4/15/2021,Wet
+Sarah Nakato,Metformin,Diabetes,Type 1,9,4/15/2021,Wet
+Sarah Nsubuga,Cetirizine,Allergy,Food,6,4/28/2021,Wet
+Abel Nsubuga,Paracetamol,Fever,Influenza,8,4/25/2021,Wet
+Aisha Mugisha,Amoxicillin,Infection,Bacterial,6,4/12/2021,Wet
+Albert Nakalema,Ibuprofen,Pain,Headache,6,4/27/2021,Wet
+Angela Nampiima,Metformin,Diabetes,Type 1,7,4/16/2021,Wet
+Andrew Ssemwanga,Cetirizine,Allergy,Food,2,4/17/2021,Wet
+Arthur Nabirye,Paracetamol,Fever,Influenza,3,4/17/2021,Wet
+Beatrice Tumusiime,Amoxicillin,Infection,Bacterial,6,4/3/2021,Wet
+Benson Kato,Ibuprofen,Pain,Headache,2,4/2/2021,Wet
+Betty Nsubuga,Metformin,Diabetes,Type 1,5,4/23/2021,Wet
+Brian Nakato,Cetirizine,Allergy,Food,6,4/6/2021,Wet
+Caroline Nalubega,Paracetamol,Fever,Influenza,8,4/19/2021,Wet
+Charles Odongo,Amoxicillin,Infection,Bacterial,8,4/27/2021,Wet
+Christine Kasozi,Ibuprofen,Pain,Headache,7,4/28/2021,Wet
+Clement Namuyanja,Metformin,Diabetes,Type 1,9,4/30/2021,Wet
+Diana Kato,Cetirizine,Allergy,Food,6,4/5/2021,Wet
+Eliud Mwesigwa,Paracetamol,Fever,Influenza,10,4/17/2021,Wet
+Esther Nsubuga,Amoxicillin,Infection,Bacterial,5,4/15/2021,Wet
+Fiona Nakatudde,Ibuprofen,Pain,Headache,6,4/15/2021,Wet
+Fredrick Nakirya,Metformin,Diabetes,Type 1,4,4/24/2021,Wet
+Grace Apio,Cetirizine,Allergy,Food,7,4/5/2021,Wet
+Hannah Nsubuga,Paracetamol,Fever,Influenza,4,4/11/2021,Wet
+Harriet Ssenyonga,Amoxicillin,Infection,Bacterial,3,4/10/2021,Wet
+Henry Mukiibi,Ibuprofen,Pain,Headache,3,4/26/2021,Wet
+James Nambale,Metformin,Diabetes,Type 1,8,4/19/2021,Wet
+Janet Nankya,Cetirizine,Allergy,Food,6,4/28/2021,Wet
+Jeffrey Kasozi,Paracetamol,Fever,Influenza,4,4/19/2021,Wet
+Jennifer Nakato,Amoxicillin,Infection,Bacterial,7,4/7/2021,Wet
+Julius Tumusiime,Ibuprofen,Pain,Headache,6,4/20/2021,Wet
+Katherine Namukwaya,Metformin,Diabetes,Type 1,10,4/24/2021,Wet
+Kenneth Kamugisha,Cetirizine,Allergy,Food,6,4/28/2021,Wet
+Keziah Nsubuga,Paracetamol,Fever,Influenza,2,4/25/2021,Wet
+Lillian Nsubuga,Amoxicillin,Infection,Bacterial,4,4/19/2021,Wet
+Lydia Sserunjogi,Ibuprofen,Pain,Headache,7,4/8/2021,Wet
+Margaret Nakayiza,Metformin,Diabetes,Type 1,10,4/18/2021,Wet
+Martin Okwakol,Cetirizine,Allergy,Food,9,4/6/2021,Wet
+Moses Nsubuga,Paracetamol,Fever,Influenza,6,4/23/2021,Wet
+Naomi Kato,Amoxicillin,Infection,Bacterial,8,4/2/2021,Wet
+Nathan Namuyanja,Ibuprofen,Pain,Headache,2,4/4/2021,Wet
+Nina Nalubega,Metformin,Diabetes,Type 1,5,4/20/2021,Wet
+Oscar Nsubuga,Cetirizine,Allergy,Food,8,4/29/2021,Wet
+Paul Ssenyonga,Paracetamol,Fever,Influenza,9,4/20/2021,Wet
+Patricia Nakalema,Amoxicillin,Infection,Bacterial,7,4/25/2021,Wet
+Peter Namutebi,Ibuprofen,Pain,Headache,10,4/23/2021,Wet
+Ruth Namatovu,Metformin,Diabetes,Type 1,5,4/29/2021,Wet
+Samuel Nsubuga,Cetirizine,Allergy,Food,10,4/12/2021,Wet
+Sandra Nakato,Paracetamol,Fever,Influenza,8,4/30/2021,Wet
+Sarah Kanyike,Amoxicillin,Infection,Bacterial,3,4/16/2021,Wet
+Simeon Mwesigye,Ibuprofen,Pain,Headache,9,4/18/2021,Wet
+Stephen Nakalema,Metformin,Diabetes,Type 1,4,4/16/2021,Wet
+Sylvia Tumusiime,Cetirizine,Allergy,Food,8,4/13/2021,Wet
+Timothy Ssemwanga,Paracetamol,Fever,Influenza,1,4/29/2021,Wet
+Vera Nsubuga,Amoxicillin,Infection,Bacterial,6,4/11/2021,Wet
+Victoria Nankya,Ibuprofen,Pain,Headache,3,4/11/2021,Wet
+Winnie Nakato,Metformin,Diabetes,Type 1,8,4/7/2021,Wet
+Abubaker Kato,Cetirizine,Allergy,Food,8,4/21/2021,Wet
+Adeline Namukwaya,Paracetamol,Fever,Influenza,6,4/15/2021,Wet
+Allan Nakalembe,Amoxicillin,Infection,Bacterial,9,4/6/2021,Wet
+Amos Nsubuga,Ibuprofen,Pain,Headache,5,4/13/2021,Wet
+Anita Nsubuga,Metformin,Diabetes,Type 1,2,4/4/2021,Wet
+Anthony Mwebaze,Cetirizine,Allergy,Food,5,4/27/2021,Wet
+Apostle Namutebi,Paracetamol,Fever,Influenza,7,4/30/2021,Wet
+Asha Namuyanja,Amoxicillin,Infection,Bacterial,2,4/25/2021,Wet
+Benon Nsubuga,Ibuprofen,Pain,Headache,9,4/17/2021,Wet
+Beryl Nakabugo,Metformin,Diabetes,Type 1,8,4/28/2021,Wet
+Brian Tumusiime,Cetirizine,Allergy,Food,8,4/29/2021,Wet
+Caroline Kasozi,Paracetamol,Fever,Influenza,7,4/3/2021,Wet
+Charles Nambale,Amoxicillin,Infection,Bacterial,3,4/11/2021,Wet
+Clara Nakirya,Ibuprofen,Pain,Headache,2,4/29/2021,Wet
+Deborah Nalubega,Metformin,Diabetes,Type 1,2,4/20/2021,Wet
+Eleanor Nsubuga,Cetirizine,Allergy,Food,6,4/28/2021,Wet
+Elijah Nakalemba,Paracetamol,Fever,Influenza,4,4/30/2021,Wet
+Emmanuel Kasozi,Amoxicillin,Infection,Bacterial,10,4/23/2021,Wet
+Emily Nakato,Ibuprofen,Pain,Headache,3,4/12/2021,Wet
+Erick Mwesigwa,Metformin,Diabetes,Type 1,5,4/17/2021,Wet
+Eunice Nsubuga,Cetirizine,Allergy,Food,3,4/6/2021,Wet
+Florence Nakayiza,Paracetamol,Fever,Influenza,7,5/19/2021,Wet
+Frank Tumusiime,Amoxicillin,Infection,Bacterial,2,5/14/2021,Wet
+Geraldine Nsubuga,Ibuprofen,Pain,Headache,1,5/10/2021,Wet
+George Nakato,Metformin,Diabetes,Type 1,9,5/25/2021,Wet
+Grace Nsubuga,Cetirizine,Allergy,Food,1,5/10/2021,Wet
+Henry Kasozi,Paracetamol,Fever,Influenza,5,5/9/2021,Wet
+Ivan Nakirya,Amoxicillin,Infection,Bacterial,3,5/23/2021,Wet
+Jackline Tumusiime,Ibuprofen,Pain,Headache,2,5/13/2021,Wet
+Jane Nsubuga,Metformin,Diabetes,Type 1,3,5/5/2021,Wet
+Jolly Nakalembe,Cetirizine,Allergy,Food,2,5/13/2021,Wet
+Jonathan Nsubuga,Paracetamol,Fever,Influenza,7,5/25/2021,Wet
+Josephine Namuyanja,Amoxicillin,Infection,Bacterial,9,5/26/2021,Wet
+Judith Nsubuga,Ibuprofen,Pain,Headache,9,5/23/2021,Wet
+Julius Kasozi,Metformin,Diabetes,Type 1,3,5/30/2021,Wet
+Katherine Nsubuga,Cetirizine,Allergy,Food,1,5/24/2021,Wet
+Kibomi Nakato,Paracetamol,Fever,Influenza,9,5/11/2021,Wet
+Kirsten Nsubuga,Amoxicillin,Infection,Bacterial,1,5/10/2021,Wet
+Leonard Nsubuga,Ibuprofen,Pain,Headache,6,5/9/2021,Wet
+Lydia Mwesigye,Metformin,Diabetes,Type 1,6,5/11/2021,Wet
+Martin Nakato,Cetirizine,Allergy,Food,3,5/30/2021,Wet
+Martha Nsubuga,Paracetamol,Fever,Influenza,5,5/21/2021,Wet
+Michael Nakirya,Amoxicillin,Infection,Bacterial,3,5/26/2021,Wet
+Miriam Nsubuga,Ibuprofen,Pain,Headache,10,5/24/2021,Wet
+Naomi Ssemwanga,Metformin,Diabetes,Type 1,2,5/20/2021,Wet
+Nicholas Nsubuga,Cetirizine,Allergy,Food,9,5/11/2021,Wet
+Nina Mwesigwa,Paracetamol,Fever,Influenza,2,5/10/2021,Wet
+Patricia Nsubuga,Amoxicillin,Infection,Bacterial,9,5/21/2021,Wet
+Paul Nakato,Ibuprofen,Pain,Headache,2,5/26/2021,Wet
+Rebecca Nakirya,Metformin,Diabetes,Type 1,4,5/28/2021,Wet
+Ruth Mwesigwa,Cetirizine,Allergy,Food,6,5/4/2021,Wet
+Simon Nakato,Paracetamol,Fever,Influenza,1,5/17/2021,Wet
+Sophie Nakabugo,Amoxicillin,Infection,Bacterial,9,5/20/2021,Wet
+Sylvia Nakayiza,Ibuprofen,Pain,Headache,10,5/1/2021,Wet
+Titus Namukwaya,Metformin,Diabetes,Type 1,2,5/2/2021,Wet
+Tom Nsubuga,Cetirizine,Allergy,Food,5,5/1/2021,Wet
+Victoria Mwebaze,Paracetamol,Fever,Influenza,2,5/8/2021,Wet
+Winnie Nsubuga,Amoxicillin,Infection,Bacterial,4,5/6/2021,Wet
+Abraham Nsubuga,Ibuprofen,Pain,Headache,4,5/22/2021,Wet
+Asha Nakirya,Metformin,Diabetes,Type 1,1,5/8/2021,Wet
+Bernard Namuyanja,Cetirizine,Allergy,Food,5,5/10/2021,Wet
+Catherine Kato,Paracetamol,Fever,Influenza,3,5/21/2021,Wet
+David Kasozi,Amoxicillin,Infection,Bacterial,4,5/12/2021,Wet
+Doreen Namutebi,Ibuprofen,Pain,Headache,7,5/19/2021,Wet
+Elizabeth Nsubuga,Metformin,Diabetes,Type 1,10,5/2/2021,Wet
+Emmanuel Nsubuga,Cetirizine,Allergy,Food,5,5/1/2021,Wet
+Faith Nakato,Paracetamol,Fever,Influenza,6,5/30/2021,Wet
+Felix Nakirya,Amoxicillin,Infection,Bacterial,6,5/30/2021,Wet
+Gerald Kasozi,Ibuprofen,Pain,Headache,6,5/15/2021,Wet
+Harriet Nsubuga,Metformin,Diabetes,Type 1,7,5/19/2021,Wet
+Hilda Nakalemba,Cetirizine,Allergy,Food,2,5/23/2021,Wet
+Jackie Nsubuga,Paracetamol,Fever,Influenza,8,5/20/2021,Wet
+James Nakalemba,Amoxicillin,Infection,Bacterial,4,5/12/2021,Wet
+Janet Nsubuga,Ibuprofen,Pain,Headache,9,5/23/2021,Wet
+Jeffrey Namuyanja,Metformin,Diabetes,Type 1,6,5/26/2021,Wet
+Jennifer Nsubuga,Cetirizine,Allergy,Food,8,5/5/2021,Wet
+John Mwesigye,Paracetamol,Fever,Influenza,2,5/3/2021,Wet
+Joseph Nsubuga,Amoxicillin,Infection,Bacterial,3,5/28/2021,Wet
+Juliet Kasozi,Ibuprofen,Pain,Headache,10,5/12/2021,Wet
+Keziah Nsubuga,Metformin,Diabetes,Type 1,6,5/29/2021,Wet
+Laura Nalubega,Cetirizine,Allergy,Food,10,5/15/2021,Wet
+Lydia Nakirya,Paracetamol,Fever,Influenza,8,5/26/2021,Wet
+Margaret Namukwaya,Amoxicillin,Infection,Bacterial,1,5/22/2021,Wet
+Moses Namutebi,Ibuprofen,Pain,Headache,6,5/27/2021,Wet
+Nancy Nakato,Metformin,Diabetes,Type 1,8,5/1/2021,Wet
+Noreen Namukwaya,Cetirizine,Allergy,Food,7,5/25/2021,Wet
+Patrick Ssemwanga,Paracetamol,Fever,Influenza,8,5/21/2021,Wet
+Ruth Nsubuga,Amoxicillin,Infection,Bacterial,5,5/24/2021,Wet
+Simon Nsubuga,Ibuprofen,Pain,Headache,6,5/18/2021,Wet
+Solomon Nakato,Metformin,Diabetes,Type 1,4,5/16/2021,Wet
+Sylvia Nakalemba,Cetirizine,Allergy,Food,4,5/22/2021,Wet
+Timothy Nsubuga,Paracetamol,Fever,Influenza,9,5/9/2021,Wet
+Vera Namutebi,Amoxicillin,Infection,Bacterial,3,5/11/2021,Wet
+William Nakirya,Ibuprofen,Pain,Headache,10,5/5/2021,Wet
+Abel Mwesigwa,Metformin,Diabetes,Type 1,4,5/12/2021,Wet
+Amina Nakato,Cetirizine,Allergy,Food,9,5/6/2021,Wet
+Andrew Nsubuga,Paracetamol,Fever,Influenza,5,5/22/2021,Wet
+Angela Nakirya,Amoxicillin,Infection,Bacterial,8,5/2/2021,Wet
+Asha Nsubuga,Ibuprofen,Pain,Headache,1,5/26/2021,Wet
+Betty Tumusiime,Metformin,Diabetes,Type 1,3,5/10/2021,Wet
+Brian Ssemwanga,Cetirizine,Allergy,Food,4,5/15/2021,Wet
+Caroline Nakirya,Paracetamol,Fever,Influenza,10,5/20/2021,Wet
+Clement Nakato,Amoxicillin,Infection,Bacterial,10,5/19/2021,Wet
+Dorothy Nsubuga,Ibuprofen,Pain,Headache,1,5/12/2021,Wet
+Elina Nakato,Metformin,Diabetes,Type 1,8,5/14/2021,Wet
+Eunice Nsubuga,Cetirizine,Allergy,Food,3,5/24/2021,Wet
+Fiona Nakirya,Paracetamol,Fever,Influenza,1,5/2/2021,Wet
+Fred Nsubuga,Amoxicillin,Infection,Bacterial,6,5/3/2021,Wet
+Grace Namuyanja,Ibuprofen,Pain,Headache,7,5/10/2021,Wet
+Jackline Nsubuga,Metformin,Diabetes,Type 1,7,5/2/2021,Wet
+Josephine Nakato,Cetirizine,Allergy,Food,7,5/21/2021,Wet
+Joshua Mwebaze,Paracetamol,Fever,Influenza,9,5/8/2021,Wet
+Judy Nsubuga,Amoxicillin,Infection,Bacterial,6,5/22/2021,Wet
+Katherine Namutebi,Ibuprofen,Pain,Headache,7,5/25/2021,Wet
+Keziah Namuyanja,Metformin,Diabetes,Type 1,2,5/20/2021,Wet
+Lawrence Nsubuga,Cetirizine,Allergy,Food,4,5/27/2021,Wet
+Margaret Nsubuga,Paracetamol,Fever,Influenza,8,5/22/2021,Wet
+Martha Nakirya,Amoxicillin,Infection,Bacterial,2,5/4/2021,Wet
+Michael Nsubuga,Ibuprofen,Pain,Headache,2,5/4/2021,Wet
+Nancy Nsubuga,Metformin,Diabetes,Type 1,6,5/9/2021,Wet
+Naomi Nsubuga,Cetirizine,Allergy,Food,10,5/11/2021,Wet
+Paul Tumusiime,Paracetamol,Fever,Influenza,10,5/20/2021,Wet
+Rebecca Nsubuga,Amoxicillin,Infection,Bacterial,1,5/6/2021,Wet
+Richard Nakato,Ibuprofen,Pain,Headache,7,5/22/2021,Wet
+Ruth Nakirya,Metformin,Diabetes,Type 1,5,5/15/2021,Wet
+Sandra Nsubuga,Cetirizine,Allergy,Food,6,5/12/2021,Wet
+Samuel Nakirya,Paracetamol,Fever,Influenza,7,5/18/2021,Wet
+Sarah Nakato,Amoxicillin,Infection,Bacterial,7,5/4/2021,Wet
+Sarah Nsubuga,Ibuprofen,Pain,Headache,9,5/13/2021,Wet
+Abel Nsubuga,Metformin,Diabetes,Type 1,4,5/6/2021,Wet
+Aisha Mugisha,Cetirizine,Allergy,Food,4,5/27/2021,Wet
+Albert Nakalema,Paracetamol,Fever,Influenza,7,5/25/2021,Wet
+Angela Nampiima,Amoxicillin,Infection,Bacterial,9,5/13/2021,Wet
+Andrew Ssemwanga,Ibuprofen,Pain,Headache,4,5/16/2021,Wet
+Arthur Nabirye,Metformin,Diabetes,Type 1,2,5/11/2021,Wet
+Beatrice Tumusiime,Cetirizine,Allergy,Food,3,5/30/2021,Wet
+Benson Kato,Paracetamol,Fever,Influenza,4,5/10/2021,Wet
+Betty Nsubuga,Amoxicillin,Infection,Bacterial,2,5/28/2021,Wet
+Brian Nakato,Ibuprofen,Pain,Headache,6,5/13/2021,Wet
+Caroline Nalubega,Metformin,Diabetes,Type 1,10,5/29/2021,Wet
+Charles Odongo,Cetirizine,Allergy,Food,5,5/10/2021,Wet
+Christine Kasozi,Paracetamol,Fever,Influenza,3,5/19/2021,Wet
+Clement Namuyanja,Amoxicillin,Infection,Bacterial,9,5/30/2021,Wet
+Diana Kato,Ibuprofen,Pain,Headache,5,5/19/2021,Wet
+Eliud Mwesigwa,Metformin,Diabetes,Type 1,8,5/5/2021,Wet
+Esther Nsubuga,Cetirizine,Allergy,Food,9,5/9/2021,Wet
+Fiona Nakatudde,Paracetamol,Fever,Influenza,7,5/18/2021,Wet
+Fredrick Nakirya,Amoxicillin,Infection,Bacterial,4,5/7/2021,Wet
+Grace Apio,Ibuprofen,Pain,Headache,2,5/13/2021,Wet
+Hannah Nsubuga,Metformin,Diabetes,Type 1,9,5/18/2021,Wet
+Harriet Ssenyonga,Cetirizine,Allergy,Food,5,5/11/2021,Wet
+Henry Mukiibi,Paracetamol,Fever,Influenza,10,5/15/2021,Wet
+James Nambale,Amoxicillin,Infection,Bacterial,5,5/22/2021,Wet
+Janet Nankya,Ibuprofen,Pain,Headache,3,5/26/2021,Wet
+Jeffrey Kasozi,Metformin,Diabetes,Type 1,6,5/1/2021,Wet
+Jennifer Nakato,Cetirizine,Allergy,Food,5,5/27/2021,Wet
+Julius Tumusiime,Paracetamol,Fever,Influenza,6,5/9/2021,Wet
+Katherine Namukwaya,Amoxicillin,Infection,Bacterial,3,5/2/2021,Wet
+Kenneth Kamugisha,Ibuprofen,Pain,Headache,7,5/14/2021,Wet
+Keziah Nsubuga,Metformin,Diabetes,Type 1,6,5/8/2021,Wet
+Lillian Nsubuga,Cetirizine,Allergy,Food,2,5/18/2021,Wet
+Lydia Sserunjogi,Paracetamol,Fever,Influenza,7,5/25/2021,Wet
+Margaret Nakayiza,Amoxicillin,Infection,Bacterial,6,5/6/2021,Wet
+Martin Okwakol,Ibuprofen,Pain,Headache,10,5/1/2021,Wet
+Moses Nsubuga,Metformin,Diabetes,Type 1,6,5/7/2021,Wet
+Naomi Kato,Cetirizine,Allergy,Food,7,5/10/2021,Wet
+Nathan Namuyanja,Paracetamol,Fever,Influenza,6,5/14/2021,Wet
+Nina Nalubega,Amoxicillin,Infection,Bacterial,3,5/7/2021,Wet
+Oscar Nsubuga,Ibuprofen,Pain,Headache,3,5/26/2021,Wet
+Paul Ssenyonga,Metformin,Diabetes,Type 1,2,5/21/2021,Wet
+Patricia Nakalema,Cetirizine,Allergy,Food,7,5/10/2021,Wet
+Peter Namutebi,Paracetamol,Fever,Influenza,3,6/29/2021,Dry
+Ruth Namatovu,Amoxicillin,Infection,Bacterial,5,6/23/2021,Dry
+Samuel Nsubuga,Ibuprofen,Pain,Headache,2,6/17/2021,Dry
+Sandra Nakato,Metformin,Diabetes,Type 1,8,6/18/2021,Dry
+Sarah Kanyike,Cetirizine,Allergy,Food,6,6/3/2021,Dry
+Simeon Mwesigye,Paracetamol,Fever,Influenza,8,6/22/2021,Dry
+Stephen Nakalema,Amoxicillin,Infection,Bacterial,5,6/8/2021,Dry
+Sylvia Tumusiime,Ibuprofen,Pain,Headache,8,6/13/2021,Dry
+Timothy Ssemwanga,Metformin,Diabetes,Type 1,9,6/19/2021,Dry
+Vera Nsubuga,Cetirizine,Allergy,Food,6,6/5/2021,Dry
+Victoria Nankya,Paracetamol,Fever,Influenza,8,6/17/2021,Dry
+Winnie Nakato,Amoxicillin,Infection,Bacterial,9,6/17/2021,Dry
+Abubaker Kato,Ibuprofen,Pain,Headache,1,6/29/2021,Dry
+Adeline Namukwaya,Metformin,Diabetes,Type 1,2,6/22/2021,Dry
+Allan Nakalembe,Cetirizine,Allergy,Food,6,6/10/2021,Dry
+Amos Nsubuga,Paracetamol,Fever,Influenza,7,6/21/2021,Dry
+Anita Nsubuga,Amoxicillin,Infection,Bacterial,4,6/12/2021,Dry
+Anthony Mwebaze,Ibuprofen,Pain,Headache,3,6/17/2021,Dry
+Apostle Namutebi,Metformin,Diabetes,Type 1,7,6/19/2021,Dry
+Asha Namuyanja,Cetirizine,Allergy,Food,10,6/26/2021,Dry
+Benon Nsubuga,Paracetamol,Fever,Influenza,2,6/17/2021,Dry
+Beryl Nakabugo,Amoxicillin,Infection,Bacterial,7,6/17/2021,Dry
+Brian Tumusiime,Ibuprofen,Pain,Headache,10,6/14/2021,Dry
+Caroline Kasozi,Metformin,Diabetes,Type 1,3,6/3/2021,Dry
+Charles Nambale,Cetirizine,Allergy,Food,10,6/11/2021,Dry
+Clara Nakirya,Paracetamol,Fever,Influenza,3,6/18/2021,Dry
+Deborah Nalubega,Amoxicillin,Infection,Bacterial,4,6/24/2021,Dry
+Eleanor Nsubuga,Ibuprofen,Pain,Headache,5,6/22/2021,Dry
+Elijah Nakalemba,Metformin,Diabetes,Type 1,4,6/20/2021,Dry
+Emmanuel Kasozi,Cetirizine,Allergy,Food,9,6/8/2021,Dry
+Emily Nakato,Paracetamol,Fever,Influenza,6,6/17/2021,Dry
+Erick Mwesigwa,Amoxicillin,Infection,Bacterial,2,6/8/2021,Dry
+Eunice Nsubuga,Ibuprofen,Pain,Migraine,7,6/14/2021,Dry
+Florence Nakayiza,Metformin,Diabetes,Type 1,2,6/1/2021,Dry
+Frank Tumusiime,Cetirizine,Allergy,Food,3,6/3/2021,Dry
+Geraldine Nsubuga,Paracetamol,Fever,Influenza,8,6/2/2021,Dry
+George Nakato,Amoxicillin,Infection,Bacterial,10,6/11/2021,Dry
+Grace Nsubuga,Ibuprofen,Pain,Migraine,10,6/12/2021,Dry
+Henry Kasozi,Metformin,Diabetes,Type 1,3,6/28/2021,Dry
+Ivan Nakirya,Cetirizine,Allergy,Food,3,6/28/2021,Dry
+Jackline Tumusiime,Paracetamol,Fever,Influenza,9,6/25/2021,Dry
+Jane Nsubuga,Amoxicillin,Infection,Bacterial,9,6/29/2021,Dry
+Jolly Nakalembe,Ibuprofen,Pain,Migraine,1,6/30/2021,Dry
+Jonathan Nsubuga,Metformin,Diabetes,Type 1,10,6/6/2021,Dry
+Josephine Namuyanja,Cetirizine,Allergy,Food,5,6/16/2021,Dry
+Judith Nsubuga,Paracetamol,Fever,Influenza,6,6/23/2021,Dry
+Julius Kasozi,Amoxicillin,Infection,Bacterial,5,6/2/2021,Dry
+Katherine Nsubuga,Ibuprofen,Pain,Migraine,8,6/5/2021,Dry
+Kibomi Nakato,Metformin,Diabetes,Type 1,8,6/24/2021,Dry
+Kirsten Nsubuga,Cetirizine,Allergy,Food,9,6/20/2021,Dry
+Leonard Nsubuga,Paracetamol,Fever,Influenza,2,6/28/2021,Dry
+Lydia Mwesigye,Amoxicillin,Infection,Bacterial,8,6/19/2021,Dry
+Martin Nakato,Ibuprofen,Pain,Migraine,7,6/27/2021,Dry
+Martha Nsubuga,Metformin,Diabetes,Type 1,6,6/14/2021,Dry
+Michael Nakirya,Cetirizine,Allergy,Food,7,6/24/2021,Dry
+Miriam Nsubuga,Paracetamol,Fever,Influenza,3,6/15/2021,Dry
+Naomi Ssemwanga,Amoxicillin,Infection,Bacterial,8,6/1/2021,Dry
+Nicholas Nsubuga,Ibuprofen,Pain,Migraine,6,6/4/2021,Dry
+Nina Mwesigwa,Metformin,Diabetes,Type 1,9,6/10/2021,Dry
+Patricia Nsubuga,Cetirizine,Allergy,Food,3,6/11/2021,Dry
+Paul Nakato,Paracetamol,Fever,Influenza,9,6/3/2021,Dry
+Rebecca Nakirya,Amoxicillin,Infection,Bacterial,2,6/13/2021,Dry
+Ruth Mwesigwa,Ibuprofen,Pain,Migraine,4,6/28/2021,Dry
+Simon Nakato,Metformin,Diabetes,Type 1,1,6/5/2021,Dry
+Sophie Nakabugo,Cetirizine,Allergy,Food,3,6/23/2021,Dry
+Sylvia Nakayiza,Paracetamol,Fever,Influenza,4,6/5/2021,Dry
+Titus Namukwaya,Amoxicillin,Infection,Bacterial,4,6/21/2021,Dry
+Tom Nsubuga,Ibuprofen,Pain,Migraine,8,6/11/2021,Dry
+Victoria Mwebaze,Metformin,Diabetes,Type 1,3,6/13/2021,Dry
+Winnie Nsubuga,Cetirizine,Allergy,Food,4,6/7/2021,Dry
+Abraham Nsubuga,Paracetamol,Fever,Influenza,5,6/4/2021,Dry
+Asha Nakirya,Amoxicillin,Infection,Bacterial,3,6/4/2021,Dry
+Bernard Namuyanja,Ibuprofen,Pain,Migraine,5,6/7/2021,Dry
+Catherine Kato,Metformin,Diabetes,Type 1,2,6/24/2021,Dry
+David Kasozi,Cetirizine,Allergy,Food,10,6/30/2021,Dry
+Doreen Namutebi,Paracetamol,Fever,Influenza,6,6/26/2021,Dry
+Elizabeth Nsubuga,Amoxicillin,Infection,Bacterial,6,6/22/2021,Dry
+Emmanuel Nsubuga,Ibuprofen,Pain,Migraine,1,6/23/2021,Dry
+Faith Nakato,Metformin,Diabetes,Type 1,6,6/20/2021,Dry
+Felix Nakirya,Cetirizine,Allergy,Food,8,6/16/2021,Dry
+Gerald Kasozi,Paracetamol,Fever,Influenza,7,6/21/2021,Dry
+Harriet Nsubuga,Amoxicillin,Infection,Bacterial,1,6/11/2021,Dry
+Hilda Nakalemba,Ibuprofen,Pain,Migraine,8,6/19/2021,Dry
+Jackie Nsubuga,Metformin,Diabetes,Type 1,4,6/23/2021,Dry
+James Nakalemba,Cetirizine,Allergy,Food,7,6/21/2021,Dry
+Janet Nsubuga,Paracetamol,Fever,Influenza,1,6/13/2021,Dry
+Jeffrey Namuyanja,Amoxicillin,Infection,Bacterial,3,6/27/2021,Dry
+Jennifer Nsubuga,Ibuprofen,Pain,Migraine,5,6/1/2021,Dry
+John Mwesigye,Metformin,Diabetes,Type 1,5,6/5/2021,Dry
+Joseph Nsubuga,Cetirizine,Allergy,Food,6,6/10/2021,Dry
+Juliet Kasozi,Paracetamol,Fever,Influenza,4,6/28/2021,Dry
+Keziah Nsubuga,Amoxicillin,Infection,Bacterial,1,6/5/2021,Dry
+Laura Nalubega,Ibuprofen,Pain,Migraine,9,6/8/2021,Dry
+Lydia Nakirya,Metformin,Diabetes,Type 1,2,6/25/2021,Dry
+Margaret Namukwaya,Cetirizine,Allergy,Food,3,6/16/2021,Dry
+Moses Namutebi,Paracetamol,Fever,Influenza,1,6/4/2021,Dry
+Nancy Nakato,Amoxicillin,Infection,Bacterial,4,6/13/2021,Dry
+Noreen Namukwaya,Ibuprofen,Pain,Migraine,3,6/7/2021,Dry
+Patrick Ssemwanga,Metformin,Diabetes,Type 1,10,6/13/2021,Dry
+Ruth Nsubuga,Cetirizine,Allergy,Food,4,6/13/2021,Dry
+Simon Nsubuga,Paracetamol,Fever,Influenza,6,6/9/2021,Dry
+Solomon Nakato,Amoxicillin,Infection,Bacterial,2,6/11/2021,Dry
+Sylvia Nakalemba,Ibuprofen,Pain,Migraine,4,6/15/2021,Dry
+Timothy Nsubuga,Metformin,Diabetes,Type 1,5,6/24/2021,Dry
+Vera Namutebi,Cetirizine,Allergy,Food,2,6/7/2021,Dry
+William Nakirya,Paracetamol,Fever,Influenza,6,6/4/2021,Dry
+Abel Mwesigwa,Amoxicillin,Infection,Bacterial,9,6/18/2021,Dry
+Amina Nakato,Ibuprofen,Pain,Migraine,8,6/21/2021,Dry
+Andrew Nsubuga,Metformin,Diabetes,Type 1,10,6/17/2021,Dry
+Angela Nakirya,Cetirizine,Allergy,Food,6,6/28/2021,Dry
+Asha Nsubuga,Paracetamol,Fever,Influenza,3,6/16/2021,Dry
+Betty Tumusiime,Amoxicillin,Infection,Bacterial,1,6/13/2021,Dry
+Brian Ssemwanga,Ibuprofen,Pain,Migraine,5,6/28/2021,Dry
+Caroline Nakirya,Metformin,Diabetes,Type 1,7,6/28/2021,Dry
+Clement Nakato,Cetirizine,Allergy,Food,4,6/10/2021,Dry
+Dorothy Nsubuga,Paracetamol,Fever,Influenza,1,6/1/2021,Dry
+Elina Nakato,Amoxicillin,Infection,Bacterial,7,6/13/2021,Dry
+Eunice Nsubuga,Ibuprofen,Pain,Migraine,1,6/14/2021,Dry
+Fiona Nakirya,Metformin,Diabetes,Type 1,2,6/24/2021,Dry
+Fred Nsubuga,Cetirizine,Allergy,Food,4,6/15/2021,Dry
+Grace Namuyanja,Paracetamol,Fever,Influenza,4,6/15/2021,Dry
+Jackline Nsubuga,Amoxicillin,Infection,Bacterial,4,6/27/2021,Dry
+Josephine Nakato,Ibuprofen,Pain,Migraine,7,6/29/2021,Dry
+Joshua Mwebaze,Metformin,Diabetes,Type 1,4,6/2/2021,Dry
+Judy Nsubuga,Cetirizine,Allergy,Food,7,6/8/2021,Dry
+Katherine Namutebi,Paracetamol,Fever,Influenza,10,6/9/2021,Dry
+Keziah Namuyanja,Amoxicillin,Infection,Bacterial,3,6/20/2021,Dry
+Lawrence Nsubuga,Ibuprofen,Pain,Migraine,8,6/11/2021,Dry
+Margaret Nsubuga,Metformin,Diabetes,Type 1,10,6/9/2021,Dry
+Martha Nakirya,Cetirizine,Allergy,Food,6,6/10/2021,Dry
+Michael Nsubuga,Paracetamol,Fever,Influenza,8,6/1/2021,Dry
+Nancy Nsubuga,Amoxicillin,Infection,Bacterial,9,6/2/2021,Dry
+Naomi Nsubuga,Ibuprofen,Pain,Migraine,4,6/21/2021,Dry
+Paul Tumusiime,Metformin,Diabetes,Type 1,7,6/7/2021,Dry
+Rebecca Nsubuga,Cetirizine,Allergy,Food,1,6/17/2021,Dry
+Richard Nakato,Paracetamol,Fever,Influenza,1,6/16/2021,Dry
+Ruth Nakirya,Amoxicillin,Infection,Bacterial,5,6/3/2021,Dry
+Sandra Nsubuga,Ibuprofen,Pain,Migraine,8,6/1/2021,Dry
+Samuel Nakirya,Metformin,Diabetes,Type 1,4,6/25/2021,Dry
+Sarah Nakato,Cetirizine,Allergy,Food,3,6/18/2021,Dry
+Sarah Nsubuga,Paracetamol,Fever,Influenza,6,6/10/2021,Dry
+Abel Nsubuga,Amoxicillin,Infection,Bacterial,7,6/12/2021,Dry
+Aisha Mugisha,Ibuprofen,Pain,Migraine,4,6/12/2021,Dry
+Albert Nakalema,Metformin,Diabetes,Type 1,8,6/19/2021,Dry
+Angela Nampiima,Cetirizine,Allergy,Food,2,6/30/2021,Dry
+Andrew Ssemwanga,Paracetamol,Fever,Influenza,3,6/24/2021,Dry
+Arthur Nabirye,Amoxicillin,Infection,Bacterial,8,6/18/2021,Dry
+Beatrice Tumusiime,Ibuprofen,Pain,Migraine,10,6/7/2021,Dry
+Benson Kato,Metformin,Diabetes,Type 1,1,6/12/2021,Dry
+Betty Nsubuga,Cetirizine,Allergy,Food,10,6/21/2021,Dry
+Brian Nakato,Paracetamol,Fever,Influenza,7,7/10/2021,Dry
+Caroline Nalubega,Amoxicillin,Infection,Bacterial,10,7/21/2021,Dry
+Charles Odongo,Ibuprofen,Pain,Migraine,9,7/12/2021,Dry
+Christine Kasozi,Metformin,Diabetes,Type 1,5,7/20/2021,Dry
+Clement Namuyanja,Cetirizine,Allergy,Food,1,7/25/2021,Dry
+Diana Kato,Paracetamol,Fever,Influenza,3,7/30/2021,Dry
+Eliud Mwesigwa,Amoxicillin,Infection,Bacterial,5,7/4/2021,Dry
+Esther Nsubuga,Ibuprofen,Pain,Migraine,6,7/9/2021,Dry
+Fiona Nakatudde,Metformin,Diabetes,Type 1,10,7/20/2021,Dry
+Fredrick Nakirya,Cetirizine,Allergy,Food,6,7/20/2021,Dry
+Grace Apio,Paracetamol,Fever,Influenza,1,7/1/2021,Dry
+Hannah Nsubuga,Amoxicillin,Infection,Bacterial,2,7/29/2021,Dry
+Harriet Ssenyonga,Ibuprofen,Pain,Migraine,9,7/21/2021,Dry
+Henry Mukiibi,Metformin,Diabetes,Type 1,3,7/28/2021,Dry
+James Nambale,Cetirizine,Allergy,Food,1,7/30/2021,Dry
+Janet Nankya,Paracetamol,Fever,Influenza,9,7/1/2021,Dry
+Jeffrey Kasozi,Amoxicillin,Infection,Bacterial,3,7/13/2021,Dry
+Jennifer Nakato,Ibuprofen,Pain,Migraine,9,7/6/2021,Dry
+Julius Tumusiime,Metformin,Diabetes,Type 1,10,7/21/2021,Dry
+Katherine Namukwaya,Cetirizine,Allergy,Food,4,7/24/2021,Dry
+Kenneth Kamugisha,Paracetamol,Fever,Influenza,9,7/23/2021,Dry
+Keziah Nsubuga,Amoxicillin,Infection,Bacterial,5,7/27/2021,Dry
+Lillian Nsubuga,Ibuprofen,Pain,Migraine,7,7/6/2021,Dry
+Lydia Sserunjogi,Metformin,Diabetes,Type 1,7,7/22/2021,Dry
+Margaret Nakayiza,Cetirizine,Allergy,Food,5,7/9/2021,Dry
+Martin Okwakol,Paracetamol,Fever,Influenza,1,7/17/2021,Dry
+Moses Nsubuga,Amoxicillin,Infection,Bacterial,3,7/26/2021,Dry
+Naomi Kato,Ibuprofen,Pain,Migraine,2,7/23/2021,Dry
+Nathan Namuyanja,Metformin,Diabetes,Type 1,10,7/1/2021,Dry
+Nina Nalubega,Cetirizine,Allergy,Food,8,7/20/2021,Dry
+Oscar Nsubuga,Paracetamol,Fever,Influenza,1,7/3/2021,Dry
+Paul Ssenyonga,Amoxicillin,Infection,Bacterial,6,7/26/2021,Dry
+Patricia Nakalema,Ibuprofen,Pain,Migraine,8,7/7/2021,Dry
+Peter Namutebi,Metformin,Diabetes,Type 1,6,7/19/2021,Dry
+Ruth Namatovu,Cetirizine,Allergy,Food,10,7/8/2021,Dry
+Samuel Nsubuga,Paracetamol,Fever,Influenza,8,7/13/2021,Dry
+Sandra Nakato,Amoxicillin,Infection,Bacterial,8,7/26/2021,Dry
+Sarah Kanyike,Ibuprofen,Pain,Migraine,8,7/28/2021,Dry
+Simeon Mwesigye,Metformin,Diabetes,Type 1,1,7/8/2021,Dry
+Stephen Nakalema,Cetirizine,Allergy,Food,10,7/12/2021,Dry
+Sylvia Tumusiime,Paracetamol,Fever,Influenza,9,7/28/2021,Dry
+Timothy Ssemwanga,Amoxicillin,Infection,Bacterial,6,7/17/2021,Dry
+Vera Nsubuga,Ibuprofen,Pain,Migraine,8,7/30/2021,Dry
+Victoria Nankya,Metformin,Diabetes,Type 1,7,7/18/2021,Dry
+Winnie Nakato,Cetirizine,Allergy,Food,1,7/12/2021,Dry
+Abubaker Kato,Paracetamol,Fever,Influenza,3,7/10/2021,Dry
+Adeline Namukwaya,Amoxicillin,Infection,Bacterial,1,7/20/2021,Dry
+Allan Nakalembe,Ibuprofen,Pain,Migraine,10,7/17/2021,Dry
+Amos Nsubuga,Metformin,Diabetes,Type 1,8,7/30/2021,Dry
+Anita Nsubuga,Cetirizine,Allergy,Food,1,7/18/2021,Dry
+Anthony Mwebaze,Paracetamol,Fever,Influenza,2,7/6/2021,Dry
+Apostle Namutebi,Amoxicillin,Infection,Bacterial,8,7/29/2021,Dry
+Asha Namuyanja,Ibuprofen,Pain,Migraine,2,7/12/2021,Dry
+Benon Nsubuga,Metformin,Diabetes,Type 1,5,7/4/2021,Dry
+Beryl Nakabugo,Cetirizine,Allergy,Food,2,7/24/2021,Dry
+Brian Tumusiime,Paracetamol,Fever,Influenza,4,7/22/2021,Dry
+Caroline Kasozi,Amoxicillin,Infection,Bacterial,1,7/4/2021,Dry
+Charles Nambale,Ibuprofen,Pain,Migraine,7,7/5/2021,Dry
+Clara Nakirya,Metformin,Diabetes,Type 1,9,7/30/2021,Dry
+Deborah Nalubega,Cetirizine,Allergy,Food,6,7/27/2021,Dry
+Eleanor Nsubuga,Paracetamol,Fever,Influenza,1,7/12/2021,Dry
+Elijah Nakalemba,Amoxicillin,Infection,Bacterial,10,7/19/2021,Dry
+Emmanuel Kasozi,Ibuprofen,Pain,Migraine,3,7/19/2021,Dry
+Emily Nakato,Metformin,Diabetes,Type 1,10,7/12/2021,Dry
+Erick Mwesigwa,Cetirizine,Allergy,Food,3,7/26/2021,Dry
+Eunice Nsubuga,Paracetamol,Fever,Influenza,8,7/10/2021,Dry
+Florence Nakayiza,Amoxicillin,Infection,Bacterial,8,7/8/2021,Dry
+Frank Tumusiime,Ibuprofen,Pain,Migraine,6,7/4/2021,Dry
+Geraldine Nsubuga,Metformin,Diabetes,Type 1,3,7/4/2021,Dry
+George Nakato,Cetirizine,Allergy,Food,5,7/15/2021,Dry
+Grace Nsubuga,Paracetamol,Fever,Influenza,7,7/29/2021,Dry
+Henry Kasozi,Amoxicillin,Infection,Bacterial,6,7/5/2021,Dry
+Ivan Nakirya,Ibuprofen,Pain,Migraine,1,7/27/2021,Dry
+Jackline Tumusiime,Metformin,Diabetes,Type 1,4,7/10/2021,Dry
+Jane Nsubuga,Cetirizine,Allergy,Food,2,7/18/2021,Dry
+Jolly Nakalembe,Paracetamol,Fever,Influenza,1,7/15/2021,Dry
+Jonathan Nsubuga,Amoxicillin,Infection,Bacterial,2,7/29/2021,Dry
+Josephine Namuyanja,Ibuprofen,Pain,Migraine,9,7/26/2021,Dry
+Judith Nsubuga,Metformin,Diabetes,Type 1,1,7/11/2021,Dry
+Julius Kasozi,Cetirizine,Allergy,Food,1,7/27/2021,Dry
+Katherine Nsubuga,Paracetamol,Fever,Influenza,10,7/16/2021,Dry
+Kibomi Nakato,Amoxicillin,Infection,Bacterial,8,7/1/2021,Dry
+Kirsten Nsubuga,Ibuprofen,Pain,Migraine,2,7/29/2021,Dry
+Leonard Nsubuga,Metformin,Diabetes,Type 1,6,7/22/2021,Dry
+Lydia Mwesigye,Cetirizine,Allergy,Food,3,7/28/2021,Dry
+Martin Nakato,Paracetamol,Fever,Influenza,3,7/16/2021,Dry
+Martha Nsubuga,Amoxicillin,Infection,Bacterial,5,7/25/2021,Dry
+Michael Nakirya,Ibuprofen,Pain,Migraine,4,7/9/2021,Dry
+Miriam Nsubuga,Metformin,Diabetes,Type 1,3,7/17/2021,Dry
+Naomi Ssemwanga,Cetirizine,Allergy,Food,6,7/10/2021,Dry
+Nicholas Nsubuga,Paracetamol,Fever,Influenza,10,7/30/2021,Dry
+Nina Mwesigwa,Amoxicillin,Infection,Bacterial,9,7/2/2021,Dry
+Patricia Nsubuga,Ibuprofen,Pain,Migraine,3,7/12/2021,Dry
+Paul Nakato,Metformin,Diabetes,Type 1,10,7/23/2021,Dry
+Rebecca Nakirya,Cetirizine,Allergy,Food,5,7/23/2021,Dry
+Ruth Mwesigwa,Paracetamol,Fever,Influenza,1,7/18/2021,Dry
+Simon Nakato,Amoxicillin,Infection,Bacterial,8,7/22/2021,Dry
+Sophie Nakabugo,Ibuprofen,Pain,Migraine,9,7/20/2021,Dry
+Sylvia Nakayiza,Metformin,Diabetes,Type 1,10,7/29/2021,Dry
+Titus Namukwaya,Cetirizine,Allergy,Food,4,7/4/2021,Dry
+Tom Nsubuga,Paracetamol,Fever,Influenza,4,7/8/2021,Dry
+Victoria Mwebaze,Amoxicillin,Infection,Bacterial,10,7/11/2021,Dry
+Winnie Nsubuga,Ibuprofen,Pain,Migraine,5,7/7/2021,Dry
+Abraham Nsubuga,Metformin,Diabetes,Type 1,8,7/15/2021,Dry
+Asha Nakirya,Cetirizine,Allergy,Food,6,7/1/2021,Dry
+Bernard Namuyanja,Paracetamol,Fever,Influenza,7,7/7/2021,Dry
+Catherine Kato,Amoxicillin,Infection,Bacterial,9,7/7/2021,Dry
+David Kasozi,Ibuprofen,Pain,Migraine,4,7/26/2021,Dry
+Doreen Namutebi,Metformin,Diabetes,Type 1,6,7/8/2021,Dry
+Elizabeth Nsubuga,Cetirizine,Allergy,Food,2,7/26/2021,Dry
+Emmanuel Nsubuga,Paracetamol,Fever,Influenza,7,7/13/2021,Dry
+Faith Nakato,Amoxicillin,Infection,Bacterial,3,7/27/2021,Dry
+Felix Nakirya,Ibuprofen,Pain,Migraine,7,7/8/2021,Dry
+Gerald Kasozi,Metformin,Diabetes,Type 1,4,7/30/2021,Dry
+Harriet Nsubuga,Cetirizine,Allergy,Food,7,7/8/2021,Dry
+Hilda Nakalemba,Paracetamol,Fever,Influenza,5,7/15/2021,Dry
+Jackie Nsubuga,Amoxicillin,Infection,Bacterial,5,7/4/2021,Dry
+James Nakalemba,Ibuprofen,Pain,Migraine,8,7/26/2021,Dry
+Janet Nsubuga,Metformin,Diabetes,Type 1,8,7/22/2021,Dry
+Jeffrey Namuyanja,Cetirizine,Allergy,Food,2,7/26/2021,Dry
+Jennifer Nsubuga,Paracetamol,Fever,Influenza,9,7/5/2021,Dry
+John Mwesigye,Amoxicillin,Infection,Bacterial,3,7/17/2021,Dry
+Joseph Nsubuga,Ibuprofen,Pain,Migraine,1,7/10/2021,Dry
+Juliet Kasozi,Metformin,Diabetes,Type 1,10,7/22/2021,Dry
+Keziah Nsubuga,Cetirizine,Allergy,Food,7,7/13/2021,Dry
+Laura Nalubega,Paracetamol,Fever,Influenza,8,7/22/2021,Dry
+Lydia Nakirya,Amoxicillin,Infection,Bacterial,2,7/15/2021,Dry
+Margaret Namukwaya,Ibuprofen,Pain,Migraine,5,7/20/2021,Dry
+Moses Namutebi,Metformin,Diabetes,Type 1,8,7/25/2021,Dry
+Nancy Nakato,Cetirizine,Allergy,Food,4,7/17/2021,Dry
+Noreen Namukwaya,Paracetamol,Fever,Influenza,8,7/5/2021,Dry
+Patrick Ssemwanga,Amoxicillin,Infection,Bacterial,4,7/28/2021,Dry
+Ruth Nsubuga,Ibuprofen,Pain,Migraine,8,7/9/2021,Dry
+Simon Nsubuga,Metformin,Diabetes,Type 1,5,7/13/2021,Dry
+Solomon Nakato,Cetirizine,Allergy,Food,3,7/26/2021,Dry
+Sylvia Nakalemba,Paracetamol,Fever,Influenza,1,7/30/2021,Dry
+Timothy Nsubuga,Amoxicillin,Infection,Bacterial,4,7/28/2021,Dry
+Vera Namutebi,Ibuprofen,Pain,Migraine,1,7/27/2021,Dry
+William Nakirya,Metformin,Diabetes,Type 1,7,7/15/2021,Dry
+Abel Mwesigwa,Cetirizine,Allergy,Food,7,7/22/2021,Dry
+Amina Nakato,Paracetamol,Fever,Influenza,7,7/7/2021,Dry
+Andrew Nsubuga,Amoxicillin,Infection,Bacterial,8,7/22/2021,Dry
+Angela Nakirya,Ibuprofen,Pain,Migraine,5,7/24/2021,Dry
+Asha Nsubuga,Metformin,Diabetes,Type 1,8,7/11/2021,Dry
+Betty Tumusiime,Cetirizine,Allergy,Food,7,7/30/2021,Dry
+Brian Ssemwanga,Paracetamol,Fever,Influenza,10,7/22/2021,Dry
+Caroline Nakirya,Amoxicillin,Infection,Bacterial,6,7/14/2021,Dry
+Clement Nakato,Ibuprofen,Pain,Migraine,8,7/20/2021,Dry
+Dorothy Nsubuga,Metformin,Diabetes,Type 1,9,7/18/2021,Dry
+Elina Nakato,Cetirizine,Allergy,Food,9,7/23/2021,Dry
+Eunice Nsubuga,Paracetamol,Fever,Influenza,9,8/29/2021,Dry
+Fiona Nakirya,Amoxicillin,Infection,Bacterial,7,8/9/2021,Dry
+Fred Nsubuga,Ibuprofen,Pain,Migraine,9,8/12/2021,Dry
+Grace Namuyanja,Metformin,Diabetes,Type 1,1,8/30/2021,Dry
+Jackline Nsubuga,Cetirizine,Allergy,Food,7,8/9/2021,Dry
+Josephine Nakato,Paracetamol,Fever,Influenza,10,8/23/2021,Dry
+Joshua Mwebaze,Amoxicillin,Infection,Bacterial,5,8/3/2021,Dry
+Judy Nsubuga,Ibuprofen,Pain,Migraine,3,8/5/2021,Dry
+Katherine Namutebi,Metformin,Diabetes,Type 1,6,8/27/2021,Dry
+Keziah Namuyanja,Cetirizine,Allergy,Food,8,8/6/2021,Dry
+Lawrence Nsubuga,Paracetamol,Fever,Influenza,7,8/20/2021,Dry
+Margaret Nsubuga,Amoxicillin,Infection,Bacterial,8,8/8/2021,Dry
+Martha Nakirya,Ibuprofen,Pain,Migraine,6,8/23/2021,Dry
+Michael Nsubuga,Metformin,Diabetes,Type 1,4,8/23/2021,Dry
+Nancy Nsubuga,Cetirizine,Allergy,Food,9,8/15/2021,Dry
+Naomi Nsubuga,Paracetamol,Fever,Influenza,2,8/29/2021,Dry
+Paul Tumusiime,Amoxicillin,Infection,Bacterial,7,8/3/2021,Dry
+Rebecca Nsubuga,Ibuprofen,Pain,Migraine,9,8/4/2021,Dry
+Richard Nakato,Metformin,Diabetes,Type 1,5,8/25/2021,Dry
+Ruth Nakirya,Cetirizine,Allergy,Food,7,8/1/2021,Dry
+Sandra Nsubuga,Paracetamol,Fever,Influenza,6,8/10/2021,Dry
+Samuel Nakirya,Amoxicillin,Infection,Bacterial,8,8/2/2021,Dry
+Sarah Nakato,Ibuprofen,Pain,Migraine,4,8/7/2021,Dry
+Sarah Nsubuga,Metformin,Diabetes,Type 1,6,8/30/2021,Dry
+Aaliyah Ssemwanga,Cetirizine,Allergy,Food,1,8/30/2021,Dry
+Abel Sserunjogi,Paracetamol,Fever,Influenza,9,8/14/2021,Dry
+Adams Nakirya,Amoxicillin,Infection,Bacterial,4,8/2/2021,Dry
+Alice Namaganda,Ibuprofen,Pain,Migraine,3,8/4/2021,Dry
+Amelia Kasozi,Metformin,Diabetes,Type 1,2,8/30/2021,Dry
+Amon Sserunjogi,Cetirizine,Allergy,Food,6,8/12/2021,Dry
+Angela Nakirya,Paracetamol,Fever,Influenza,10,8/2/2021,Dry
+Annette Nsubuga,Amoxicillin,Infection,Bacterial,2,8/2/2021,Dry
+Asha Nalubega,Ibuprofen,Pain,Migraine,5,8/17/2021,Dry
+Benard Nsubuga,Metformin,Diabetes,Type 1,10,8/8/2021,Dry
+Beverly Nakato,Cetirizine,Allergy,Food,8,8/7/2021,Dry
+Boris Mwebaze,Paracetamol,Fever,Influenza,2,8/13/2021,Dry
+Brenda Kasozi,Amoxicillin,Infection,Bacterial,1,8/15/2021,Dry
+Bruce Ssemwanga,Ibuprofen,Pain,Migraine,8,8/17/2021,Dry
+Catherine Nakirya,Metformin,Diabetes,Type 1,10,8/27/2021,Dry
+Charles Kamulegeya,Cetirizine,Allergy,Food,8,8/14/2021,Dry
+Cheryl Nakato,Paracetamol,Fever,Influenza,3,8/14/2021,Dry
+Christine Nakalemba,Amoxicillin,Infection,Bacterial,9,8/21/2021,Dry
+Claudia Nakirya,Ibuprofen,Pain,Migraine,3,8/21/2021,Dry
+Damali Nsubuga,Metformin,Diabetes,Type 1,2,8/2/2021,Dry
+Daniel Namukwaya,Cetirizine,Allergy,Food,4,8/5/2021,Dry
+Daphne Tumusiime,Paracetamol,Fever,Influenza,10,8/7/2021,Dry
+Deborah Ssemwanga,Amoxicillin,Infection,Bacterial,5,8/8/2021,Dry
+Dennis Nakato,Ibuprofen,Pain,Migraine,1,8/8/2021,Dry
+Diana Namutebi,Metformin,Diabetes,Type 1,10,8/1/2021,Dry
+Dorothy Kato,Cetirizine,Allergy,Food,1,8/26/2021,Dry
+Elias Nakirya,Paracetamol,Fever,Influenza,1,8/13/2021,Dry
+Elsie Nsubuga,Amoxicillin,Infection,Bacterial,3,8/2/2021,Dry
+Esther Kato,Ibuprofen,Pain,Migraine,9,8/22/2021,Dry
+Eugene Sserunjogi,Metformin,Diabetes,Type 1,3,8/30/2021,Dry
+Evelyn Nakirya,Cetirizine,Allergy,Food,5,8/2/2021,Dry
+Faris Nsubuga,Paracetamol,Fever,Influenza,3,8/6/2021,Dry
+Florence Namutebi,Amoxicillin,Infection,Bacterial,8,8/17/2021,Dry
+Frida Nalubega,Ibuprofen,Pain,Migraine,3,8/20/2021,Dry
+Gideon Ssemwanga,Metformin,Diabetes,Type 1,8,8/9/2021,Dry
+Gladys Nsubuga,Cetirizine,Allergy,Food,6,8/10/2021,Dry
+Gloria Nakirya,Paracetamol,Fever,Influenza,10,8/13/2021,Dry
+Grace Mwesigwa,Amoxicillin,Infection,Bacterial,1,8/1/2021,Dry
+Gregory Nakato,Ibuprofen,Pain,Migraine,1,8/20/2021,Dry
+Hannah Nsubuga,Metformin,Diabetes,Type 1,8,8/12/2021,Dry
+Harriet Nakirya,Cetirizine,Allergy,Food,10,8/14/2021,Dry
+Helen Kato,Paracetamol,Fever,Influenza,3,8/18/2021,Dry
+Hope Nakalemba,Amoxicillin,Infection,Bacterial,9,8/13/2021,Dry
+Imran Sserunjogi,Ibuprofen,Pain,Migraine,1,8/13/2021,Dry
+Irene Nsubuga,Metformin,Diabetes,Type 1,9,8/29/2021,Dry
+Jacob Nsubuga,Cetirizine,Allergy,Food,6,8/27/2021,Dry
+James Nakirya,Paracetamol,Fever,Influenza,1,8/8/2021,Dry
+Jemimah Nakato,Amoxicillin,Infection,Bacterial,10,8/30/2021,Dry
+Jennifer Namutebi,Ibuprofen,Pain,Migraine,7,8/20/2021,Dry
+Joan Nsubuga,Metformin,Diabetes,Type 1,8,8/12/2021,Dry
+John Kato,Cetirizine,Allergy,Food,1,8/26/2021,Dry
+Joyce Nalubega,Paracetamol,Fever,Influenza,7,8/23/2021,Dry
+Jude Ssemwanga,Amoxicillin,Infection,Bacterial,10,8/28/2021,Dry
+Judith Nsubuga,Ibuprofen,Pain,Migraine,4,8/22/2021,Dry
+Julius Nakirya,Metformin,Diabetes,Type 1,6,8/22/2021,Dry
+Justine Nakato,Cetirizine,Allergy,Food,1,8/14/2021,Dry
+Kennedy Kasozi,Paracetamol,Fever,Influenza,4,8/5/2021,Dry
+Kezia Nsubuga,Amoxicillin,Infection,Bacterial,10,8/21/2021,Dry
+Kizito Nakirya,Ibuprofen,Pain,Migraine,2,8/20/2021,Dry
+Laura Namukwaya,Metformin,Diabetes,Type 1,3,8/15/2021,Dry
+Lillian Nakato,Cetirizine,Allergy,Food,9,8/11/2021,Dry
+Lisa Mwesigwa,Paracetamol,Fever,Influenza,1,8/3/2021,Dry
+Louis Nakalemba,Amoxicillin,Infection,Bacterial,2,8/17/2021,Dry
+Margaret Namutebi,Ibuprofen,Pain,Migraine,3,8/26/2021,Dry
+Martha Nakirya,Metformin,Diabetes,Type 1,1,8/23/2021,Dry
+Moses Namutebi,Cetirizine,Allergy,Food,2,8/4/2021,Dry
+Nancy Nsubuga,Paracetamol,Fever,Influenza,8,8/3/2021,Dry
+Nashit Kasozi,Amoxicillin,Infection,Bacterial,3,8/29/2021,Dry
+Naomi Ssemwanga,Ibuprofen,Pain,Migraine,10,8/25/2021,Dry
+Nicholas Nakirya,Metformin,Diabetes,Type 1,5,8/6/2021,Dry
+Olivia Nakato,Cetirizine,Allergy,Food,9,8/6/2021,Dry
+Oscar Ssemwanga,Paracetamol,Fever,Influenza,5,8/3/2021,Dry
+Patience Nakirya,Amoxicillin,Infection,Bacterial,9,8/3/2021,Dry
+Paul Namutebi,Ibuprofen,Pain,Migraine,10,8/25/2021,Dry
+Peninah Nsubuga,Metformin,Diabetes,Type 1,9,8/18/2021,Dry
+Peter Nakalemba,Cetirizine,Allergy,Food,5,8/27/2021,Dry
+Rebecca Nakirya,Paracetamol,Fever,Influenza,9,8/24/2021,Dry
+Rita Nsubuga,Amoxicillin,Infection,Bacterial,7,8/2/2021,Dry
+Robert Nakato,Ibuprofen,Pain,Migraine,5,8/8/2021,Dry
+Rosemary Kasozi,Metformin,Diabetes,Type 1,7,8/18/2021,Dry
+Ruth Nakirya,Cetirizine,Allergy,Food,8,8/5/2021,Dry
+Sandra Namukwaya,Paracetamol,Fever,Influenza,3,8/25/2021,Dry
+Samuel Nakato,Amoxicillin,Infection,Bacterial,10,8/16/2021,Dry
+Sarah Ssemwanga,Ibuprofen,Pain,Migraine,10,8/2/2021,Dry
+Sharon Nakirya,Metformin,Diabetes,Type 1,10,8/22/2021,Dry
+Simon Nakalemba,Cetirizine,Allergy,Food,6,8/11/2021,Dry
+Sophia Nsubuga,Paracetamol,Fever,Influenza,6,8/9/2021,Dry
+Sylvia Namutebi,Amoxicillin,Infection,Bacterial,3,8/29/2021,Dry
+Theodore Nakato,Ibuprofen,Pain,Migraine,4,8/8/2021,Dry
+Timothy Nakirya,Metformin,Diabetes,Type 1,1,8/4/2021,Dry
+Tracy Nsubuga,Cetirizine,Allergy,Food,5,8/16/2021,Dry
+Ursula Nakirya,Paracetamol,Fever,Influenza,10,8/10/2021,Dry
+Victor Ssemwanga,Amoxicillin,Infection,Bacterial,1,8/3/2021,Dry
+Violet Nakalemba,Ibuprofen,Pain,Migraine,1,8/21/2021,Dry
+Wanjiku Nsubuga,Metformin,Diabetes,Type 1,8,8/25/2021,Dry
+William Nakirya,Cetirizine,Allergy,Food,1,8/3/2021,Dry
+Yvonne Kasozi,Paracetamol,Fever,Influenza,4,8/13/2021,Dry
+Zainab Nakato,Amoxicillin,Infection,Bacterial,10,8/19/2021,Dry
+Abdallah Nsubuga,Ibuprofen,Pain,Migraine,4,8/17/2021,Dry
+Abigail Nakirya,Metformin,Diabetes,Type 1,2,8/11/2021,Dry
+Albert Nakato,Cetirizine,Allergy,Food,1,8/25/2021,Dry
+Alinafe Nsubuga,Paracetamol,Fever,Influenza,9,8/30/2021,Dry
+Amos Nakirya,Amoxicillin,Infection,Bacterial,8,8/2/2021,Dry
+Aminah Namutebi,Ibuprofen,Pain,Migraine,4,8/10/2021,Dry
+Andrew Nakato,Metformin,Diabetes,Type 1,1,8/6/2021,Dry
+Ariya Nakirya,Cetirizine,Allergy,Food,6,8/23/2021,Dry
+Asha Nakalemba,Paracetamol,Fever,Influenza,4,8/20/2021,Dry
+Audrey Ssemwanga,Amoxicillin,Infection,Bacterial,3,8/23/2021,Dry
+Ava Nakato,Ibuprofen,Pain,Migraine,5,8/8/2021,Dry
+Barbra Nsubuga,Metformin,Diabetes,Type 1,1,8/29/2021,Dry
+Ben Kato,Cetirizine,Allergy,Food,8,8/29/2021,Dry
+Bernard Nakirya,Paracetamol,Fever,Influenza,2,8/15/2021,Dry
+Bina Nakato,Amoxicillin,Infection,Bacterial,3,8/2/2021,Dry
+Blanca Nsubuga,Ibuprofen,Pain,Migraine,9,8/10/2021,Dry
+Bryan Namutebi,Metformin,Diabetes,Type 1,7,8/11/2021,Dry
+Caroline Nsubuga,Cetirizine,Allergy,Food,7,8/9/2021,Dry
+Cassandra Nakalemba,Paracetamol,Fever,Influenza,8,8/11/2021,Dry
+Charles Namuyanja,Amoxicillin,Infection,Bacterial,4,8/26/2021,Dry
+Cheryl Namutebi,Ibuprofen,Pain,Migraine,6,8/4/2021,Dry
+Christian Nakirya,Metformin,Diabetes,Type 1,5,8/25/2021,Dry
+Claudia Ssemwanga,Cetirizine,Allergy,Food,7,8/29/2021,Dry
+Cynthia Nakato,Paracetamol,Fever,Influenza,8,8/25/2021,Dry
+David Nsubuga,Amoxicillin,Infection,Bacterial,2,8/18/2021,Dry
+Denis Namukwaya,Ibuprofen,Pain,Migraine,5,8/25/2021,Dry
+Doris Nakirya,Metformin,Diabetes,Type 1,2,8/4/2021,Dry
+Doreen Nsubuga,Cetirizine,Allergy,Food,3,8/23/2021,Dry
+Dorothy Namutebi,Paracetamol,Fever,Influenza,4,9/20/2021,Dry
+Douglas Kasozi,Amoxicillin,Infection,Bacterial,1,9/10/2021,Dry
+Doris Nakato,Ibuprofen,Pain,Migraine,5,9/9/2021,Dry
+Elena Nakalemba,Metformin,Diabetes,Type 1,6,9/15/2021,Dry
+Eliud Nsubuga,Cetirizine,Allergy,Food,2,9/29/2021,Dry
+Elsa Kato,Paracetamol,Fever,Influenza,1,9/18/2021,Dry
+Eunice Nakato,Amoxicillin,Infection,Bacterial,10,9/15/2021,Dry
+Faith Nsubuga,Ibuprofen,Pain,Migraine,3,9/26/2021,Dry
+Felix Nakirya,Metformin,Diabetes,Type 1,10,9/25/2021,Dry
+Fiona Namutebi,Cetirizine,Allergy,Food,6,9/26/2021,Dry
+Florence Ssemwanga,Paracetamol,Fever,Influenza,1,9/18/2021,Dry
+Frank Nakato,Amoxicillin,Infection,Bacterial,7,9/22/2021,Dry
+Frederick Nsubuga,Ibuprofen,Pain,Migraine,1,9/2/2021,Dry
+Gabriella Nakirya,Metformin,Diabetes,Type 1,7,9/15/2021,Dry
+George Namutebi,Cetirizine,Allergy,Food,9,9/12/2021,Dry
+Gladys Nakalemba,Paracetamol,Fever,Influenza,9,9/23/2021,Dry
+Gloria Nsubuga,Amoxicillin,Infection,Bacterial,4,9/6/2021,Dry
+Grace Kasozi,Ibuprofen,Pain,Migraine,5,9/14/2021,Dry
+Greta Nakato,Metformin,Diabetes,Type 1,8,9/24/2021,Dry
+Hannah Ssemwanga,Cetirizine,Allergy,Food,7,9/10/2021,Dry
+Helen Nakirya,Paracetamol,Fever,Influenza,4,9/12/2021,Dry
+Hilda Namutebi,Amoxicillin,Infection,Bacterial,7,9/5/2021,Dry
+Irene Nakato,Ibuprofen,Pain,Migraine,1,9/4/2021,Dry
+Jackson Ssemwanga,Metformin,Diabetes,Type 1,5,9/8/2021,Dry
+Janet Nakirya,Cetirizine,Allergy,Food,7,9/19/2021,Dry
+James Namukwaya,Paracetamol,Fever,Influenza,4,9/17/2021,Dry
+Jane Nsubuga,Amoxicillin,Infection,Bacterial,1,9/19/2021,Dry
+Jeremiah Nakato,Ibuprofen,Pain,Migraine,8,9/13/2021,Dry
+Jessica Nsubuga,Metformin,Diabetes,Type 1,7,9/27/2021,Dry
+Joan Namutebi,Cetirizine,Allergy,Food,2,9/11/2021,Dry
+Jude Nakirya,Paracetamol,Fever,Influenza,10,9/13/2021,Dry
+Judith Ssemwanga,Amoxicillin,Infection,Bacterial,9,9/15/2021,Dry
+Juliana Nakato,Ibuprofen,Pain,Migraine,6,9/1/2021,Dry
+Justine Nsubuga,Metformin,Diabetes,Type 1,9,9/22/2021,Dry
+Katherine Nakato,Cetirizine,Allergy,Food,2,9/20/2021,Dry
+Keziah Namukwaya,Paracetamol,Fever,Influenza,2,9/11/2021,Dry
+Kizito Ssemwanga,Amoxicillin,Infection,Bacterial,9,9/26/2021,Dry
+Lawrence Nakirya,Ibuprofen,Pain,Migraine,2,9/28/2021,Dry
+Lydia Nakato,Metformin,Diabetes,Type 1,2,9/11/2021,Dry
+Margaret Ssemwanga,Cetirizine,Allergy,Food,1,9/13/2021,Dry
+Maria Nsubuga,Paracetamol,Fever,Influenza,7,9/20/2021,Dry
+Martin Nakirya,Amoxicillin,Infection,Bacterial,9,9/17/2021,Dry
+Martha Nsubuga,Ibuprofen,Pain,Migraine,6,9/14/2021,Dry
+Mary Nakato,Metformin,Diabetes,Type 1,10,9/10/2021,Dry
+Michael Ssemwanga,Cetirizine,Allergy,Food,5,9/4/2021,Dry
+Naomi Nakalemba,Paracetamol,Fever,Influenza,3,9/29/2021,Dry
+Nicholas Nsubuga,Amoxicillin,Infection,Bacterial,9,9/28/2021,Dry
+Nina Kasozi,Ibuprofen,Pain,Migraine,3,9/19/2021,Dry
+Noreen Nakato,Metformin,Diabetes,Type 1,8,9/7/2021,Dry
+Paul Ssemwanga,Cetirizine,Allergy,Food,5,9/25/2021,Dry
+Peter Namukwaya,Paracetamol,Fever,Influenza,10,9/2/2021,Dry
+Phiona Nakirya,Amoxicillin,Infection,Bacterial,2,9/15/2021,Dry
+Priscilla Nsubuga,Ibuprofen,Pain,Migraine,7,9/7/2021,Dry
+Rebecca Ssemwanga,Metformin,Diabetes,Type 1,5,9/14/2021,Dry
+Rita Nakirya,Cetirizine,Allergy,Food,3,9/10/2021,Dry
+Rose Nakalemba,Paracetamol,Fever,Influenza,4,9/19/2021,Dry
+Ruth Nakato,Amoxicillin,Infection,Bacterial,3,9/8/2021,Dry
+Sarah Nsubuga,Ibuprofen,Pain,Migraine,9,9/30/2021,Dry
+Simon Nsubuga,Metformin,Diabetes,Type 1,8,9/1/2021,Dry
+Sophia Nakirya,Cetirizine,Allergy,Food,6,9/2/2021,Dry
+Sylvia Nakato,Paracetamol,Fever,Influenza,1,9/27/2021,Dry
+Tina Namutebi,Amoxicillin,Infection,Bacterial,5,9/12/2021,Dry
+Tom Nakirya,Ibuprofen,Pain,Migraine,9,9/19/2021,Dry
+Vera Nsubuga,Metformin,Diabetes,Type 1,1,9/29/2021,Dry
+Victoria Nakato,Cetirizine,Allergy,Food,4,9/27/2021,Dry
+Vivian Ssemwanga,Paracetamol,Fever,Influenza,3,9/12/2021,Dry
+William Ssemwanga,Amoxicillin,Infection,Bacterial,1,9/25/2021,Dry
+Zara Nakirya,Ibuprofen,Pain,Migraine,7,9/22/2021,Dry
+Aaliyah Ssemwanga,Metformin,Diabetes,Type 1,10,9/4/2021,Dry
+Abel Sserunjogi,Cetirizine,Allergy,Food,6,9/7/2021,Dry
+Adams Nakirya,Paracetamol,Fever,Influenza,1,9/2/2021,Dry
+Alice Namaganda,Amoxicillin,Infection,Bacterial,4,9/14/2021,Dry
+Amelia Kasozi,Ibuprofen,Pain,Migraine,5,9/6/2021,Dry
+Amon Sserunjogi,Metformin,Diabetes,Type 1,1,9/8/2021,Dry
+Angela Nakirya,Cetirizine,Allergy,Food,5,9/20/2021,Dry
+Annette Nsubuga,Paracetamol,Fever,Influenza,2,9/18/2021,Dry
+Asha Nalubega,Amoxicillin,Infection,Bacterial,2,9/3/2021,Dry
+Benard Nsubuga,Ibuprofen,Pain,Migraine,8,9/18/2021,Dry
+Beverly Nakato,Metformin,Diabetes,Type 1,8,9/1/2021,Dry
+Boris Mwebaze,Cetirizine,Allergy,Food,1,9/25/2021,Dry
+Brenda Kasozi,Paracetamol,Fever,Influenza,10,9/23/2021,Dry
+Bruce Ssemwanga,Amoxicillin,Infection,Bacterial,9,9/30/2021,Dry
+Catherine Nakirya,Ibuprofen,Pain,Migraine,10,9/13/2021,Dry
+Charles Kamulegeya,Metformin,Diabetes,Type 1,9,9/19/2021,Dry
+Cheryl Nakato,Cetirizine,Allergy,Food,9,9/9/2021,Dry
+Christine Nakalemba,Paracetamol,Fever,Influenza,9,9/25/2021,Dry
+Claudia Nakirya,Amoxicillin,Infection,Bacterial,9,9/9/2021,Dry
+Damali Nsubuga,Ibuprofen,Pain,Migraine,1,9/21/2021,Dry
+Daniel Namukwaya,Metformin,Diabetes,Type 1,2,9/2/2021,Dry
+Daphne Tumusiime,Cetirizine,Allergy,Food,6,9/6/2021,Dry
+Deborah Ssemwanga,Paracetamol,Fever,Influenza,8,9/18/2021,Dry
+Dennis Nakato,Amoxicillin,Infection,Bacterial,4,9/24/2021,Dry
+Diana Namutebi,Ibuprofen,Pain,Migraine,1,9/18/2021,Dry
+Dorothy Kato,Metformin,Diabetes,Type 1,10,9/19/2021,Dry
+Elias Nakirya,Cetirizine,Allergy,Food,6,9/8/2021,Dry
+Elsie Nsubuga,Paracetamol,Fever,Influenza,1,9/17/2021,Dry
+Esther Kato,Amoxicillin,Infection,Bacterial,5,9/2/2021,Dry
+Eugene Sserunjogi,Ibuprofen,Pain,Migraine,1,9/11/2021,Dry
+Evelyn Nakirya,Metformin,Diabetes,Type 1,5,9/9/2021,Dry
+Faris Nsubuga,Cetirizine,Allergy,Food,10,9/26/2021,Dry
+Florence Namutebi,Paracetamol,Fever,Influenza,4,9/23/2021,Dry
+Frida Nalubega,Amoxicillin,Infection,Bacterial,10,9/13/2021,Dry
+Gideon Ssemwanga,Ibuprofen,Pain,Migraine,2,9/27/2021,Dry
+Gladys Nsubuga,Metformin,Diabetes,Type 1,3,9/7/2021,Dry
+Gloria Nakirya,Cetirizine,Allergy,Food,8,9/29/2021,Dry
+Grace Mwesigwa,Paracetamol,Fever,Influenza,3,9/21/2021,Dry
+Gregory Nakato,Amoxicillin,Infection,Bacterial,10,9/14/2021,Dry
+Hannah Nsubuga,Ibuprofen,Pain,Migraine,4,9/12/2021,Dry
+Harriet Nakirya,Metformin,Diabetes,Type 1,1,9/8/2021,Dry
+Helen Kato,Cetirizine,Allergy,Food,8,9/14/2021,Dry
+Hope Nakalemba,Paracetamol,Fever,Influenza,7,9/13/2021,Dry
+Imran Sserunjogi,Amoxicillin,Infection,Bacterial,1,9/8/2021,Dry
+Irene Nsubuga,Ibuprofen,Pain,Migraine,3,9/5/2021,Dry
+Jacob Nsubuga,Metformin,Diabetes,Type 1,2,9/22/2021,Dry
+James Nakirya,Cetirizine,Allergy,Food,1,9/26/2021,Dry
+Jemimah Nakato,Paracetamol,Fever,Influenza,10,9/19/2021,Dry
+Jennifer Namutebi,Amoxicillin,Infection,Bacterial,6,9/18/2021,Dry
+Joan Nsubuga,Ibuprofen,Pain,Migraine,1,9/25/2021,Dry
+John Kato,Metformin,Diabetes,Type 1,7,9/8/2021,Dry
+Joyce Nalubega,Cetirizine,Allergy,Food,6,9/12/2021,Dry
+Jude Ssemwanga,Paracetamol,Fever,Influenza,6,9/10/2021,Dry
+Judith Nsubuga,Amoxicillin,Infection,Bacterial,2,9/11/2021,Dry
+Julius Nakirya,Ibuprofen,Pain,Migraine,2,9/26/2021,Dry
+Justine Nakato,Metformin,Diabetes,Type 1,5,9/12/2021,Dry
+Kennedy Kasozi,Cetirizine,Allergy,Food,8,9/23/2021,Dry
+Kezia Nsubuga,Paracetamol,Fever,Influenza,2,9/2/2021,Dry
+Kizito Nakirya,Amoxicillin,Infection,Bacterial,6,9/11/2021,Dry
+Laura Namukwaya,Ibuprofen,Pain,Migraine,6,9/22/2021,Dry
+Lillian Nakato,Metformin,Diabetes,Type 1,1,9/9/2021,Dry
+Lisa Mwesigwa,Cetirizine,Allergy,Food,6,9/2/2021,Dry
+Louis Nakalemba,Paracetamol,Fever,Influenza,2,9/11/2021,Dry
+Margaret Namutebi,Amoxicillin,Infection,Bacterial,2,9/22/2021,Dry
+Martha Nakirya,Ibuprofen,Pain,Migraine,8,9/17/2021,Dry
+Moses Namutebi,Metformin,Diabetes,Type 1,6,9/4/2021,Dry
+Nancy Nsubuga,Cetirizine,Allergy,Food,1,9/13/2021,Dry
+Nashit Kasozi,Paracetamol,Fever,Influenza,7,9/6/2021,Dry
+Naomi Ssemwanga,Amoxicillin,Infection,Bacterial,9,9/16/2021,Dry
+Nicholas Nakirya,Ibuprofen,Pain,Migraine,5,9/8/2021,Dry
+Olivia Nakato,Metformin,Diabetes,Type 1,4,9/2/2021,Dry
+Oscar Ssemwanga,Cetirizine,Allergy,Food,3,9/30/2021,Dry
+Patience Nakirya,Paracetamol,Fever,Influenza,1,9/20/2021,Dry
+Paul Namutebi,Amoxicillin,Infection,Bacterial,1,9/22/2021,Dry
+Peninah Nsubuga,Ibuprofen,Pain,Migraine,2,9/7/2021,Dry
+Peter Nakalemba,Metformin,Diabetes,Type 1,8,9/4/2021,Dry
+Rebecca Nakirya,Cetirizine,Allergy,Food,10,9/2/2021,Dry
+Rita Nsubuga,Paracetamol,Fever,Influenza,2,9/25/2021,Dry
+Robert Nakato,Amoxicillin,Infection,Bacterial,3,9/7/2021,Dry
+Rosemary Kasozi,Ibuprofen,Pain,Migraine,10,9/9/2021,Dry
+Ruth Nakirya,Metformin,Diabetes,Type 1,3,9/11/2021,Dry
+Sandra Namukwaya,Cetirizine,Allergy,Food,10,9/8/2021,Dry
+Samuel Nakato,Paracetamol,Fever,Influenza,9,10/24/2021,Wet
+Sarah Ssemwanga,Amoxicillin,Infection,Bacterial,2,10/10/2021,Wet
+Sharon Nakirya,Ibuprofen,Pain,Migraine,8,10/13/2021,Wet
+Simon Nakalemba,Metformin,Diabetes,Type 1,5,10/13/2021,Wet
+Sophia Nsubuga,Cetirizine,Allergy,Food,10,10/3/2021,Wet
+Sylvia Namutebi,Paracetamol,Fever,Influenza,7,10/19/2021,Wet
+Theodore Nakato,Amoxicillin,Infection,Bacterial,2,10/30/2021,Wet
+Timothy Nakirya,Ibuprofen,Pain,Migraine,8,10/30/2021,Wet
+Tracy Nsubuga,Metformin,Diabetes,Type 1,5,10/23/2021,Wet
+Ursula Nakirya,Cetirizine,Allergy,Food,3,10/28/2021,Wet
+Victor Ssemwanga,Paracetamol,Fever,Influenza,10,10/22/2021,Wet
+Violet Nakalemba,Amoxicillin,Infection,Bacterial,9,10/28/2021,Wet
+Wanjiku Nsubuga,Ibuprofen,Pain,Migraine,6,10/13/2021,Wet
+William Nakirya,Metformin,Diabetes,Type 1,5,10/16/2021,Wet
+Yvonne Kasozi,Cetirizine,Allergy,Food,9,10/10/2021,Wet
+Zainab Nakato,Paracetamol,Fever,Influenza,10,10/9/2021,Wet
+Abdallah Nsubuga,Amoxicillin,Infection,Bacterial,8,10/30/2021,Wet
+Abigail Nakirya,Ibuprofen,Pain,Migraine,7,10/2/2021,Wet
+Albert Nakato,Metformin,Diabetes,Type 1,6,10/3/2021,Wet
+Alinafe Nsubuga,Cetirizine,Allergy,Food,7,10/23/2021,Wet
+Amos Nakirya,Paracetamol,Fever,Influenza,9,10/7/2021,Wet
+Aminah Namutebi,Amoxicillin,Infection,Bacterial,10,10/13/2021,Wet
+Andrew Nakato,Ibuprofen,Pain,Migraine,8,10/28/2021,Wet
+Ariya Nakirya,Metformin,Diabetes,Type 1,4,10/21/2021,Wet
+Asha Nakalemba,Cetirizine,Allergy,Food,2,10/1/2021,Wet
+Audrey Ssemwanga,Paracetamol,Fever,Influenza,1,10/15/2021,Wet
+Ava Nakato,Amoxicillin,Infection,Bacterial,7,10/3/2021,Wet
+Barbra Nsubuga,Ibuprofen,Pain,Migraine,10,10/3/2021,Wet
+Ben Kato,Metformin,Diabetes,Type 1,9,10/23/2021,Wet
+Bernard Nakirya,Cetirizine,Allergy,Food,2,10/30/2021,Wet
+Bina Nakato,Paracetamol,Fever,Influenza,10,10/28/2021,Wet
+Blanca Nsubuga,Amoxicillin,Infection,Bacterial,5,10/24/2021,Wet
+Bryan Namutebi,Ibuprofen,Pain,Migraine,10,10/7/2021,Wet
+Caroline Nsubuga,Metformin,Diabetes,Type 1,8,10/25/2021,Wet
+Cassandra Nakalemba,Cetirizine,Allergy,Food,9,10/12/2021,Wet
+Charles Namuyanja,Paracetamol,Fever,Influenza,1,10/15/2021,Wet
+Cheryl Namutebi,Amoxicillin,Infection,Bacterial,7,10/23/2021,Wet
+Christian Nakirya,Ibuprofen,Pain,Migraine,9,10/7/2021,Wet
+Claudia Ssemwanga,Metformin,Diabetes,Type 1,2,10/14/2021,Wet
+Cynthia Nakato,Cetirizine,Allergy,Food,3,10/7/2021,Wet
+David Nsubuga,Paracetamol,Fever,Influenza,2,10/22/2021,Wet
+Denis Namukwaya,Amoxicillin,Infection,Bacterial,3,10/25/2021,Wet
+Doris Nakirya,Ibuprofen,Pain,Migraine,6,10/15/2021,Wet
+Doreen Nsubuga,Metformin,Diabetes,Type 1,3,10/2/2021,Wet
+Dorothy Namutebi,Cetirizine,Allergy,Food,6,10/10/2021,Wet
+Douglas Kasozi,Paracetamol,Fever,Influenza,1,10/7/2021,Wet
+Doris Nakato,Amoxicillin,Infection,Bacterial,7,10/12/2021,Wet
+Elena Nakalemba,Ibuprofen,Pain,Migraine,9,10/9/2021,Wet
+Eliud Nsubuga,Metformin,Diabetes,Type 1,9,10/21/2021,Wet
+Elsa Kato,Cetirizine,Allergy,Food,4,10/6/2021,Wet
+Eunice Nakato,Paracetamol,Fever,Influenza,10,10/6/2021,Wet
+Faith Nsubuga,Amoxicillin,Infection,Bacterial,10,10/19/2021,Wet
+Felix Nakirya,Ibuprofen,Pain,Migraine,3,10/17/2021,Wet
+Fiona Namutebi,Metformin,Diabetes,Type 1,7,10/21/2021,Wet
+Florence Ssemwanga,Cetirizine,Allergy,Food,9,10/2/2021,Wet
+Frank Nakato,Paracetamol,Fever,Influenza,5,10/11/2021,Wet
+Frederick Nsubuga,Amoxicillin,Infection,Bacterial,2,10/30/2021,Wet
+Gabriella Nakirya,Ibuprofen,Pain,Migraine,3,10/4/2021,Wet
+George Namutebi,Metformin,Diabetes,Type 1,1,10/24/2021,Wet
+Gladys Nakalemba,Cetirizine,Allergy,Food,6,10/15/2021,Wet
+Gloria Nsubuga,Paracetamol,Fever,Influenza,10,10/10/2021,Wet
+Grace Kasozi,Amoxicillin,Infection,Bacterial,1,10/16/2021,Wet
+Greta Nakato,Ibuprofen,Pain,Migraine,6,10/23/2021,Wet
+Hannah Ssemwanga,Metformin,Diabetes,Type 1,7,10/25/2021,Wet
+Helen Nakirya,Cetirizine,Allergy,Food,4,10/5/2021,Wet
+Hilda Namutebi,Paracetamol,Fever,Influenza,5,10/8/2021,Wet
+Irene Nakato,Amoxicillin,Infection,Bacterial,4,10/29/2021,Wet
+Jackson Ssemwanga,Ibuprofen,Pain,Migraine,10,10/12/2021,Wet
+Janet Nakirya,Metformin,Diabetes,Type 1,6,10/1/2021,Wet
+James Namukwaya,Cetirizine,Allergy,Food,1,10/12/2021,Wet
+Jane Nsubuga,Paracetamol,Fever,Influenza,5,10/11/2021,Wet
+Jeremiah Nakato,Amoxicillin,Infection,Bacterial,7,10/24/2021,Wet
+Jessica Nsubuga,Ibuprofen,Pain,Migraine,10,10/19/2021,Wet
+Joan Namutebi,Metformin,Diabetes,Type 1,5,10/23/2021,Wet
+Jude Nakirya,Cetirizine,Allergy,Food,1,10/8/2021,Wet
+Judith Ssemwanga,Paracetamol,Fever,Influenza,1,10/30/2021,Wet
+Juliana Nakato,Amoxicillin,Infection,Bacterial,2,10/3/2021,Wet
+Justine Nsubuga,Ibuprofen,Pain,Migraine,1,10/28/2021,Wet
+Katherine Nakato,Metformin,Diabetes,Type 1,3,10/6/2021,Wet
+Keziah Namukwaya,Cetirizine,Allergy,Food,4,10/8/2021,Wet
+Kizito Ssemwanga,Paracetamol,Fever,Influenza,7,10/23/2021,Wet
+Lawrence Nakirya,Amoxicillin,Infection,Bacterial,9,10/1/2021,Wet
+Lydia Nakato,Ibuprofen,Pain,Migraine,10,10/27/2021,Wet
+Margaret Ssemwanga,Metformin,Diabetes,Type 1,1,10/12/2021,Wet
+Maria Nsubuga,Cetirizine,Allergy,Food,10,10/6/2021,Wet
+Martin Nakirya,Paracetamol,Fever,Influenza,2,10/18/2021,Wet
+Martha Nsubuga,Amoxicillin,Infection,Bacterial,7,10/12/2021,Wet
+Mary Nakato,Ibuprofen,Pain,Migraine,6,10/19/2021,Wet
+Michael Ssemwanga,Metformin,Diabetes,Type 1,2,10/18/2021,Wet
+Naomi Nakalemba,Cetirizine,Allergy,Food,10,10/3/2021,Wet
+Nicholas Nsubuga,Paracetamol,Fever,Influenza,6,10/23/2021,Wet
+Nina Kasozi,Amoxicillin,Infection,Bacterial,8,10/29/2021,Wet
+Noreen Nakato,Ibuprofen,Pain,Migraine,2,10/20/2021,Wet
+Paul Ssemwanga,Metformin,Diabetes,Type 1,2,10/2/2021,Wet
+Peter Namukwaya,Cetirizine,Allergy,Food,6,10/14/2021,Wet
+Phiona Nakirya,Paracetamol,Fever,Influenza,10,10/10/2021,Wet
+Priscilla Nsubuga,Amoxicillin,Infection,Bacterial,9,10/6/2021,Wet
+Rebecca Ssemwanga,Ibuprofen,Pain,Migraine,4,10/5/2021,Wet
+Rita Nakirya,Metformin,Diabetes,Type 1,8,10/28/2021,Wet
+Rose Nakalemba,Cetirizine,Allergy,Food,9,10/20/2021,Wet
+Ruth Nakato,Paracetamol,Fever,Influenza,5,10/16/2021,Wet
+Sarah Nsubuga,Amoxicillin,Infection,Bacterial,7,10/6/2021,Wet
+Simon Nsubuga,Ibuprofen,Pain,Migraine,3,10/2/2021,Wet
+Sophia Nakirya,Metformin,Diabetes,Type 1,9,10/26/2021,Wet
+Sylvia Nakato,Cetirizine,Allergy,Food,7,10/10/2021,Wet
+Tina Namutebi,Paracetamol,Fever,Influenza,3,10/26/2021,Wet
+Tom Nakirya,Amoxicillin,Infection,Bacterial,9,10/28/2021,Wet
+Vera Nsubuga,Ibuprofen,Pain,Migraine,8,10/16/2021,Wet
+Victoria Nakato,Metformin,Diabetes,Type 1,3,10/21/2021,Wet
+Vivian Ssemwanga,Cetirizine,Allergy,Food,10,10/19/2021,Wet
+William Ssemwanga,Paracetamol,Fever,Influenza,6,10/10/2021,Wet
+Zara Nakirya,Amoxicillin,Infection,Bacterial,4,10/5/2021,Wet
+Aaliyah Ssemwanga,Ibuprofen,Pain,Migraine,4,10/1/2021,Wet
+Abel Sserunjogi,Metformin,Diabetes,Type 1,10,10/16/2021,Wet
+Adams Nakirya,Cetirizine,Allergy,Food,5,10/19/2021,Wet
+Alice Namaganda,Paracetamol,Fever,Influenza,7,10/17/2021,Wet
+Amelia Kasozi,Amoxicillin,Infection,Bacterial,8,10/25/2021,Wet
+Amon Sserunjogi,Ibuprofen,Pain,Migraine,9,10/28/2021,Wet
+Angela Nakirya,Metformin,Diabetes,Type 1,4,10/21/2021,Wet
+Annette Nsubuga,Cetirizine,Allergy,Food,6,10/14/2021,Wet
+Asha Nalubega,Paracetamol,Fever,Influenza,3,10/7/2021,Wet
+Benard Nsubuga,Amoxicillin,Infection,Bacterial,4,10/12/2021,Wet
+Beverly Nakato,Ibuprofen,Pain,Migraine,3,10/13/2021,Wet
+Boris Mwebaze,Metformin,Diabetes,Type 1,4,10/24/2021,Wet
+Brenda Kasozi,Cetirizine,Allergy,Food,7,10/27/2021,Wet
+Bruce Ssemwanga,Paracetamol,Fever,Influenza,9,10/3/2021,Wet
+Catherine Nakirya,Amoxicillin,Infection,Bacterial,6,10/29/2021,Wet
+Charles Kamulegeya,Ibuprofen,Pain,Migraine,4,10/30/2021,Wet
+Cheryl Nakato,Metformin,Diabetes,Type 1,3,10/3/2021,Wet
+Christine Nakalemba,Cetirizine,Allergy,Food,10,10/19/2021,Wet
+Claudia Nakirya,Paracetamol,Fever,Influenza,5,10/6/2021,Wet
+Damali Nsubuga,Amoxicillin,Infection,Bacterial,1,10/6/2021,Wet
+Daniel Namukwaya,Ibuprofen,Pain,Migraine,2,10/4/2021,Wet
+Daphne Tumusiime,Metformin,Diabetes,Type 1,1,10/24/2021,Wet
+Deborah Ssemwanga,Cetirizine,Allergy,Food,9,10/15/2021,Wet
+Dennis Nakato,Paracetamol,Fever,Influenza,8,10/13/2021,Wet
+Diana Namutebi,Amoxicillin,Infection,Bacterial,4,10/29/2021,Wet
+Dorothy Kato,Ibuprofen,Pain,Migraine,7,10/3/2021,Wet
+Elias Nakirya,Metformin,Diabetes,Type 1,9,10/3/2021,Wet
+Elsie Nsubuga,Cetirizine,Allergy,Food,7,10/2/2021,Wet
+Esther Kato,Paracetamol,Fever,Influenza,7,10/22/2021,Wet
+Eugene Sserunjogi,Amoxicillin,Infection,Bacterial,9,10/17/2021,Wet
+Evelyn Nakirya,Ibuprofen,Pain,Migraine,3,10/25/2021,Wet
+Faris Nsubuga,Metformin,Diabetes,Type 1,2,10/6/2021,Wet
+Florence Namutebi,Cetirizine,Allergy,Food,3,10/28/2021,Wet
+Frida Nalubega,Paracetamol,Fever,Influenza,5,10/2/2021,Wet
+Gideon Ssemwanga,Amoxicillin,Infection,Bacterial,8,10/10/2021,Wet
+Gladys Nsubuga,Ibuprofen,Pain,Migraine,5,10/16/2021,Wet
+Gloria Nakirya,Metformin,Diabetes,Type 1,7,10/5/2021,Wet
+Grace Mwesigwa,Cetirizine,Allergy,Food,6,10/4/2021,Wet
+Gregory Nakato,Paracetamol,Fever,Influenza,3,11/9/2021,Wet
+Hannah Nsubuga,Amoxicillin,Infection,Bacterial,2,11/12/2021,Wet
+Harriet Nakirya,Ibuprofen,Pain,Migraine,6,11/7/2021,Wet
+Helen Kato,Metformin,Diabetes,Type 1,3,11/6/2021,Wet
+Hope Nakalemba,Cetirizine,Allergy,Food,2,11/1/2021,Wet
+Imran Sserunjogi,Paracetamol,Fever,Influenza,2,11/10/2021,Wet
+Irene Nsubuga,Amoxicillin,Infection,Bacterial,9,11/25/2021,Wet
+Jacob Nsubuga,Ibuprofen,Pain,Migraine,3,11/21/2021,Wet
+James Nakirya,Metformin,Diabetes,Type 1,9,11/21/2021,Wet
+Jemimah Nakato,Cetirizine,Allergy,Food,8,11/29/2021,Wet
+Jennifer Namutebi,Paracetamol,Fever,Influenza,5,11/10/2021,Wet
+Joan Nsubuga,Amoxicillin,Infection,Bacterial,2,11/6/2021,Wet
+John Kato,Ibuprofen,Pain,Migraine,7,11/30/2021,Wet
+Joyce Nalubega,Metformin,Diabetes,Type 1,6,11/27/2021,Wet
+Jude Ssemwanga,Cetirizine,Allergy,Food,10,11/23/2021,Wet
+Judith Nsubuga,Paracetamol,Fever,Influenza,9,11/27/2021,Wet
+Julius Nakirya,Amoxicillin,Infection,Bacterial,5,11/13/2021,Wet
+Justine Nakato,Ibuprofen,Pain,Migraine,1,11/12/2021,Wet
+Kennedy Kasozi,Metformin,Diabetes,Type 1,9,11/1/2021,Wet
+Kezia Nsubuga,Amoxicillin,Infection,Bacterial,10,11/30/2021,Wet
+Kizito Nakirya,Paracetamol,Fever,Influenza,8,11/30/2021,Wet
+Laura Namukwaya,Amoxicillin,Infection,Bacterial,9,11/23/2021,Wet
+Lillian Nakato,Ibuprofen,Pain,Migraine,4,11/26/2021,Wet
+Lisa Mwesigwa,Metformin,Diabetes,Type 1,9,11/19/2021,Wet
+Louis Nakalemba,Amoxicillin,Infection,Bacterial,6,11/23/2021,Wet
+Margaret Namutebi,Paracetamol,Fever,Influenza,7,11/23/2021,Wet
+Martha Nakirya,Amoxicillin,Infection,Bacterial,4,11/19/2021,Wet
+Moses Namutebi,Ibuprofen,Pain,Migraine,5,11/17/2021,Wet
+Nancy Nsubuga,Metformin,Diabetes,Type 1,2,11/10/2021,Wet
+Nashit Kasozi,Amoxicillin,Infection,Bacterial,9,11/18/2021,Wet
+Naomi Ssemwanga,Paracetamol,Fever,Influenza,3,11/29/2021,Wet
+Nicholas Nakirya,Amoxicillin,Infection,Bacterial,5,11/20/2021,Wet
+Olivia Nakato,Ibuprofen,Pain,Migraine,5,11/7/2021,Wet
+Oscar Ssemwanga,Metformin,Diabetes,Type 1,10,11/13/2021,Wet
+Patience Nakirya,Amoxicillin,Infection,Bacterial,8,11/15/2021,Wet
+Paul Namutebi,Paracetamol,Fever,Influenza,6,11/10/2021,Wet
+Peninah Nsubuga,Amoxicillin,Infection,Bacterial,3,11/3/2021,Wet
+Peter Nakalemba,Ibuprofen,Pain,Migraine,10,11/7/2021,Wet
+Rebecca Nakirya,Metformin,Diabetes,Type 1,1,11/1/2021,Wet
+Rita Nsubuga,Amoxicillin,Infection,Bacterial,3,11/7/2021,Wet
+Robert Nakato,Paracetamol,Fever,Influenza,6,11/1/2021,Wet
+Rosemary Kasozi,Amoxicillin,Infection,Bacterial,9,11/1/2021,Wet
+Ruth Nakirya,Ibuprofen,Pain,Migraine,5,11/29/2021,Wet
+Sandra Namukwaya,Metformin,Diabetes,Type 1,4,11/2/2021,Wet
+Samuel Nakato,Amoxicillin,Infection,Bacterial,4,11/18/2021,Wet
+Sarah Ssemwanga,Paracetamol,Fever,Influenza,7,11/7/2021,Wet
+Sharon Nakirya,Amoxicillin,Infection,Bacterial,4,11/9/2021,Wet
+Simon Nakalemba,Ibuprofen,Pain,Migraine,6,11/18/2021,Wet
+Sophia Nsubuga,Metformin,Diabetes,Type 1,3,11/7/2021,Wet
+Sylvia Namutebi,Amoxicillin,Infection,Bacterial,8,11/22/2021,Wet
+Theodore Nakato,Paracetamol,Fever,Influenza,4,11/16/2021,Wet
+Timothy Nakirya,Amoxicillin,Infection,Bacterial,2,11/1/2021,Wet
+Tracy Nsubuga,Ibuprofen,Pain,Migraine,3,11/17/2021,Wet
+Ursula Nakirya,Metformin,Diabetes,Type 1,4,11/17/2021,Wet
+Victor Ssemwanga,Amoxicillin,Infection,Bacterial,9,11/17/2021,Wet
+Violet Nakalemba,Paracetamol,Fever,Influenza,8,11/6/2021,Wet
+Wanjiku Nsubuga,Amoxicillin,Infection,Bacterial,3,11/9/2021,Wet
+William Nakirya,Ibuprofen,Pain,Migraine,3,11/9/2021,Wet
+Yvonne Kasozi,Metformin,Diabetes,Type 1,1,11/7/2021,Wet
+Zainab Nakato,Amoxicillin,Infection,Bacterial,9,11/29/2021,Wet
+Abdallah Nsubuga,Paracetamol,Fever,Influenza,6,11/15/2021,Wet
+Abigail Nakirya,Amoxicillin,Infection,Bacterial,5,11/16/2021,Wet
+Albert Nakato,Ibuprofen,Pain,Migraine,8,11/9/2021,Wet
+Alinafe Nsubuga,Metformin,Diabetes,Type 1,10,11/15/2021,Wet
+Amos Nakirya,Amoxicillin,Infection,Bacterial,8,11/22/2021,Wet
+Aminah Namutebi,Paracetamol,Fever,Influenza,3,11/15/2021,Wet
+Andrew Nakato,Amoxicillin,Infection,Bacterial,6,11/10/2021,Wet
+Ariya Nakirya,Ibuprofen,Pain,Migraine,8,11/12/2021,Wet
+Asha Nakalemba,Metformin,Diabetes,Type 1,10,11/6/2021,Wet
+Audrey Ssemwanga,Amoxicillin,Infection,Bacterial,8,11/2/2021,Wet
+Ava Nakato,Paracetamol,Fever,Influenza,7,11/29/2021,Wet
+Barbra Nsubuga,Amoxicillin,Infection,Bacterial,1,11/1/2021,Wet
+Ben Kato,Ibuprofen,Pain,Migraine,8,11/26/2021,Wet
+Bernard Nakirya,Metformin,Diabetes,Type 1,9,11/4/2021,Wet
+Bina Nakato,Amoxicillin,Infection,Bacterial,8,11/10/2021,Wet
+Blanca Nsubuga,Paracetamol,Fever,Influenza,7,11/20/2021,Wet
+Bryan Namutebi,Amoxicillin,Infection,Bacterial,1,11/14/2021,Wet
+Caroline Nsubuga,Ibuprofen,Pain,Migraine,4,11/28/2021,Wet
+Cassandra Nakalemba,Metformin,Diabetes,Type 1,9,11/19/2021,Wet
+Charles Namuyanja,Amoxicillin,Infection,Bacterial,8,11/24/2021,Wet
+Cheryl Namutebi,Paracetamol,Fever,Influenza,9,11/8/2021,Wet
+Christian Nakirya,Amoxicillin,Infection,Bacterial,10,11/7/2021,Wet
+Claudia Ssemwanga,Ibuprofen,Pain,Migraine,1,11/21/2021,Wet
+Cynthia Nakato,Metformin,Diabetes,Type 1,3,11/15/2021,Wet
+David Nsubuga,Amoxicillin,Infection,Bacterial,6,11/9/2021,Wet
+Denis Namukwaya,Paracetamol,Fever,Influenza,9,11/18/2021,Wet
+Doris Nakirya,Amoxicillin,Infection,Bacterial,4,11/19/2021,Wet
+Doreen Nsubuga,Ibuprofen,Pain,Migraine,8,11/12/2021,Wet
+Dorothy Namutebi,Metformin,Diabetes,Type 1,1,11/29/2021,Wet
+Douglas Kasozi,Amoxicillin,Infection,Bacterial,3,11/17/2021,Wet
+Doris Nakato,Paracetamol,Fever,Influenza,9,11/17/2021,Wet
+Elena Nakalemba,Amoxicillin,Infection,Bacterial,7,11/7/2021,Wet
+Eliud Nsubuga,Ibuprofen,Pain,Migraine,1,11/2/2021,Wet
+Elsa Kato,Metformin,Diabetes,Type 1,2,11/5/2021,Wet
+Eunice Nakato,Amoxicillin,Infection,Bacterial,5,11/1/2021,Wet
+Faith Nsubuga,Paracetamol,Fever,Influenza,3,11/4/2021,Wet
+Felix Nakirya,Amoxicillin,Infection,Bacterial,8,11/23/2021,Wet
+Fiona Namutebi,Ibuprofen,Pain,Migraine,10,11/28/2021,Wet
+Florence Ssemwanga,Metformin,Diabetes,Type 1,9,11/13/2021,Wet
+Frank Nakato,Amoxicillin,Infection,Bacterial,2,11/8/2021,Wet
+Frederick Nsubuga,Paracetamol,Fever,Influenza,2,11/7/2021,Wet
+Gabriella Nakirya,Amoxicillin,Infection,Bacterial,6,11/14/2021,Wet
+George Namutebi,Ibuprofen,Pain,Migraine,6,11/7/2021,Wet
+Gladys Nakalemba,Metformin,Diabetes,Type 1,2,11/6/2021,Wet
+Gloria Nsubuga,Amoxicillin,Infection,Bacterial,4,11/20/2021,Wet
+Grace Kasozi,Paracetamol,Fever,Influenza,7,11/11/2021,Wet
+Greta Nakato,Amoxicillin,Infection,Bacterial,1,11/6/2021,Wet
+Hannah Ssemwanga,Ibuprofen,Pain,Migraine,7,11/14/2021,Wet
+Helen Nakirya,Metformin,Diabetes,Type 1,2,11/7/2021,Wet
+Hilda Namutebi,Amoxicillin,Infection,Bacterial,9,11/8/2021,Wet
+Irene Nakato,Paracetamol,Fever,Influenza,10,11/23/2021,Wet
+Jackson Ssemwanga,Amoxicillin,Infection,Bacterial,1,11/27/2021,Wet
+Janet Nakirya,Ibuprofen,Pain,Migraine,3,11/24/2021,Wet
+James Namukwaya,Metformin,Diabetes,Type 1,10,11/18/2021,Wet
+Jane Nsubuga,Amoxicillin,Infection,Bacterial,3,11/13/2021,Wet
+Jeremiah Nakato,Paracetamol,Fever,Influenza,7,11/29/2021,Wet
+Jessica Nsubuga,Amoxicillin,Infection,Bacterial,10,11/4/2021,Wet
+Joan Namutebi,Ibuprofen,Pain,Migraine,8,11/27/2021,Wet
+Jude Nakirya,Metformin,Diabetes,Type 1,6,11/25/2021,Wet
+Judith Ssemwanga,Amoxicillin,Infection,Bacterial,8,11/16/2021,Wet
+Juliana Nakato,Paracetamol,Fever,Influenza,2,11/20/2021,Wet
+Justine Nsubuga,Amoxicillin,Infection,Bacterial,2,11/11/2021,Wet
+Katherine Nakato,Ibuprofen,Pain,Migraine,8,11/9/2021,Wet
+Keziah Namukwaya,Metformin,Diabetes,Type 1,5,11/19/2021,Wet
+Kizito Ssemwanga,Amoxicillin,Infection,Bacterial,6,11/7/2021,Wet
+Lawrence Nakirya,Paracetamol,Fever,Influenza,2,11/14/2021,Wet
+Lydia Nakato,Amoxicillin,Infection,Bacterial,4,11/16/2021,Wet
+Margaret Ssemwanga,Ibuprofen,Pain,Migraine,8,11/21/2021,Wet
+Maria Nsubuga,Metformin,Diabetes,Type 1,7,11/16/2021,Wet
+Martin Nakirya,Amoxicillin,Infection,Bacterial,7,11/1/2021,Wet
+Martha Nsubuga,Paracetamol,Fever,Influenza,6,11/13/2021,Wet
+Mary Nakato,Amoxicillin,Infection,Bacterial,3,11/13/2021,Wet
+Michael Ssemwanga,Ibuprofen,Pain,Migraine,10,11/2/2021,Wet
+Naomi Nakalemba,Metformin,Diabetes,Type 1,3,11/15/2021,Wet
+Nicholas Nsubuga,Amoxicillin,Infection,Bacterial,2,11/30/2021,Wet
+Nina Kasozi,Paracetamol,Fever,Influenza,9,11/16/2021,Wet
+Noreen Nakato,Amoxicillin,Infection,Bacterial,10,11/17/2021,Wet
+Paul Ssemwanga,Ibuprofen,Pain,Migraine,2,11/5/2021,Wet
+Peter Namukwaya,Metformin,Diabetes,Type 1,10,11/30/2021,Wet
+Phiona Nakirya,Amoxicillin,Infection,Bacterial,4,11/23/2021,Wet
+Priscilla Nsubuga,Paracetamol,Fever,Influenza,2,11/11/2021,Wet
+Rebecca Ssemwanga,Amoxicillin,Infection,Bacterial,4,11/20/2021,Wet
+Rita Nakirya,Ibuprofen,Pain,Migraine,6,11/30/2021,Wet
+Rose Nakalemba,Metformin,Diabetes,Type 1,9,11/13/2021,Wet
+Ruth Nakato,Amoxicillin,Infection,Bacterial,10,11/16/2021,Wet
+Sarah Nsubuga,Paracetamol,Fever,Influenza,1,11/17/2021,Wet
+Simon Nsubuga,Amoxicillin,Infection,Bacterial,6,11/10/2021,Wet
+Sophia Nakirya,Ibuprofen,Pain,Migraine,4,11/10/2021,Wet
+Sylvia Nakato,Metformin,Diabetes,Type 1,8,11/14/2021,Wet
+Tina Namutebi,Amoxicillin,Infection,Bacterial,7,11/22/2021,Wet
+Tom Nakirya,Paracetamol,Fever,Influenza,6,12/9/2021,Wet
+Vera Nsubuga,Amoxicillin,Infection,Bacterial,1,12/22/2021,Wet
+Victoria Nakato,Ibuprofen,Pain,Migraine,5,12/4/2021,Wet
+Vivian Ssemwanga,Metformin,Diabetes,Type 1,4,12/6/2021,Wet
+William Ssemwanga,Amoxicillin,Infection,Bacterial,7,12/30/2021,Wet
+Zara Nakirya,Paracetamol,Fever,Influenza,8,12/26/2021,Wet
+Aaliyah Ssemwanga,Amoxicillin,Infection,Bacterial,6,12/24/2021,Wet
+Abel Sserunjogi,Ibuprofen,Pain,Migraine,8,12/28/2021,Wet
+Adams Nakirya,Metformin,Diabetes,Type 1,3,12/3/2021,Wet
+Alice Namaganda,Amoxicillin,Infection,Bacterial,10,12/17/2021,Wet
+Amelia Kasozi,Paracetamol,Fever,Influenza,2,12/2/2021,Wet
+Amon Sserunjogi,Amoxicillin,Infection,Bacterial,2,12/28/2021,Wet
+Angela Nakirya,Ibuprofen,Pain,Migraine,10,12/12/2021,Wet
+Annette Nsubuga,Metformin,Diabetes,Type 1,3,12/11/2021,Wet
+Asha Nalubega,Amoxicillin,Infection,Bacterial,9,12/20/2021,Wet
+Benard Nsubuga,Paracetamol,Fever,Influenza,3,12/14/2021,Wet
+Beverly Nakato,Amoxicillin,Infection,Bacterial,6,12/19/2021,Wet
+Boris Mwebaze,Ibuprofen,Pain,Migraine,8,12/29/2021,Wet
+Brenda Kasozi,Metformin,Diabetes,Type 1,7,12/16/2021,Wet
+Bruce Ssemwanga,Amoxicillin,Infection,Bacterial,6,12/3/2021,Wet
+Catherine Nakirya,Paracetamol,Fever,Influenza,4,12/19/2021,Wet
+Charles Kamulegeya,Amoxicillin,Infection,Bacterial,1,12/23/2021,Wet
+Cheryl Nakato,Ibuprofen,Pain,Migraine,4,12/24/2021,Wet
+Christine Nakalemba,Metformin,Diabetes,Type 1,9,12/18/2021,Wet
+Claudia Nakirya,Amoxicillin,Infection,Bacterial,6,12/16/2021,Wet
+Damali Nsubuga,Paracetamol,Fever,Influenza,8,12/25/2021,Wet
+Daniel Namukwaya,Amoxicillin,Infection,Bacterial,1,12/23/2021,Wet
+Daphne Tumusiime,Ibuprofen,Pain,Migraine,2,12/4/2021,Wet
+Deborah Ssemwanga,Metformin,Diabetes,Type 1,7,12/12/2021,Wet
+Dennis Nakato,Amoxicillin,Infection,Bacterial,10,12/24/2021,Wet
+Diana Namutebi,Paracetamol,Fever,Influenza,8,12/29/2021,Wet
+Dorothy Kato,Amoxicillin,Infection,Bacterial,2,12/27/2021,Wet
+Elias Nakirya,Ibuprofen,Pain,Migraine,9,12/4/2021,Wet
+Elsie Nsubuga,Metformin,Diabetes,Type 1,6,12/6/2021,Wet
+Esther Kato,Amoxicillin,Infection,Bacterial,6,12/15/2021,Wet
+Eugene Sserunjogi,Paracetamol,Fever,Influenza,8,12/24/2021,Wet
+Evelyn Nakirya,Amoxicillin,Infection,Bacterial,4,12/10/2021,Wet
+Faris Nsubuga,Ibuprofen,Pain,Migraine,7,12/2/2021,Wet
+Florence Namutebi,Metformin,Diabetes,Type 1,5,12/5/2021,Wet
+Frida Nalubega,Amoxicillin,Infection,Bacterial,8,12/23/2021,Wet
+Gideon Ssemwanga,Paracetamol,Fever,Influenza,2,12/1/2021,Wet
+Gladys Nsubuga,Amoxicillin,Infection,Bacterial,9,12/13/2021,Wet
+Gloria Nakirya,Ibuprofen,Pain,Migraine,3,12/11/2021,Wet
+Grace Mwesigwa,Metformin,Diabetes,Type 1,5,12/18/2021,Wet
+Gregory Nakato,Amoxicillin,Infection,Bacterial,4,12/8/2021,Wet
+Hannah Nsubuga,Paracetamol,Fever,Influenza,7,12/12/2021,Wet
+Harriet Nakirya,Amoxicillin,Infection,Bacterial,3,12/22/2021,Wet
+Helen Kato,Ibuprofen,Pain,Migraine,4,12/21/2021,Wet
+Hope Nakalemba,Metformin,Diabetes,Type 1,3,12/27/2021,Wet
+Imran Sserunjogi,Amoxicillin,Infection,Bacterial,1,12/9/2021,Wet
+Irene Nsubuga,Paracetamol,Fever,Influenza,4,12/7/2021,Wet
+Jacob Nsubuga,Amoxicillin,Infection,Bacterial,6,12/19/2021,Wet
+James Nakirya,Ibuprofen,Pain,Migraine,3,12/10/2021,Wet
+Jemimah Nakato,Metformin,Diabetes,Type 1,3,12/2/2021,Wet
+Jennifer Namutebi,Amoxicillin,Infection,Bacterial,8,12/29/2021,Wet
+Joan Nsubuga,Paracetamol,Fever,Influenza,8,12/18/2021,Wet
+John Kato,Amoxicillin,Infection,Bacterial,10,12/14/2021,Wet
+Joyce Nalubega,Ibuprofen,Pain,Migraine,1,12/22/2021,Wet
+Jude Ssemwanga,Metformin,Diabetes,Type 1,10,12/18/2021,Wet
+Judith Nsubuga,Amoxicillin,Infection,Bacterial,4,12/22/2021,Wet
+Julius Nakirya,Paracetamol,Fever,Influenza,6,12/23/2021,Wet
+Justine Nakato,Amoxicillin,Infection,Bacterial,2,12/29/2021,Wet
+Kennedy Kasozi,Ibuprofen,Pain,Migraine,8,12/5/2021,Wet
+Kezia Nsubuga,Metformin,Diabetes,Type 1,9,12/23/2021,Wet
+Kizito Nakirya,Amoxicillin,Infection,Bacterial,6,12/2/2021,Wet
+Laura Namukwaya,Paracetamol,Fever,Influenza,10,12/18/2021,Wet
+Lillian Nakato,Amoxicillin,Infection,Bacterial,2,12/30/2021,Wet
+Lisa Mwesigwa,Ibuprofen,Pain,Migraine,10,12/3/2021,Wet
+Louis Nakalemba,Metformin,Diabetes,Type 1,6,12/21/2021,Wet
+Margaret Namutebi,Amoxicillin,Infection,Bacterial,4,12/25/2021,Wet
+Martha Nakirya,Paracetamol,Fever,Influenza,3,12/28/2021,Wet
+Moses Namutebi,Amoxicillin,Infection,Bacterial,3,12/15/2021,Wet
+Nancy Nsubuga,Ibuprofen,Pain,Migraine,10,12/8/2021,Wet
+Nashit Kasozi,Metformin,Diabetes,Type 1,2,12/20/2021,Wet
+Naomi Ssemwanga,Amoxicillin,Infection,Bacterial,10,12/13/2021,Wet
+Nicholas Nakirya,Paracetamol,Fever,Influenza,6,12/5/2021,Wet
+Olivia Nakato,Amoxicillin,Infection,Bacterial,4,12/26/2021,Wet
+Oscar Ssemwanga,Ibuprofen,Pain,Migraine,9,12/1/2021,Wet
+Patience Nakirya,Metformin,Diabetes,Type 1,4,12/2/2021,Wet
+Paul Namutebi,Amoxicillin,Infection,Bacterial,6,12/4/2021,Wet
+Peninah Nsubuga,Paracetamol,Fever,Influenza,1,12/16/2021,Wet
+Peter Nakalemba,Amoxicillin,Infection,Bacterial,5,12/10/2021,Wet
+Rebecca Nakirya,Ibuprofen,Pain,Migraine,10,12/9/2021,Wet
+Rita Nsubuga,Metformin,Diabetes,Type 1,10,12/1/2021,Wet
+Robert Nakato,Amoxicillin,Infection,Bacterial,1,12/27/2021,Wet
+Rosemary Kasozi,Paracetamol,Fever,Influenza,10,12/9/2021,Wet
+Ruth Nakirya,Amoxicillin,Infection,Bacterial,8,12/8/2021,Wet
+Sandra Namukwaya,Ibuprofen,Pain,Migraine,5,12/2/2021,Wet
+Samuel Nakato,Metformin,Diabetes,Type 1,3,12/9/2021,Wet
+Sarah Ssemwanga,Amoxicillin,Infection,Bacterial,8,12/23/2021,Wet
+Sharon Nakirya,Paracetamol,Fever,Influenza,4,12/20/2021,Wet
+Simon Nakalemba,Amoxicillin,Infection,Bacterial,6,12/18/2021,Wet
+Sophia Nsubuga,Ibuprofen,Pain,Migraine,7,12/5/2021,Wet
+Sylvia Namutebi,Metformin,Diabetes,Type 1,4,12/16/2021,Wet
+Theodore Nakato,Amoxicillin,Infection,Bacterial,6,12/12/2021,Wet
+Timothy Nakirya,Paracetamol,Fever,Influenza,7,12/18/2021,Wet
+Tracy Nsubuga,Amoxicillin,Infection,Bacterial,4,12/9/2021,Wet
+Ursula Nakirya,Ibuprofen,Pain,Migraine,7,12/7/2021,Wet
+Victor Ssemwanga,Metformin,Diabetes,Type 1,6,12/23/2021,Wet
+Violet Nakalemba,Amoxicillin,Infection,Bacterial,10,12/13/2021,Wet
+Wanjiku Nsubuga,Paracetamol,Fever,Influenza,3,12/27/2021,Wet
+William Nakirya,Amoxicillin,Infection,Bacterial,2,12/15/2021,Wet
+Yvonne Kasozi,Ibuprofen,Pain,Migraine,4,12/2/2021,Wet
+Zainab Nakato,Metformin,Diabetes,Type 1,10,12/23/2021,Wet
+Abdallah Nsubuga,Amoxicillin,Infection,Bacterial,7,12/7/2021,Wet
+Abigail Nakirya,Paracetamol,Fever,Influenza,5,12/8/2021,Wet
+Albert Nakato,Amoxicillin,Infection,Bacterial,7,12/8/2021,Wet
+Alinafe Nsubuga,Ibuprofen,Pain,Migraine,10,12/29/2021,Wet
+Amos Nakirya,Metformin,Diabetes,Type 1,3,12/1/2021,Wet
+Aminah Namutebi,Amoxicillin,Infection,Bacterial,1,12/8/2021,Wet
+Andrew Nakato,Paracetamol,Fever,Influenza,7,12/30/2021,Wet
+Ariya Nakirya,Amoxicillin,Infection,Bacterial,9,12/28/2021,Wet
+Asha Nakalemba,Ibuprofen,Pain,Migraine,10,12/5/2021,Wet
+Audrey Ssemwanga,Metformin,Diabetes,Type 1,7,12/16/2021,Wet
+Ava Nakato,Amoxicillin,Infection,Bacterial,1,12/10/2021,Wet
+Barbra Nsubuga,Paracetamol,Fever,Influenza,4,12/24/2021,Wet
+Ben Kato,Amoxicillin,Infection,Bacterial,7,12/12/2021,Wet
+Bernard Nakirya,Ibuprofen,Pain,Migraine,1,12/3/2021,Wet
+Bina Nakato,Metformin,Diabetes,Type 1,4,12/6/2021,Wet
+Blanca Nsubuga,Amoxicillin,Infection,Bacterial,10,12/23/2021,Wet
+Bryan Namutebi,Paracetamol,Fever,Influenza,7,12/21/2021,Wet
+Caroline Nsubuga,Amoxicillin,Infection,Bacterial,10,12/23/2021,Wet
+Cassandra Nakalemba,Ibuprofen,Pain,Migraine,5,12/5/2021,Wet
+Charles Namuyanja,Metformin,Diabetes,Type 1,7,12/22/2021,Wet
+Cheryl Namutebi,Amoxicillin,Infection,Bacterial,3,12/21/2021,Wet
+Christian Nakirya,Paracetamol,Fever,Influenza,5,12/7/2021,Wet
+Claudia Ssemwanga,Amoxicillin,Infection,Bacterial,8,12/30/2021,Wet
+Cynthia Nakato,Ibuprofen,Pain,Migraine,2,12/19/2021,Wet
+David Nsubuga,Metformin,Diabetes,Type 1,7,12/19/2021,Wet
+Denis Namukwaya,Amoxicillin,Infection,Bacterial,9,12/23/2021,Wet
+Doris Nakirya,Paracetamol,Fever,Influenza,5,12/5/2021,Wet
+Doreen Nsubuga,Amoxicillin,Infection,Bacterial,7,12/22/2021,Wet
+Dorothy Namutebi,Ibuprofen,Pain,Migraine,5,12/30/2021,Wet
+Douglas Kasozi,Metformin,Diabetes,Type 1,10,12/24/2021,Wet
+Doris Nakato,Amoxicillin,Infection,Bacterial,5,12/11/2021,Wet
+Elena Nakalemba,Paracetamol,Fever,Influenza,10,12/2/2021,Wet
+Eliud Nsubuga,Amoxicillin,Infection,Bacterial,7,12/24/2021,Wet
+Elsa Kato,Ibuprofen,Pain,Migraine,10,12/10/2021,Wet
+Eunice Nakato,Metformin,Diabetes,Type 1,10,12/15/2021,Wet
+Faith Nsubuga,Amoxicillin,Infection,Bacterial,3,12/30/2021,Wet
+Felix Nakirya,Paracetamol,Fever,Influenza,1,12/3/2021,Wet
+Fiona Namutebi,Amoxicillin,Infection,Bacterial,10,12/1/2021,Wet
+Florence Ssemwanga,Ibuprofen,Pain,Migraine,9,12/29/2021,Wet
+Frank Nakato,Metformin,Diabetes,Type 1,7,12/5/2021,Wet
+Frederick Nsubuga,Amoxicillin,Infection,Bacterial,1,12/12/2021,Wet
+Gabriella Nakirya,Paracetamol,Fever,Influenza,4,12/24/2021,Wet
+George Namutebi,Amoxicillin,Infection,Capsule,1,12/7/2021,Wet
+Gladys Nakalemba,Ibuprofen,Pain,Migraine,7,12/12/2021,Wet
+Gloria Nsubuga,Metformin,Diabetes,Type 1,6,12/30/2021,Wet
+Grace Kasozi,Amoxicillin,Infection,Bacterial,1,12/17/2021,Wet
+Adongo Miriam,Omeprazole,Pain,future,2,1/1/2022,Wet
+Bakari Isaac,Paracetamol,Fever,painting,3,1/2/2022,Wet
+Chirwa Grace,Metformin,Diabetes,value,2,1/3/2022,Wet
+Dongo Samuel,Hydroxychloroquine,Malaria,knowledge,3,1/4/2022,Wet
+Ekitama Ruth,Amoxicillin,Infection,Bacterial,2,1/5/2022,Wet
+Faye Joan,Ibuprofen,Pain,Migraine,3,1/6/2022,Wet
+Gama Frank,Ciprofloxacin,Infection,Bacterial,2,1/7/2022,Wet
+Hilda Nansubuga,Amlodipine,Hypertension,Chronic,3,1/8/2022,Wet
+Isaac Ochieng,Simvastatin,Cholesterol,High,2,1/9/2022,Wet
+Jane Kamoga,Cetirizine,Allergy,Seasonal,3,1/10/2022,Wet
+Kasirye Kevin,Omeprazole,Pain,future,2,1/11/2022,Wet
+Lameck Mwebaze,Paracetamol,Fever,painting,3,1/12/2022,Wet
+Mary Nakimera,Metformin,Diabetes,value,2,1/13/2022,Wet
+Mwesigwa James,Hydroxychloroquine,Malaria,knowledge,3,1/14/2022,Wet
+Nabuuma Helen,Amoxicillin,Infection,Bacterial,2,1/15/2022,Wet
+Nandala Peter,Ibuprofen,Pain,Migraine,3,1/16/2022,Wet
+Nabirye Ruth,Ciprofloxacin,Infection,Bacterial,2,1/17/2022,Wet
+Namara Peter,Amlodipine,Hypertension,Chronic,3,1/18/2022,Wet
+Nassuuna Sarah,Simvastatin,Cholesterol,High,2,1/19/2022,Wet
+Ndayize Esther,Cetirizine,Allergy,Seasonal,3,1/20/2022,Wet
+Ochieng Paul,Omeprazole,Pain,future,2,1/21/2022,Wet
+Okello Susan,Paracetamol,Fever,painting,3,1/22/2022,Wet
+Angela Grace,Metformin,Diabetes,value,2,2/1/2022,Wet
+Babirye Joseph,Hydroxychloroquine,Malaria,knowledge,3,2/2/2022,Wet
+Basheka Ruth,Amoxicillin,Infection,Bacterial,2,2/3/2022,Wet
+Kato Ronald,Ibuprofen,Pain,Migraine,3,2/4/2022,Wet
+Katumba James,Ciprofloxacin,Infection,Bacterial,2,2/5/2022,Wet
+Kato Aisha,Amlodipine,Hypertension,Chronic,3,2/6/2022,Wet
+Kibuuka Henry,Simvastatin,Cholesterol,High,2,2/7/2022,Wet
+Kyeyune David,Cetirizine,Allergy,Seasonal,3,2/8/2022,Wet
+Lira Judith,Omeprazole,Pain,future,2,2/9/2022,Wet
+Lule Isaac,Paracetamol,Fever,painting,3,2/10/2022,Wet
+Mabuza Samuel,Metformin,Diabetes,value,2,2/11/2022,Wet
+Maureen Grace,Hydroxychloroquine,Malaria,knowledge,3,2/12/2022,Wet
+Mupere Isaac,Amoxicillin,Infection,Bacterial,2,2/13/2022,Wet
+Nakyejwe Sarah,Ibuprofen,Pain,Migraine,3,2/14/2022,Wet
+Nabwana Richard,Ciprofloxacin,Infection,Bacterial,2,2/15/2022,Wet
+Natukunda Ruth,Amlodipine,Hypertension,Chronic,3,2/16/2022,Wet
+Nduhura Janet,Simvastatin,Cholesterol,High,2,2/17/2022,Wet
+Nsubuga Paul,Cetirizine,Allergy,Seasonal,3,2/18/2022,Wet
+Okello Christine,Omeprazole,Pain,future,2,2/19/2022,Wet
+Omony Judith,Paracetamol,Fever,painting,3,2/20/2022,Wet
+Aisha Grace,Metformin,Diabetes,value,2,3/1/2022,Wet
+Anita Judith,Hydroxychloroquine,Malaria,knowledge,3,3/2/2022,Wet
+Bukenya Isaac,Amoxicillin,Infection,Bacterial,2,3/3/2022,Wet
+Doreen Ruth,Ibuprofen,Pain,Migraine,3,3/4/2022,Wet
+Farida Grace,Ciprofloxacin,Infection,Bacterial,2,3/5/2022,Wet
+Grace Nansubuga,Amlodipine,Hypertension,Chronic,3,3/6/2022,Wet
+Jalia Namatovu,Simvastatin,Cholesterol,High,2,3/7/2022,Wet
+Joan Nakirya,Cetirizine,Allergy,Seasonal,3,3/8/2022,Wet
+Kabengezi Helen,Omeprazole,Pain,future,2,3/9/2022,Wet
+Kato Robert,Paracetamol,Fever,painting,3,3/10/2022,Wet
+Kato Joy,Metformin,Diabetes,value,2,3/11/2022,Wet
+Kibuuka David,Hydroxychloroquine,Malaria,knowledge,3,3/12/2022,Wet
+Kyeyune Joan,Amoxicillin,Infection,Bacterial,2,3/13/2022,Wet
+Lameck Jane,Ibuprofen,Pain,Migraine,3,3/14/2022,Wet
+Masebo Samuel,Ciprofloxacin,Infection,Bacterial,2,3/15/2022,Wet
+Musinguzi Peter,Amlodipine,Hypertension,Chronic,3,3/16/2022,Wet
+Nakayiza Joan,Simvastatin,Cholesterol,High,2,3/17/2022,Wet
+Nassuna Ruth,Cetirizine,Allergy,Seasonal,3,3/18/2022,Wet
+Omony Christine,Omeprazole,Pain,future,2,3/19/2022,Wet
+Omoding Betty,Paracetamol,Fever,painting,3,3/20/2022,Wet
+Akinyi Grace,Metformin,Diabetes,value,2,4/1/2022,Wet
+Babirye Helen,Hydroxychloroquine,Malaria,knowledge,3,4/2/2022,Wet
+Bukenya Ruth,Amoxicillin,Infection,Bacterial,2,4/3/2022,Wet
+Doreen Grace,Ibuprofen,Pain,Migraine,3,4/4/2022,Wet
+Farida Jane,Ciprofloxacin,Infection,Bacterial,2,4/5/2022,Wet
+Grace Nakimera,Amlodipine,Hypertension,Chronic,3,4/6/2022,Wet
+Jalia Namatovu,Simvastatin,Cholesterol,High,2,4/7/2022,Wet
+Joan Nakirya,Cetirizine,Allergy,Seasonal,3,4/8/2022,Wet
+Kabengezi Janet,Omeprazole,Pain,future,2,4/9/2022,Wet
+Kato Ronald,Paracetamol,Fever,painting,3,4/10/2022,Wet
+Kato Grace,Metformin,Diabetes,value,2,4/11/2022,Wet
+Kibuuka Isaac,Hydroxychloroquine,Malaria,knowledge,3,4/12/2022,Wet
+Kyeyune Joan,Amoxicillin,Infection,Bacterial,2,4/13/2022,Wet
+Lameck Jane,Ibuprofen,Pain,Migraine,3,4/14/2022,Wet
+Masebo Isaac,Ciprofloxacin,Infection,Bacterial,2,4/15/2022,Wet
+Musinguzi Ruth,Amlodipine,Hypertension,Chronic,3,4/16/2022,Wet
+Nakayiza Joan,Simvastatin,Cholesterol,High,2,4/17/2022,Wet
+Nassuna Sarah,Cetirizine,Allergy,Seasonal,3,4/18/2022,Wet
+Omony Christine,Omeprazole,Pain,future,2,4/19/2022,Wet
+Omoding Betty,Paracetamol,Fever,painting,3,4/20/2022,Wet
+Akinyi Grace,Metformin,Diabetes,value,2,5/1/2022,Dry
+Babirye Helen,Hydroxychloroquine,Malaria,knowledge,3,5/2/2022,Dry
+Bukenya Ruth,Amoxicillin,Infection,Bacterial,2,5/3/2022,Dry
+Doreen Grace,Ibuprofen,Pain,Migraine,3,5/4/2022,Dry
+Farida Jane,Ciprofloxacin,Infection,Bacterial,2,5/5/2022,Dry
+Grace Nakimera,Amlodipine,Hypertension,Chronic,3,5/6/2022,Dry
+Jalia Namatovu,Simvastatin,Cholesterol,High,2,5/7/2022,Dry
+Joan Nakirya,Cetirizine,Allergy,Seasonal,3,5/8/2022,Dry
+Kabengezi Janet,Omeprazole,Pain,future,2,5/9/2022,Dry
+Kato Ronald,Paracetamol,Fever,painting,3,5/10/2022,Dry
+Kato Grace,Metformin,Diabetes,value,2,6/11/2022,Dry
+Kibuuka Isaac,Hydroxychloroquine,Malaria,knowledge,3,6/12/2022,Dry
+Kyeyune Joan,Amoxicillin,Infection,Bacterial,2,6/13/2022,Dry
+Lameck Jane,Ibuprofen,Pain,Migraine,3,6/14/2022,Dry
+Masebo Isaac,Ciprofloxacin,Infection,Bacterial,2,6/15/2022,Dry
+Musinguzi Ruth,Amlodipine,Hypertension,Chronic,3,6/16/2022,Dry
+Nakayiza Joan,Simvastatin,Cholesterol,High,2,6/17/2022,Dry
+Nassuna Sarah,Cetirizine,Allergy,Seasonal,3,6/18/2022,Dry
+Omony Christine,Omeprazole,Pain,future,2,6/19/2022,Dry
+Omoding Betty,Paracetamol,Fever,painting,3,6/20/2022,Dry
+Akinyi Grace,Metformin,Diabetes,value,2,7/1/2022,Dry
+Babirye Helen,Hydroxychloroquine,Malaria,knowledge,3,7/2/2022,Dry
+Bukenya Ruth,Amoxicillin,Infection,Bacterial,2,7/3/2022,Dry
+Doreen Grace,Ibuprofen,Pain,Migraine,3,7/4/2022,Dry
+Farida Jane,Ciprofloxacin,Infection,Bacterial,2,7/5/2022,Dry
+Grace Nakimera,Amlodipine,Hypertension,Chronic,3,7/6/2022,Dry
+Abbo Samuel,Omeprazole,Pain,future,2,8/1/2022,Wet
+Adama Aisha,Paracetamol,Fever,painting,3,8/2/2022,Wet
+Agaba Richard,Metformin,Diabetes,value,2,8/3/2022,Wet
+Aisha Zahara,Hydroxychloroquine,Malaria,knowledge,3,8/4/2022,Wet
+Aketch Christine,Amoxicillin,Infection,Bacterial,2,8/5/2022,Wet
+Alex Kato,Ibuprofen,Pain,Migraine,3,8/6/2022,Wet
+Anita Nabirye,Ciprofloxacin,Infection,Bacterial,2,8/7/2022,Wet
+Asuman Juma,Amlodipine,Hypertension,Chronic,3,8/8/2022,Wet
+Basama Jane,Simvastatin,Cholesterol,High,2,8/9/2022,Wet
+Betty Nanfuka,Cetirizine,Allergy,Seasonal,3,8/10/2022,Wet
+Bosco Ssekitoleko,Omeprazole,Pain,future,2,8/11/2022,Wet
+Charles Kizza,Paracetamol,Fever,painting,3,8/12/2022,Wet
+Daniel Tumwine,Metformin,Diabetes,value,2,8/13/2022,Wet
+Dorothy Kabatale,Hydroxychloroquine,Malaria,knowledge,3,8/14/2022,Wet
+Edith Nankunda,Amoxicillin,Infection,Bacterial,2,8/15/2022,Wet
+Edward Nsubuga,Ibuprofen,Pain,Migraine,3,8/16/2022,Wet
+Eroni Kasolo,Ciprofloxacin,Infection,Bacterial,2,8/17/2022,Wet
+Faiza Ali,Amlodipine,Hypertension,Chronic,3,8/18/2022,Wet
+Francis Nsubuga,Simvastatin,Cholesterol,High,2,8/19/2022,Wet
+Gerald Kato,Cetirizine,Allergy,Seasonal,3,8/20/2022,Wet
+Hajara Nansubuga,Omeprazole,Pain,future,2,8/21/2022,Wet
+Ivan Ssekitoleko,Paracetamol,Fever,painting,3,8/22/2022,Wet
+Jane Namukasa,Metformin,Diabetes,value,2,9/1/2022,Wet
+Joan Kato,Hydroxychloroquine,Malaria,knowledge,3,9/2/2022,Wet
+Josephine Namasasu,Amoxicillin,Infection,Bacterial,2,9/3/2022,Wet
+Kato Ali,Ibuprofen,Pain,Migraine,3,9/4/2022,Wet
+Kizza Jackson,Ciprofloxacin,Infection,Bacterial,2,9/5/2022,Wet
+Latif Nsubuga,Amlodipine,Hypertension,Chronic,3,9/6/2022,Wet
+Lydia Kato,Simvastatin,Cholesterol,High,2,9/7/2022,Wet
+Margaret Nabirye,Cetirizine,Allergy,Seasonal,3,9/8/2022,Wet
+Mark Okwir,Omeprazole,Pain,future,2,9/9/2022,Wet
+Mary Kasolo,Paracetamol,Fever,painting,3,9/10/2022,Wet
+Moses Tumwine,Metformin,Diabetes,value,2,9/11/2022,Wet
+Namatovu Ruth,Hydroxychloroquine,Malaria,knowledge,3,9/12/2022,Wet
+Nasur Ali,Amoxicillin,Infection,Bacterial,2,9/13/2022,Wet
+Peter Ssekitoleko,Ibuprofen,Pain,Migraine,3,9/14/2022,Wet
+Rahma Jane,Ciprofloxacin,Infection,Bacterial,2,9/15/2022,Wet
+Rashid Kato,Amlodipine,Hypertension,Chronic,3,9/16/2022,Wet
+Juliet Kibuuka,Ciprofloxacin,Infection,Bacterial,2,10/15/2022,Wet
+Julius Kato,Amlodipine,Hypertension,Chronic,3,10/16/2022,Wet
+Laura Namatovu,Simvastatin,Cholesterol,High,2,10/17/2022,Wet
+Lydia Tumwine,Cetirizine,Allergy,Seasonal,3,10/18/2022,Wet
+Michael Nsubuga,Omeprazole,Pain,future,2,10/19/2022,Wet
+Miriam Kato,Paracetamol,Fever,painting,3,10/20/2022,Wet
+Moses Kasolo,Metformin,Diabetes,value,2,10/21/2022,Wet
+Nathan Namatovu,Hydroxychloroquine,Malaria,knowledge,3,10/22/2022,Wet
+Patricia Kibuuka,Amoxicillin,Infection,Bacterial,2,10/23/2022,Wet
+Peter Tumwine,Ibuprofen,Pain,Migraine,3,10/24/2022,Wet
+Rebecca Nsubuga,Ciprofloxacin,Infection,Bacterial,2,10/25/2022,Wet
+Samuel Kato,Amlodipine,Hypertension,Chronic,3,10/26/2022,Wet
+Sarah Kasolo,Simvastatin,Cholesterol,High,2,10/27/2022,Wet
+Simon Nsubuga,Cetirizine,Allergy,Seasonal,3,10/28/2022,Wet
+Stella Kibuuka,Omeprazole,Pain,future,2,10/29/2022,Wet
+Susan Tumwine,Paracetamol,Fever,painting,3,10/30/2022,Wet
+Agnes Namatovu,Metformin,Diabetes,value,2,11/1/2022,Wet
+Alex Kato,Hydroxychloroquine,Malaria,knowledge,3,11/2/2022,Wet
+Annette Kasolo,Amoxicillin,Infection,Bacterial,2,11/3/2022,Wet
+Brian Nsubuga,Ibuprofen,Pain,Migraine,3,11/4/2022,Wet
+Brenda Kibuuka,Ciprofloxacin,Infection,Bacterial,2,11/5/2022,Wet
+Charles Tumwine,Amlodipine,Hypertension,Chronic,3,11/6/2022,Wet
+Diana Namatovu,Simvastatin,Cholesterol,High,2,11/7/2022,Wet
+Emmanuel Kato,Cetirizine,Allergy,Seasonal,3,11/8/2022,Wet
+Esther Tumwine,Omeprazole,Pain,future,2,11/9/2022,Wet
+Freda Kasolo,Paracetamol,Fever,painting,3,11/10/2022,Wet
+George Nsubuga,Metformin,Diabetes,value,2,11/11/2022,Wet
+Grace Kibuuka,Hydroxychloroquine,Malaria,knowledge,3,11/12/2022,Wet
+Joseph Kato,Amoxicillin,Infection,Bacterial,2,11/13/2022,Wet
+Judith Tumwine,Ibuprofen,Pain,Migraine,3,11/14/2022,Wet
+Kato Farouk,Ciprofloxacin,Infection,Bacterial,2,11/15/2022,Wet
+Lydia Nsubuga,Amlodipine,Hypertension,Chronic,3,11/16/2022,Wet
+Michael Kasolo,Simvastatin,Cholesterol,High,2,11/17/2022,Wet
+Pamela Namatovu,Cetirizine,Allergy,Seasonal,3,11/18/2022,Wet
+Paul Tumwine,Omeprazole,Pain,future,2,11/19/2022,Wet
+Rachel Kato,Paracetamol,Fever,painting,3,11/20/2022,Wet
+Rebecca Nsubuga,Metformin,Diabetes,value,2,11/21/2022,Wet
+Richard Kibuuka,Hydroxychloroquine,Malaria,knowledge,3,11/22/2022,Wet
+Rita Tumwine,Amoxicillin,Infection,Bacterial,2,11/23/2022,Wet
+Robert Namatovu,Ibuprofen,Pain,Migraine,3,11/24/2022,Wet
+Ruth Kato,Ciprofloxacin,Infection,Bacterial,2,11/25/2022,Wet
+Sarah Kasolo,Amlodipine,Hypertension,Chronic,3,11/26/2022,Wet
+Solomon Nsubuga,Simvastatin,Cholesterol,High,2,11/27/2022,Wet
+Susan Tumwine,Cetirizine,Allergy,Seasonal,3,11/28/2022,Wet
+Vincent Kato,Omeprazole,Pain,future,2,11/29/2022,Wet
+Abigail Namatovu,Metformin,Diabetes,value,2,12/1/2022,Dry
+Amos Kato,Hydroxychloroquine,Malaria,knowledge,3,12/2/2022,Dry
+Anita Kasolo,Amoxicillin,Infection,Bacterial,2,12/3/2022,Dry
+Brian Nsubuga,Ibuprofen,Pain,Migraine,3,12/4/2022,Dry
+Brenda Kibuuka,Ciprofloxacin,Infection,Bacterial,2,12/5/2022,Dry
+Charles Tumwine,Amlodipine,Hypertension,Chronic,3,12/6/2022,Dry
+Diana Namatovu,Simvastatin,Cholesterol,High,2,12/7/2022,Dry
+Emmanuel Kato,Cetirizine,Allergy,Seasonal,3,12/8/2022,Dry
+Esther Tumwine,Omeprazole,Pain,future,2,12/9/2022,Dry
+Grace Kibuuka,Hydroxychloroquine,Malaria,knowledge,3,12/12/2022,Dry
+Joseph Kato,Amoxicillin,Infection,Bacterial,2,12/13/2022,Dry
+Judith Tumwine,Ibuprofen,Pain,Migraine,3,12/14/2022,Dry
+Kato Farouk,Ciprofloxacin,Infection,Bacterial,2,12/15/2022,Dry
+Lydia Nsubuga,Amlodipine,Hypertension,Chronic,3,12/16/2022,Dry
+Michael Kasolo,Simvastatin,Cholesterol,High,2,12/17/2022,Dry
+Pamela Namatovu,Cetirizine,Allergy,Seasonal,3,12/18/2022,Dry
+Paul Tumwine,Omeprazole,Pain,future,2,12/19/2022,Dry
+Rachel Kato,Paracetamol,Fever,painting,3,12/20/2022,Dry
+Rebecca Nsubuga,Metformin,Diabetes,value,2,12/21/2022,Dry
+Richard Kibuuka,Hydroxychloroquine,Malaria,knowledge,3,12/22/2022,Dry
+Rita Tumwine,Amoxicillin,Infection,Bacterial,2,12/23/2022,Dry
+Robert Namatovu,Ibuprofen,Pain,Migraine,3,12/24/2022,Dry
+Ruth Kato,Ciprofloxacin,Infection,Bacterial,2,12/25/2022,Dry
+Sarah Kasolo,Amlodipine,Hypertension,Chronic,3,12/26/2022,Dry
+Solomon Nsubuga,Simvastatin,Cholesterol,High,2,12/27/2022,Dry
+Susan Tumwine,Cetirizine,Allergy,Seasonal,3,12/28/2022,Dry
+Vincent Kato,Omeprazole,Pain,future,2,12/29/2022,Dry
+William Nsubuga,Paracetamol,Fever,painting,3,12/30/2022,Dry
+Homas Mata,Omeprazole,Pain,future,6,1/1/2023,Dry
+Megan Ortega,Paracetamol,Fever,painting,1,1/1/2023,Dry
+Melissa Pham,Metformin,Diabetes,value,30,1/1/2023,Dry
+Courtney Richardson,Metformin,Diabetes,policy,25,1/1/2023,Dry
+Elizabeth Nicholson,Hydroxychloroquine,Malaria,knowledge,2,1/1/2023,Dry
+Thomas Kato,Paracetamol,Fever,Influenza,2,1/5/2023,Dry
+Sarah Nakato,Amoxicillin,Infection,Bacterial,12,1/7/2023,Dry
+Michael Okello,Ibuprofen,Pain,Migraine,8,1/10/2023,Dry
+David Mugisha,Ciprofloxacin,Infection,Bacterial,10,1/12/2023,Dry
+Elizabeth Namaganda,Metformin,Diabetes,Type 2,15,1/15/2023,Dry
+John Kyambadde,Amlodipine,Hypertension,Chronic,3,1/18/2023,Dry
+Grace Kintu,Omeprazole,Acidity,GERD,22,1/20/2023,Dry
+Robert Semanda,Simvastatin,Cholesterol,High,18,1/23/2023,Dry
+Anna Nabukenya,Hydroxychloroquine,Malaria,Acute,25,1/25/2023,Dry
+James Katende,Cetirizine,Allergy,Seasonal,7,1/28/2023,Dry
+Josephine Mukasa,Paracetamol,Fever,Common Cold,3,1/30/2023,Dry
+Kevin Mutebi,Amoxicillin,Infection,Viral,13,1/31/2023,Dry
+Harriet Namuli,Ibuprofen,Pain,Headache,11,2/2/2023,Wet
+Andrew Kagimu,Ciprofloxacin,Infection,Urinary,10,2/5/2023,Wet
+Doreen Muwonge,Metformin,Diabetes,Type 1,14,2/8/2023,Wet
+Irene Nantongo,Amlodipine,Hypertension,Essential,21,2/10/2023,Wet
+Peter Lukwago,Omeprazole,Acidity,Ulcer,23,2/13/2023,Wet
+Rachel Busingye,Simvastatin,Cholesterol,Familial,16,2/15/2023,Wet
+Steven Tumusiime,Hydroxychloroquine,Malaria,Complicated,24,2/18/2023,Wet
+Janet Nakabugo,Cetirizine,Allergy,Food,6,2/20/2023,Wet
+Paul Lwanga,Paracetamol,Fever,Influenza,5,2/23/2023,Wet
+Mary Kalungi,Amoxicillin,Infection,Bacterial,12,2/25/2023,Wet
+Tony Kamya,Ibuprofen,Pain,Migraine,10,2/28/2023,Wet
+Brenda Nansubuga,Ciprofloxacin,Infection,Respiratory,9,3/3/2023,Wet
+Fred Nsubuga,Metformin,Diabetes,Type 2,13,3/5/2023,Wet
+Angela Nakato,Amlodipine,Hypertension,Secondary,19,3/8/2023,Wet
+Simon Kato,Omeprazole,Acidity,GERD,22,3/10/2023,Wet
+Viola Nabirye,Simvastatin,Cholesterol,High,18,3/13/2023,Wet
+Henry Nsubuga,Hydroxychloroquine,Malaria,Chronic,20,3/15/2023,Wet
+Stella Nabukalu,Cetirizine,Allergy,Seasonal,7,3/18/2023,Wet
+Martin Kintu,Paracetamol,Fever,Common Cold,8,3/20/2023,Wet
+Lucy Namwanje,Amoxicillin,Infection,Viral,14,3/23/2023,Wet
+Edwin Kasirye,Ibuprofen,Pain,Headache,12,3/25/2023,Wet
+Agnes Nakazzi,Ciprofloxacin,Infection,Urinary,11,3/28/2023,Wet
+Sam Kamya,Metformin,Diabetes,Type 1,15,3/30/2023,Wet
+Susan Namugenyi,Amlodipine,Hypertension,Essential,20,4/2/2023,Dry
+Brian Kakooza,Omeprazole,Acidity,Ulcer,24,4/5/2023,Dry
+Irene Namakula,Simvastatin,Cholesterol,Familial,19,4/7/2023,Dry
+Mark Kato,Hydroxychloroquine,Malaria,Complicated,21,4/10/2023,Dry
+Alice Nakatudde,Cetirizine,Allergy,Food,9,4/12/2023,Dry
+Julius Kiggundu,Paracetamol,Fever,Influenza,7,4/15/2023,Dry
+Nancy Namirembe,Amoxicillin,Infection,Bacterial,11,4/18/2023,Dry
+Michael Mukasa,Ibuprofen,Pain,Migraine,10,4/20/2023,Dry
+Diana Nakazzi,Ciprofloxacin,Infection,Respiratory,12,4/23/2023,Dry
+George Kalungi,Metformin,Diabetes,Type 2,16,4/25/2023,Dry
+Rebecca Namubiru,Amlodipine,Hypertension,Secondary,18,4/28/2023,Dry
+Paul Katumba,Omeprazole,Acidity,GERD,21,5/1/2023,Dry
+Rose Nambogo,Simvastatin,Cholesterol,High,22,5/3/2023,Dry
+Chris Ssekitto,Hydroxychloroquine,Malaria,Chronic,23,5/6/2023,Dry
+Jane Nakitende,Cetirizine,Allergy,Seasonal,10,5/8/2023,Dry
+Martin Mugwanya,Paracetamol,Fever,Common Cold,9,5/10/2023,Dry
+Alice Nanyonjo,Amoxicillin,Infection,Viral,15,5/13/2023,Dry
+Andrew Namuli,Ibuprofen,Pain,Headache,11,5/15/2023,Dry
+Thomas Mutebi,Ciprofloxacin,Infection,Urinary,13,5/18/2023,Dry
+Grace Nambiru,Metformin,Diabetes,Type 1,17,5/20/2023,Dry
+David Kato,Amlodipine,Hypertension,Essential,22,5/23/2023,Dry
+Susan Namulondo,Omeprazole,Acidity,Ulcer,19,5/25/2023,Dry
+Paul Ssewagaba,Simvastatin,Cholesterol,Familial,18,5/28/2023,Dry
+Helen Katongole,Hydroxychloroquine,Malaria,Complicated,21,5/30/2023,Dry
+Brenda Namakula,Paracetamol,Fever,Common Cold,8,6/2/2023,Dry
+Josephine Mukasa,Amoxicillin,Infection,Bacterial,12,6/4/2023,Dry
+Edward Tumusiime,Ibuprofen,Pain,Headache,10,6/7/2023,Dry
+Ronald Kyambadde,Ciprofloxacin,Infection,Respiratory,9,6/9/2023,Dry
+Grace Kintu,Metformin,Diabetes,Type 2,13,6/11/2023,Dry
+Robert Semanda,Amlodipine,Hypertension,Chronic,18,6/14/2023,Dry
+Anna Nabukenya,Omeprazole,Acidity,GERD,22,6/16/2023,Dry
+James Katende,Simvastatin,Cholesterol,High,19,6/19/2023,Dry
+Josephine Kagaba,Hydroxychloroquine,Malaria,Acute,20,6/21/2023,Dry
+James Katamba,Cetirizine,Allergy,Seasonal,7,6/23/2023,Dry
+Paul Kalungi,Paracetamol,Fever,Influenza,6,6/26/2023,Dry
+Mary Kato,Amoxicillin,Infection,Bacterial,14,6/28/2023,Dry
+Tony Kamya,Ibuprofen,Pain,Migraine,12,6/30/2023,Dry
+Brenda Nansubuga,Ciprofloxacin,Infection,Urinary,11,7/2/2023,Wet
+Fred Nsubuga,Metformin,Diabetes,Type 1,15,7/4/2023,Wet
+Angela Nakato,Amlodipine,Hypertension,Secondary,19,7/6/2023,Wet
+Simon Kato,Omeprazole,Acidity,GERD,22,7/8/2023,Wet
+Viola Nabirye,Simvastatin,Cholesterol,High,18,7/11/2023,Wet
+Henry Nsubuga,Hydroxychloroquine,Malaria,Chronic,20,7/13/2023,Wet
+Stella Nabukalu,Cetirizine,Allergy,Seasonal,7,7/15/2023,Wet
+Martin Kintu,Paracetamol,Fever,Common Cold,8,7/17/2023,Wet
+Lucy Namwanje,Amoxicillin,Infection,Viral,14,7/19/2023,Wet
+Edwin Kasirye,Ibuprofen,Pain,Headache,12,7/21/2023,Wet
+Agnes Nakazzi,Ciprofloxacin,Infection,Urinary,11,7/23/2023,Wet
+Sam Kamya,Metformin,Diabetes,Type 1,15,7/25/2023,Wet
+Susan Namugenyi,Amlodipine,Hypertension,Essential,20,7/27/2023,Wet
+Brian Kakooza,Omeprazole,Acidity,Ulcer,24,7/29/2023,Wet
+Irene Namakula,Simvastatin,Cholesterol,Familial,19,7/31/2023,Wet
+Mark Kato,Hydroxychloroquine,Malaria,Complicated,21,8/2/2023,Wet
+Alice Nakatudde,Cetirizine,Allergy,Food,9,8/4/2023,Wet
+Julius Kiggundu,Paracetamol,Fever,Influenza,7,8/6/2023,Wet
+Nancy Namirembe,Amoxicillin,Infection,Bacterial,11,8/8/2023,Wet
+Michael Mukasa,Ibuprofen,Pain,Migraine,10,8/10/2023,Wet
+Diana Nakazzi,Ciprofloxacin,Infection,Respiratory,12,8/12/2023,Wet
+George Kalungi,Metformin,Diabetes,Type 2,16,8/14/2023,Wet
+Rebecca Namubiru,Amlodipine,Hypertension,Secondary,18,8/16/2023,Wet
+Paul Katumba,Omeprazole,Acidity,GERD,21,8/18/2023,Wet
+Rose Nambogo,Simvastatin,Cholesterol,High,22,8/20/2023,Wet
+Chris Ssekitto,Hydroxychloroquine,Malaria,Chronic,23,8/22/2023,Wet
+Jane Nakitende,Cetirizine,Allergy,Seasonal,10,8/24/2023,Wet
+Martin Mugwanya,Paracetamol,Fever,Common Cold,9,8/26/2023,Wet
+Alice Nanyonjo,Amoxicillin,Infection,Viral,15,8/28/2023,Wet
+Andrew Namuli,Ibuprofen,Pain,Headache,11,8/30/2023,Wet
+Thomas Mutebi,Ciprofloxacin,Infection,Urinary,13,9/1/2023,Dry
+Grace Nambiru,Metformin,Diabetes,Type 1,17,9/3/2023,Dry
+David Kato,Amlodipine,Hypertension,Essential,22,9/5/2023,Dry
+Susan Namulondo,Omeprazole,Acidity,Ulcer,19,9/7/2023,Dry
+Paul Ssewagaba,Simvastatin,Cholesterol,Familial,18,9/9/2023,Dry
+Helen Katongole,Hydroxychloroquine,Malaria,Complicated,21,9/11/2023,Dry
+Brenda Namakula,Paracetamol,Fever,Common Cold,8,9/13/2023,Dry
+Josephine Mukasa,Amoxicillin,Infection,Bacterial,12,9/15/2023,Dry
+Edward Tumusiime,Ibuprofen,Pain,Headache,10,9/17/2023,Dry
+Ronald Kyambadde,Ciprofloxacin,Infection,Respiratory,9,9/19/2023,Dry
+Grace Kintu,Metformin,Diabetes,Type 2,13,9/21/2023,Dry
+Robert Semanda,Amlodipine,Hypertension,Chronic,18,9/23/2023,Dry
+Anna Nabukenya,Omeprazole,Acidity,GERD,22,9/25/2023,Dry
+James Katende,Simvastatin,Cholesterol,High,19,9/27/2023,Dry
+Josephine Kagaba,Hydroxychloroquine,Malaria,Acute,20,9/29/2023,Dry
+James Katamba,Cetirizine,Allergy,Seasonal,7,10/1/2023,Wet
+Paul Kalungi,Paracetamol,Fever,Influenza,6,10/3/2023,Wet
+Mary Kato,Amoxicillin,Infection,Bacterial,14,10/5/2023,Wet
+Tony Kamya,Ibuprofen,Pain,Migraine,12,10/7/2023,Wet
+Brenda Nansubuga,Ciprofloxacin,Infection,Urinary,11,10/9/2023,Wet
+Fred Nsubuga,Metformin,Diabetes,Type 1,15,10/11/2023,Wet
+Angela Nakato,Amlodipine,Hypertension,Secondary,19,10/13/2023,Wet
+Simon Kato,Omeprazole,Acidity,GERD,22,10/15/2023,Wet
+Viola Nabirye,Simvastatin,Cholesterol,High,18,10/17/2023,Wet
+Henry Nsubuga,Hydroxychloroquine,Malaria,Chronic,20,10/19/2023,Wet
+Stella Nabukalu,Cetirizine,Allergy,Seasonal,7,10/21/2023,Wet
+Martin Kintu,Paracetamol,Fever,Common Cold,8,10/23/2023,Wet
+Lucy Namwanje,Amoxicillin,Infection,Viral,14,10/25/2023,Wet
+Edwin Kasirye,Ibuprofen,Pain,Headache,12,10/27/2023,Wet
+Agnes Nakazzi,Ciprofloxacin,Infection,Urinary,11,10/29/2023,Wet
+Sam Kamya,Metformin,Diabetes,Type 1,15,11/1/2023,Wet
+Susan Namugenyi,Amlodipine,Hypertension,Essential,20,11/3/2023,Wet
+Brian Kakooza,Omeprazole,Acidity,Ulcer,24,11/5/2023,Wet
+Irene Namakula,Simvastatin,Cholesterol,Familial,19,11/7/2023,Wet
+Mark Kato,Hydroxychloroquine,Malaria,Complicated,21,11/9/2023,Wet
+Alice Nakatudde,Cetirizine,Allergy,Food,9,11/11/2023,Wet
+Julius Kiggundu,Paracetamol,Fever,Influenza,7,11/13/2023,Wet
+Nancy Namirembe,Amoxicillin,Infection,Bacterial,11,11/15/2023,Wet
+Michael Mukasa,Ibuprofen,Pain,Migraine,10,11/17/2023,Wet
+Diana Nakazzi,Ciprofloxacin,Infection,Respiratory,12,11/19/2023,Wet
+George Kalungi,Metformin,Diabetes,Type 2,16,11/21/2023,Wet
+Rebecca Namubiru,Amlodipine,Hypertension,Secondary,18,11/23/2023,Wet
+Paul Katumba,Omeprazole,Acidity,GERD,21,11/25/2023,Wet
+Rose Nambogo,Simvastatin,Cholesterol,High,22,11/27/2023,Wet
+Chris Ssekitto,Hydroxychloroquine,Malaria,Chronic,23,11/29/2023,Wet
+Jane Nakitende,Cetirizine,Allergy,Seasonal,10,12/1/2023,Wet
+Martin Mugwanya,Paracetamol,Fever,Common Cold,9,12/3/2023,Wet
+Alice Nanyonjo,Amoxicillin,Infection,Viral,15,12/5/2023,Wet
+Andrew Namuli,Ibuprofen,Pain,Headache,11,12/7/2023,Wet
+Thomas Mutebi,Ciprofloxacin,Infection,Urinary,13,12/9/2023,Wet
+Grace Nambiru,Metformin,Diabetes,Type 1,17,12/11/2023,Wet
+David Kato,Amlodipine,Hypertension,Essential,22,12/13/2023,Wet
+Susan Namulondo,Omeprazole,Acidity,Ulcer,19,12/15/2023,Wet
+Paul Ssewagaba,Simvastatin,Cholesterol,Familial,18,12/17/2023,Wet
+Helen Katongole,Hydroxychloroquine,Malaria,Complicated,21,12/19/2023,Wet
+Brenda Namakula,Paracetamol,Fever,Common Cold,8,12/21/2023,Wet
+Josephine Mukasa,Amoxicillin,Infection,Bacterial,12,12/23/2023,Wet
+Edward Tumusiime,Ibuprofen,Pain,Headache,10,12/25/2023,Wet
+Ronald Kyambadde,Ciprofloxacin,Infection,Respiratory,9,12/27/2023,Wet
+Grace Kintu,Metformin,Diabetes,Type 2,13,12/29/2023,Wet
+Robert Semanda,Amlodipine,Hypertension,Chronic,18,12/31/2023,Wet
+Anna Nabukenya,Omeprazole,Acidity,GERD,22,1/2/2024,Dry
+James Katende,Simvastatin,Cholesterol,High,19,1/4/2024,Dry
+Josephine Kagaba,Hydroxychloroquine,Malaria,Acute,20,1/6/2024,Dry
+James Katamba,Cetirizine,Allergy,Seasonal,7,1/8/2024,Dry
+Paul Kalungi,Paracetamol,Fever,Influenza,1,1/10/2024,Dry
+Mary Kato,Amoxicillin,Infection,Bacterial,14,1/12/2024,Dry
+Tony Kamya,Ibuprofen,Pain,Migraine,12,1/14/2024,Dry
+Brenda Nansubuga,Ciprofloxacin,Infection,Urinary,11,1/16/2024,Dry
+Fred Nsubuga,Metformin,Diabetes,Type 1,15,1/18/2024,Dry
+Angela Nakato,Amlodipine,Hypertension,Secondary,1,1/20/2024,Dry
+Simon Kato,Omeprazole,Acidity,GERD,22,1/22/2024,Dry
+Viola Nabirye,Simvastatin,Cholesterol,High,18,1/24/2024,Dry
+Henry Nsubuga,Hydroxychloroquine,Malaria,Chronic,20,1/26/2024,Dry
+Stella Nabukalu,Cetirizine,Allergy,Seasonal,7,1/28/2024,Dry
+Martin Kintu,Paracetamol,Fever,Common Cold,2,1/30/2024,Dry
+Lucy Namwanje,Amoxicillin,Infection,Viral,14,2/1/2024,Dry
+Edwin Kasirye,Ibuprofen,Pain,Headache,12,2/3/2024,Dry
+Agnes Nakazzi,Ciprofloxacin,Infection,Urinary,11,2/5/2024,Dry
+Sam Kamya,Metformin,Diabetes,Type 1,15,2/7/2024,Dry
+Susan Namugenyi,Amlodipine,Hypertension,Essential,20,2/9/2024,Dry
+Brian Kakooza,Omeprazole,Acidity,Ulcer,24,2/11/2024,Dry
+Irene Namakula,Simvastatin,Cholesterol,Familial,19,2/13/2024,Dry
+Mark Kato,Hydroxychloroquine,Malaria,Complicated,21,2/15/2024,Dry
+Alice Nakatudde,Cetirizine,Allergy,Food,9,2/17/2024,Dry
+Julius Kiggundu,Paracetamol,Fever,Influenza,7,2/19/2024,Dry
+Nancy Namirembe,Amoxicillin,Infection,Bacterial,11,2/21/2024,Dry
+Michael Mukasa,Ibuprofen,Pain,Migraine,10,2/23/2024,Dry
+Diana Nakazzi,Ciprofloxacin,Infection,Respiratory,12,2/25/2024,Dry
+George Kalungi,Metformin,Diabetes,Type 2,16,2/27/2024,Dry
+Rebecca Namubiru,Amlodipine,Hypertension,Secondary,18,2/29/2024,Dry
+Paul Katumba,Omeprazole,Acidity,GERD,21,3/2/2024,Wet
+Rose Nambogo,Simvastatin,Cholesterol,High,22,3/4/2024,Wet
+Chris Ssekitto,Hydroxychloroquine,Malaria,Chronic,23,3/6/2024,Wet
+Jane Nakitende,Cetirizine,Allergy,Seasonal,10,3/8/2024,Wet
+Martin Mugwanya,Paracetamol,Fever,Common Cold,9,3/10/2024,Wet
+Alice Nanyonjo,Amoxicillin,Infection,Viral,15,3/12/2024,Wet
+Andrew Namuli,Ibuprofen,Pain,Headache,11,3/14/2024,Wet
+Thomas Mutebi,Ciprofloxacin,Infection,Urinary,13,3/16/2024,Wet
+Grace Nambiru,Metformin,Diabetes,Type 1,17,3/18/2024,Wet
+David Kato,Amlodipine,Hypertension,Essential,22,3/20/2024,Wet
+Susan Namulondo,Omeprazole,Acidity,Ulcer,19,3/22/2024,Wet
+Paul Ssewagaba,Simvastatin,Cholesterol,Familial,18,3/24/2024,Wet
+Helen Katongole,Hydroxychloroquine,Malaria,Complicated,21,3/26/2024,Wet
+Brenda Namakula,Paracetamol,Fever,Common Cold,8,3/28/2024,Wet
+Josephine Mukasa,Amoxicillin,Infection,Bacterial,12,3/30/2024,Wet
+Edward Tumusiime,Ibuprofen,Pain,Headache,10,4/1/2024,Wet
+Ronald Kyambadde,Ciprofloxacin,Infection,Respiratory,9,4/3/2024,Wet
+Grace Kintu,Metformin,Diabetes,Type 2,13,4/5/2024,Wet
+Robert Semanda,Amlodipine,Hypertension,Chronic,18,4/7/2024,Wet
+Anna Nabukenya,Omeprazole,Acidity,GERD,22,4/9/2024,Wet
+James Katende,Simvastatin,Cholesterol,High,19,4/11/2024,Wet
+Josephine Kagaba,Hydroxychloroquine,Malaria,Acute,20,4/13/2024,Wet
+James Katamba,Cetirizine,Allergy,Seasonal,7,4/15/2024,Wet
+Paul Kalungi,Paracetamol,Fever,Influenza,6,4/17/2024,Wet
+Mary Kato,Amoxicillin,Infection,Bacterial,14,4/19/2024,Wet
+Tony Kamya,Ibuprofen,Pain,Migraine,12,4/21/2024,Wet
+Brenda Nansubuga,Ciprofloxacin,Infection,Urinary,11,4/23/2024,Wet
+Fred Nsubuga,Metformin,Diabetes,Type 1,15,4/25/2024,Wet
+Angela Nakato,Amlodipine,Hypertension,Secondary,19,4/27/2024,Wet
+Simon Kato,Omeprazole,Acidity,GERD,22,4/29/2024,Wet
+Viola Nabirye,Simvastatin,Cholesterol,High,18,4/30/2024,Wet
